@@ -5,18 +5,83 @@
 
 /* add custom CSS below here ---------------------------------------------- */
 
-/* general styles */
+/* 
 
-.markdown-body p{
-margin-bottom: 1px;
+markdown-collapse-arrow 
+details summary::-webkit-details-marker {
+  background: white;
+  color: black;
+  font-size: 0%;
+}
+*/
+
+
+/* markdown-collapse-arrow 
+details summary::none {
+  background: white;
+  color: black;
+  font-size: 0;
+}
+*/
+
+/*
+body, p { color:red;}
+h1 {color:green;
+line-height: 1em;
+margin-bottom: 0px;
+font-size: 10pt;
+}
+*/
+
+.markdown-body h1, {
+    font-size: 1em;
+    padding-bottom: 0.3em;
+    border-bottom: none;
 }
 
-/* date */
-code, pre{
-    color: green;
+.markdown-body h2, .markdown-body h3, .markdown-body h4{
+    font-size: 1em;
+    padding-bottom: 0.3em;
+    border-bottom: none;
+}
+
+.markdown-body p, p{
+margin-bottom: 4px;
+}
+
+/* date/indent */
+.markdown-body code, code, 
+.markdown-body samp, samp,
+.markdown-body kbd, kbd
+{
+    font-size: 1em;
     margin-right: 10px;
+    padding: .2em .4em;
     background-color: none;
+    border-radius: 3px;
+    font-size: 85%;
     border: none;
+    font-family: monospace, monospace;
+}
+
+
+
+/* date block */
+.markdown-body code, code,{
+    color: green;
+}
+/* invisible block */
+.markdown-body samp, samp
+.markdown-body pre, pre
+.markdown-body kbd, kbd
+{
+    color: white;
+}
+
+/* markdown to bold style */
+.markdown-body strong, strong{
+    color: black;
+    font-weight: 400;
 }
 
 /*  details-summary collapse style
@@ -43,7 +108,3 @@ sup {
   font-size: smaller;
     color: red; 
 }
-
-
-
-

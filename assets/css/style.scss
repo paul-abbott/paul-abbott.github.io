@@ -2,16 +2,49 @@
 ---
 
 @import "{{ site.theme }}";
-
-body {
-  color: red;
-  font-size: 8px;
+ markdown-collapse-arrow 
+details summary::-webkit-details-marker {
+  background: white;
+  color: black;
+  font-size: 0%;
 }
 
 
-/* markdown-collapse-arrow */
-details summary::-webkit-details-marker {
+/* markdown-collapse-arrow 
+details summary::none {
   background: white;
-  color: white;
-  font-size: 0%;
+  color: black;
+  font-size: 0;
+}
+*/
+
+
+body 
+
+{ color:red;
+size: 8pt;
+}
+h1 {color:green;
+line-height: 1em;
+}
+
+
+/*  details-summary collapse style
+    removes arrow
+    underline style
+*/
+
+details > summary {
+  /* padding: 2px 6px;
+  width: 15em;
+  background-color: #ddd;
+  border: none;
+  box-shadow: 3px 3px 4px black; */
+    text-decoration: underline dotted;
+  cursor: pointer;
+  list-style: none;
+}
+
+details > summary::-webkit-details-marker {
+  display: none;
 }

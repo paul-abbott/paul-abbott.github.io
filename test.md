@@ -1,17 +1,33 @@
-test
+<!--<link rel="stylesheet" type="text/css" media="all" href="scratch. css" />!-->
 
-### test collapse ###
+<link href="../scratch/scratch.css" rel="stylesheet"></link>
 
-<details>
-<summary>:heart: Thank you</summary>
+####Paul Abbott
+text
+
+**Solo Projects**
+
+14/6/19, DUCTUS, Performance, Talbot Rice Gallery, Edinburgh
+
+2019, DUCTUS. Published, Self-relesed, Solo CD / Booklet
+
+14/6/19, DUCTUS, Performance, Talbot Rice Gallery, Edinburgh 
+
+<details><summary>
+14/6/19, EXTRA INFO PROJECT, Performance, [Talbot Rice Gallery](), Edinburgh
+</summary>
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=53486902/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="http://paul-abbott.bandcamp.com/album/ductus">Ductus by Paul Abbott</a></iframe>
-![Thank you](https://camo.githubusercontent.com/4fd95715cff5db944532897c286e526780e90660/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f53396f4e4743314534325654324a527973762f67697068792e676966)
 </details> 
 
-### test iframe ###
+2019, Another no extra event, or just image below
+![SoloX](https://img.discogs.com/UaEGyXTmH5L-ChV3NnZcUnYx1uk=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-8528435-1463419989-8160.png.jpg)
 
+#table test
 
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+|  14/6/19 | Performance | Talbot Rice Gallery, Edinburgh | DUCTUS |
+| :--- | :--- | :--- | :--- |
+|  1/6/19 | Performance | Serralves Em Festa, Porto | DUCTUS |
+|  2019 | Published | Self-relesed | DUCTUS. Solo CD / Booklet |
+|  23/11/18 | Performance | DESCARNADOR 1, Smup Parede, Lisbon | *From/De/Motor/Motor/To/Para/Seed/Semente* |
+|  4/8/18 | Performance | No Noise #4, Sonoscopia, Porto | (Percebes) |
+|  2018 | Published | OTOroku Digital | Paene. Live recording from Cafe OTO, double digital release with Jake Meginsky |

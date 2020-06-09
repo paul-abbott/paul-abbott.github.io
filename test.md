@@ -28,7 +28,7 @@ Details protocol:
 <details><summary>
 <code>00/00/00</code> **DUCTUS** Solo CD & Booklet Bandcamp <sup>(+)</sup>
 </summary>
-<kbd>--------</kbd> [more info about project](http://www.google.com)
+  <kbd>--------</kbd> <a href="http://www.paulabbott.net">more info about project</a>
 </details>
 
 ```--------``` DUCTUS Performance Talbot Rice Gallery 

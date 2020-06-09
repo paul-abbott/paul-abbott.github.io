@@ -1,9 +1,8 @@
 <!--<link rel="stylesheet" type="text/css" media="all" href="scratch. css" />!-->
 
-<link href="../scratch/scratch.css" rel="stylesheet"></link>
+<!--<link href="../scratch/scratch.css" rel="stylesheet"></link>!-->
 
 ####Paul Abbott
-text
 
 **Solo Projects**
 
@@ -14,7 +13,7 @@ text
 14/6/19, DUCTUS, Performance, Talbot Rice Gallery, Edinburgh 
 
 <details><summary>
-14/6/19, EXTRA INFO PROJECT, Performance, [Talbot Rice Gallery](), Edinburgh
+14/6/19, EXTRA INFO PROJECT, Performance, [Talbot Rice Gallery](www.google.com), Edinburgh
 </summary>
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=53486902/size=large/bgcol=333333/linkcol=ffffff/tracklist=false/transparent=true/" seamless><a href="http://paul-abbott.bandcamp.com/album/ductus">Ductus by Paul Abbott</a></iframe>
 </details> 

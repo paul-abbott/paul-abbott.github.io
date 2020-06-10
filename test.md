@@ -41,9 +41,9 @@ Image link
 <kbd>--------</kbd> 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=53486902/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://paul-abbott.bandcamp.com/album/ductus">Ductus by Paul Abbott</a></iframe>
 <!-- ADD DUCTUS PDF + COVER IMAGE UPLOAD RESOURCES?   !-->
-[![ductus back red]()](../assets/ductus/DUCTUS-2019-BOOKLET-WEB.pdf)
-[![ductus real]()](../assets/ductus/DUCTUS-2019-BOOKLET-WEB.pdf)
-[![ductus letters]()](../assets/ductus/DUCTUS-2019-BOOKLET-WEB.pdf)
+[![ductus back red](assets/ductus/DUCTUS-2019-CD-A1-SLEEVE-FRONT.jpg)](/assets/ductus/DUCTUS-2019-BOOKLET-WEB.pdf)
+[![ductus real](assets/ductus/DUCTUS-2019-CD-A1-SLEEVE-FRONT.jpg)](/assets/ductus/DUCTUS-2019-BOOKLET-WEB.pdf)
+[![ductus letters](assets/ductus/DUCTUS-2019-CD-A1-SLEEVE-FRONT.jpg)](/assets/ductus/DUCTUS-2019-BOOKLET-WEB.pdf)
 </details>
 
 ```23/11/18``` Performance [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) Smup Parede Lisbon

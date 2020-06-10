@@ -41,9 +41,7 @@ Image link
 <kbd>--------</kbd> 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=53486902/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://paul-abbott.bandcamp.com/album/ductus">Ductus by Paul Abbott</a></iframe>
 <!-- ADD DUCTUS PDF + COVER IMAGE UPLOAD RESOURCES?   !-->
-[![ductus back red](assets/ductus/DUCTUS-2019-CD-A1-SLEEVE-FRONT.jpg)](/assets/ductus/DUCTUS-2019-BOOKLET-WEB.pdf)
-[![ductus real](assets/ductus/DUCTUS-2019-CD-A1-SLEEVE-FRONT.jpg)](/assets/ductus/DUCTUS-2019-BOOKLET-WEB.pdf)
-[![ductus letters](assets/ductus/DUCTUS-2019-CD-A1-SLEEVE-FRONT.jpg)](/assets/ductus/DUCTUS-2019-BOOKLET-WEB.pdf)
+[![alt text](https://img.discogs.com/HpCSB6Ut7YD34I0-XRpAdarlECA=/fit-in/600x600/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-14419075-1574145248-8048.png.jpg)](www.google.com)
 </details>
 
 ```23/11/18``` Performance [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) Smup Parede Lisbon
@@ -70,5 +68,5 @@ Image link
 
 ## Collaborations
 
-###—RP Boo Trio (with [RP Boo]() & [Semour Wright]())
+### —RP Boo Trio (with [RP Boo]() & [Semour Wright]())
 

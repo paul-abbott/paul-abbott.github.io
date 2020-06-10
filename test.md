@@ -13,12 +13,7 @@
 </summary>
 <kbd>--------</kbd> 
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=53486902/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://paul-abbott.bandcamp.com/album/ductus">Ductus by Paul Abbott</a></iframe>
-<!-- ADD DUCTUS PDF + COVER IMAGE UPLOAD RESOURCES?   !-->
 <href="assets/ductus/DUCTUS-2019-BOOKLET-WEB.pdf"><img src="assets/ductus/DUCTUS-2019-CD-A1-SLEEVE-FRONT.jpg"></a>
-
-<href="assets/ductus/DUCTUS-2019-BOOKLET-WEB.pdf"><img src="assets/ductus/DUCTUS-2019-CD-A1-SLEEVE-back.jpg"></a>
-
-<href="assets/ductus/DUCTUS-2019-BOOKLET-WEB.pdf"><img src="assets/ductus/IMG_0126.JPG"></a>
 
 </details>
 

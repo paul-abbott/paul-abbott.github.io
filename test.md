@@ -1,11 +1,11 @@
 ## Solo Projects
 
-DUCTUS Performance [Talbot Rice Gallery](https://www.ed.ac.uk/talbot-rice/exhibitions/tradingzone2019) 
+**DUCTUS** performance [Talbot Rice Gallery](https://www.ed.ac.uk/talbot-rice/exhibitions/tradingzone2019) 
 
-DUCTUS Performance [Serralves Em Festa](https://www.serralvesemfesta.com/evento/m16a-paul-abott/)
+**DUCTUS** performance [Serralves Em Festa](https://www.serralvesemfesta.com/evento/m16a-paul-abott/)
 
 <details><summary>
-DUCTUS CD & Booklet <a href="https://paul-abbott.bandcamp.com/album/ductus">Bandcamp</a><sup> (+)</sup>
+<strong>DUCTUS</strong> CD & booklet <a href="https://paul-abbott.bandcamp.com/album/ductus">Bandcamp</a><sup> (+)</sup>
 </summary> 
 <a href="assets/ductus/DUCTUS-2019-BOOKLET-WEB.pdf">more details</a><br><!--Project details--> 
 <div id="bs-player">
@@ -14,12 +14,12 @@ DUCTUS CD & Booklet <a href="https://paul-abbott.bandcamp.com/album/ductus">Band
 <img src="assets/ductus/DUCTUS-2019-CD-A1-SLEEVE-FRONT.jpg">
 </details>
 
-Performance [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) Smup Parede Lisbon
+**performance** [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) Smup Parede Lisbon
 
-PERCEBES Performance [No Noise #4 Sonoscopia](https://www.facebook.com/events/903774636489378/)
+**Percebes** performance [No Noise #4 Sonoscopia](https://www.facebook.com/events/903774636489378/)
 
 <details><summary>
-PAENE <a href="https://www.cafeoto.co.uk/shop/paul-abbott-jake-meginsky-9418">OTOroku Digital</a><sup> (+)</sup>
+<stong>Paene</stong> recording <a href="https://www.cafeoto.co.uk/shop/paul-abbott-jake-meginsky-9418">OTOroku digital</a><sup> (+)</sup>
 </summary>
 Live recording from Cafe OTO 9/4/18. Double digital release with Jake Meginsky.
 <div id="bs-player">
@@ -27,10 +27,10 @@ Live recording from Cafe OTO 9/4/18. Double digital release with Jake Meginsky.
 </div>
 </details>
 
-Solo Performance [Cafe OTO](http://www.cafeoto.co.uk)
+**performance** [Cafe OTO](http://www.cafeoto.co.uk)
 
 <details><summary>
-2017 SPHUZO Digital & Booklet 
+<strong>Sphuzo</strong> digital & booklet 
 <a href="https://paul-abbott.bandcamp.com/album/sphuzo">Bandcamp</a> <sup> (+)</sup>
 </summary>
 <div id="bs-player">
@@ -40,16 +40,16 @@ Solo Performance [Cafe OTO](http://www.cafeoto.co.uk)
 <a href="https://www.discogs.com/release/14419075-Sphuzo/images">complete text</a>
 </details>
 
-SPHUZO Performance Cafe OTO
+**Sphuzo** performance [Cafe OTO](#)
 
-Residency [Prospectus A Year With Will Holder](http://www.kw-berlin.de/en/a-year-with) KW Berlin  
+**residency** [Prospectus A Year With Will Holder](http://www.kw-berlin.de/en/a-year-with) KW Berlin  
 
-Solo X Performance [Festival In Opposition—Art and Politics of Improvisation](http://kuda.org/en/festival-opposition-art-and-politics-improvisation-26-29th-october-novi-sad-organization-kudaorg) Kuda
+**Solo X** performance [Festival In Opposition—Art and Politics of Improvisation](http://kuda.org/en/festival-opposition-art-and-politics-improvisation-26-29th-october-novi-sad-organization-kudaorg) Kuda
 
-Performance [Speeding and Breaking](https://www.gold.ac.uk/calendar/?id=9889)
+**performance** [Speeding and Breaking](https://www.gold.ac.uk/calendar/?id=9889)
 
 <details><summary>
-QNO Digital release <a href="https://www.cafeoto.co.uk/shop/paul-abbott-010216-dl">OTOroku Digital</a> 
+<strong>QNO</strong> recording <a href="https://www.cafeoto.co.uk/shop/paul-abbott-010216-dl">OTOroku digital</a> 
 <sup> (+)</sup>
 </summary> 
 Solo performance, live recording from Cafe OTO
@@ -59,7 +59,7 @@ Solo performance, live recording from Cafe OTO
 </details>
 
 <details><summary>
-TENDER INTERVAL perforances <a href="https://www.cafeoto.co.uk/archive/2016/08/30/tender-interval-paul-abbott">Cafe OTO residency</a>
+<strong>Tender Interval</strong> performances <a href="https://www.cafeoto.co.uk/archive/2016/08/30/tender-interval-paul-abbott">Cafe OTO residency</a>
 <sup> (+)</sup>
 </summary>
 Tender Interval was a series of monthly solo performances, in the Cafe OTO Project Space, "that will mobilise paraphrased pasts and imaginary futures to intensively explore the present for a way out."
@@ -69,11 +69,11 @@ The series was composed of recurring ingredients (in particular): drums, technol
 <br>
 <a href="https://www.cafeoto.co.uk/archive/2016/08/30/tender-interval-paul-abbott">Cafe OTO archive page</a>
 </details>
-<!-- find QOS text !-->
-Queen Of the Shell [text]() published in [Cesura//Acceso #2](https://anagrambooks.com/cesura-acceso-issue-2)
+
+**Queen Of the Shell** [text](#) published in [Cesura//Acceso #2](https://anagrambooks.com/cesura-acceso-issue-2)
 
 <details><summary>
-VAGUS CD & Booklet <a href="http://www.portaaaa.com/porta-11/">PORTAA</a> 
+<strong>VAGUS</strong> CD & booklet <a href="http://www.portaaaa.com/porta-11/">PORTAA</a> 
 <sup> (+)</sup>
 </summary> 
 <a href="http://www.portaaaa.com/porta-11/">audio</a> <a href="#">pdf</a>
@@ -83,13 +83,13 @@ VAGUS CD & Booklet <a href="http://www.portaaaa.com/porta-11/">PORTAA</a>
 </div>
 </details>
 
-Untitled acoustic drum kit solo [Abject Bloc](#) Limehouse Town Hall
+**untitled** acoustic drum kit solo [Abject Bloc](#) Limehouse Town Hall
 
-Black Exhventalia performance [Cafe OTO Project Space](#)
+**Black Exhventalia** performance [Cafe OTO Project Space](#)
 
-Antrgor Reiz performance [Cafe OTO](#)
+**Antrgor Reiz** performance [Cafe OTO](#)
 
 ## Collaborations
 
-### —RP Boo Trio (with [RP Boo]() & [Semour Wright]())
+### —RP Boo Trio (with [RP Boo](#) & [Semour Wright](#))
 

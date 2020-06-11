@@ -14,12 +14,12 @@
 
 /* soundcloud-bandcamp player container */
 #bs-player, .markdown-body #bs-player{
-    max-width: 400px;
+    max-width: 600px;
 }
 
 /* image container */
 .markdown-body img, img{
-    max-width: 400px;
+    max-width: 600px;
 }
 
 
@@ -72,8 +72,9 @@ margin-bottom: 4px;
 
 /* markdown to bold style */
 .markdown-body strong, strong{
-    color: black;
+    color: green;
     font-weight: 400;
+     
 }
 
 /*  details-summary collapse style
@@ -92,19 +93,11 @@ details > summary {
 details > summary::-webkit-details-marker {
     display: none;
     outline: none;
+    margin-bottom: 4px;
 }
-
-#details{
-        margin-left: 50px;
-}
-
 /*details */
 sup {
   vertical-align: super;
   font-size: smaller;
     color: red; 
 }
-
-
-
-

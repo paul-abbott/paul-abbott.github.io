@@ -77,10 +77,6 @@ margin-bottom: 4px;
      
 }
 
-/*  details-summary collapse style
-    removes arrow
-    underline style
-*/
 details > summary {
     border: none;
     text-decoration: none;
@@ -88,12 +84,12 @@ details > summary {
     list-style: none;
     display: block;
     outline:none;
+    margin-bottom: 4px;
 }
 
 details > summary::-webkit-details-marker {
     display: none;
     outline: none;
-    margin-bottom: 4px;
 }
 /*details */
 sup {

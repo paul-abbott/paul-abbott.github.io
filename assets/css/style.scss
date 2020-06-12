@@ -3,37 +3,12 @@
 
 @import "{{ site.theme }}";
 
-/* MAIN CONTAINERS*/
+/* CUSTOM CSS */
 
 /* main-container */
 .container-lg{
     max-width: 800px;
-}
-
-/*details>details wrapper */
-#details-wrap{
-    width:inherit;
-    max-width: 600px;
-    margin-left: 1em;
-    margin-bottom: 2em;
-    margin-top: 2em;
-}
-
-/* soundcloud-bandcamp player container */
-#bs-player, .markdown-body #bs-player{
-    max-width: 600px;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-}
-
-/* image container */
-#details-wrap > img, 
-.markdown-body img,
-.markdown-body img .responsive-img,
-img{
-  width: 100%;
-  max-width: 600px;
-  height: auto;
+    background: #FFD1CE;
 }
 
 .markdown-body, body{
@@ -42,12 +17,49 @@ img{
     background: #FFD1CE;
 }
 
+/*details>details wrapper */
+#details-wrap, #details-wrap:hover{
+    width:inherit;
+    max-width: 600px;
+    margin-left: 1em;
+    margin-bottom: 2em;
+    margin-top: 2em;
+    /* background: #FFD1CE; */
+}
+
+/* soundcloud-bandcamp player container */
+#bs-player, 
+.markdown-body #bs-player,
+#bs-player:hover, 
+.markdown-body #bs-player:hover,
+{
+    max-width: 600px;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+    /* background: #FFD1CE; */
+}
+
+/* image container */
+#details-wrap > img, 
+.markdown-body img,
+.markdown-body img .responsive-img,
+img
+{
+    width: 100%;
+    max-width: 600px;
+    height: auto;
+    margin: 0.5em 0 0.5em 0;
+    /* background: #FFD1CE; */
+}
+
 .markdown-body blockquote, blockquote{
     margin-top: 0.5em;
     margin-bottom: 0.5em;
     padding: 0 1em;
     border: 0;
-    font-style: italic !important ;
+    color: black;
+    font-family: courier;
+    /* background: #FFD1CE; */
 }
 
 .markdown-body h1, h1 {
@@ -124,6 +136,21 @@ details > summary::-webkit-details-marker {
     outline: none;
 }
 
+/* when hovering over extra content line */
+details :hover,
+details a:hover,
+details .strong:hover
+{
+    /* color: green !important; */
+    /* text-decoration: underline; */
+    /* background-color: lightgrey; */
+}
+
+details open{
+    /*
+    background: white;
+    */
+}
 
 /*details */
 sup {

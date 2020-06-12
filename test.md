@@ -6,12 +6,20 @@
 
 <details><summary>
 <strong>DUCTUS</strong> CD & booklet <a href="https://paul-abbott.bandcamp.com/album/ductus">Bandcamp</a><sup> (+)</sup>
-</summary> 
-<a href="assets/ductus/DUCTUS-2019-BOOKLET-WEB.pdf">more details</a><br><!--Project details--> 
-<div id="bs-player">
-<iframe style="border: 0; width: 400px; height: 472px;" src="https://bandcamp.com/EmbeddedPlayer/album=53486902/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="http://paul-abbott.bandcamp.com/album/ductus">Ductus by Paul Abbott</a></iframe>
-</div>
-<img src="assets/ductus/DUCTUS-2019-CD-A1-SLEEVE-FRONT.jpg">
+</summary>
+    <div id="details-wrap">
+        Rhythmic Figure: Ductus <a href="#">Project page</a>.<br>
+        <blockquote>DUCTUS is an organic environment, a comedy of vibrations and signs, featuring the fictional characters DETECTIVE ENGINEER, QOSEL, and STRIKE.</blockquote>
+        DUCTUS is the first of 3 'Rhythmic Figure' projects.  51 minutes of audio, 12 tracks, 42 page booklet. DUCTUS was written and recorded in Edinburgh and Porto in 2019.
+        <!-- project page = /rf/ductus !-->
+        <div id="bs-player">
+        <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=53486902/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="http://paul-abbott.bandcamp.com/album/ductus">Ductus by Paul Abbott</a></iframe>
+        </div>
+        <img src="https://f4.bcbits.com/img/a4080751166_10.jpg"><br>
+        <!-- link to discogs images page 
+        <a href="assets/ductus/DUCTUS-2019-BOOKLET-WEB.pdf">Ductus Booklet PDF</a>
+        !-->
+    </div>
 </details>
 
 **performance** [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) Smup Parede Lisbon
@@ -19,7 +27,7 @@
 **Percebes** performance [No Noise #4 Sonoscopia](https://www.facebook.com/events/903774636489378/)
 
 <details><summary>
-<stong>Paene</stong> recording <a href="https://www.cafeoto.co.uk/shop/paul-abbott-jake-meginsky-9418">OTOroku digital</a><sup> (+)</sup>
+<strong>Paene</strong> recording <a href="https://www.cafeoto.co.uk/shop/paul-abbott-jake-meginsky-9418">OTOroku digital</a><sup> (+)</sup>
 </summary>
 Live recording from Cafe OTO 9/4/18. Double digital release with Jake Meginsky.
 <div id="bs-player">

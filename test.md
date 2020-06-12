@@ -5,7 +5,7 @@
 **DUCTUS** performance [Serralves Em Festa](https://www.serralvesemfesta.com/evento/m16a-paul-abott/)
 
 <details><summary>
-<strong>DUCTUS</strong> CD & booklet <a href="https://paul-abbott.bandcamp.com/album/ductus">Bandcamp</a><sup> (+)</sup>
+<strong>DUCTUS</strong> CD & booklet <a href="https://paul-abbott.bandcamp.com/album/ductus">Bandcamp</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         Rhythmic Figure: Ductus <a href="#">Project page</a>.<br>
@@ -15,7 +15,8 @@
         <div id="bs-player">
         <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=53486902/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="http://paul-abbott.bandcamp.com/album/ductus">Ductus by Paul Abbott</a></iframe>
         </div>
-        <img src="https://f4.bcbits.com/img/a4080751166_10.jpg"><br>
+        <img src="https://f4.bcbits.com/img/a4080751166_10.jpg"
+        class="responsive-img"><br>
         <!-- link to discogs images page 
         <a href="assets/ductus/DUCTUS-2019-BOOKLET-WEB.pdf">Ductus Booklet PDF</a>
         !-->
@@ -27,7 +28,7 @@
 **Percebes** performance [No Noise #4 Sonoscopia](https://www.facebook.com/events/903774636489378/)
 
 <details><summary>
-<strong>Paene</strong> recording <a href="https://www.cafeoto.co.uk/shop/paul-abbott-jake-meginsky-9418">OTOroku digital</a><sup> (+)</sup>
+<strong>Paene</strong> recording <a href="https://www.cafeoto.co.uk/shop/paul-abbott-jake-meginsky-9418">OTOroku digital</a><sup>(+)</sup>
 </summary>
 Live recording from Cafe OTO 9/4/18. Double digital release with Jake Meginsky.
 <div id="bs-player">
@@ -39,7 +40,7 @@ Live recording from Cafe OTO 9/4/18. Double digital release with Jake Meginsky.
 
 <details><summary>
 <strong>Sphuzo</strong> digital & booklet 
-<a href="https://paul-abbott.bandcamp.com/album/sphuzo">Bandcamp</a> <sup> (+)</sup>
+<a href="https://paul-abbott.bandcamp.com/album/sphuzo">Bandcamp</a><sup>(+)</sup>
 </summary>
 <div id="bs-player">
 <iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3564356557/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="http://paul-abbott.bandcamp.com/album/sphuzo">Sphuzo by Paul Abbott</a></iframe>
@@ -58,7 +59,7 @@ Live recording from Cafe OTO 9/4/18. Double digital release with Jake Meginsky.
 
 <details><summary>
 <strong>QNO</strong> recording <a href="https://www.cafeoto.co.uk/shop/paul-abbott-010216-dl">OTOroku digital</a> 
-<sup> (+)</sup>
+<sup>(+)</sup>
 </summary> 
 Solo performance, live recording from Cafe OTO
 <div id="bs-player">
@@ -68,7 +69,7 @@ Solo performance, live recording from Cafe OTO
 
 <details><summary>
 <strong>Tender Interval</strong> performances <a href="https://www.cafeoto.co.uk/archive/2016/08/30/tender-interval-paul-abbott">Cafe OTO residency</a>
-<sup> (+)</sup>
+<sup>(+)</sup>
 </summary>
 Tender Interval was a series of monthly solo performances, in the Cafe OTO Project Space, "that will mobilise paraphrased pasts and imaginary futures to intensively explore the present for a way out."
 <blockquote>“There is no origin nor terminus to our feelings” – Gregg Bordowitz</blockquote>
@@ -82,7 +83,7 @@ The series was composed of recurring ingredients (in particular): drums, technol
 
 <details><summary>
 <strong>VAGUS</strong> CD & booklet <a href="http://www.portaaaa.com/porta-11/">PORTAA</a> 
-<sup> (+)</sup>
+<sup>(+)</sup>
 </summary> 
 <a href="http://www.portaaaa.com/porta-11/">audio</a> <a href="#">pdf</a>
 <img src="https://img.discogs.com/_fAs1d3y_x9wsIQWSG8lNKPtWDM=/fit-in/600x448/filters:strip_icc():format(jpeg):mode_rgb():quality(90)/discogs-images/R-7459845-1441913226-4443.gif.jpg">

@@ -12,6 +12,14 @@
     max-width: 800px;
 }
 
+/*details>details wrapper */
+#details-wrap{
+    width:inherit;
+    margin-left: 1em;
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+
 /* soundcloud-bandcamp player container */
 #bs-player, .markdown-body #bs-player{
     max-width: 600px;
@@ -20,16 +28,17 @@
 }
 
 /* image container */
-.markdown-body img, img{
+#details-wrap > img, .markdown-body img, img{
+    /*
     max-width: 600px;
+    display: block;
+    */
 }
 
-/*details>details wrapper */
-#details-wrap{
-    width:inherit;
-    margin-left: 1em;
-    margin-bottom: 2em;
-    margin-top: 2em;
+.responsive-img{
+  width: 100%;
+  max-width: 600px;
+  height: auto;
 }
 
 .markdown-body, body{
@@ -125,6 +134,16 @@ details > summary::-webkit-details-marker {
 sup {
     vertical-align: super;
     font-size: smaller;
+    font-weight: 600;
     color: red; 
-    position: relative;
+    position: inherit;
+    margin-left: 0.25em;
 }
+
+sup:hover{
+    color: green;
+}
+
+
+
+

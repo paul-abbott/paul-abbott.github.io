@@ -3,20 +3,28 @@
 
 @import "{{ site.theme }}";
 
+/* CUSTOM CSS */
+
+/* black only theme */
+
+/* MAIN CONTAINERS*/
+
+
 /* main-container */
 .container-lg{
     max-width: 800px;
-    background: #FFD1CE;
+    background: white; /* porto pink #FFD1CE; */
 }
 
 .markdown-body, body{
     font-size: 14px;
     line-height: 1.2;
-    background: #FFD1CE;
+    background: white; /* porto pink #FFD1CE; */
 }
 
 .markdown-body a, body a{
-    /* color: mediumblue; */
+    color: black; /*mediumblue;*/
+    text-decoration: underline;
 }
 
 /*details>details wrapper */
@@ -81,7 +89,8 @@ img
 }
 
 .markdown-body p, p{
-margin-bottom: 4px;
+    margin-bottom: 4px;
+    font-weight: 200; /* black theme light black */
 }
 
 /* date/indent */
@@ -114,8 +123,8 @@ margin-bottom: 4px;
 
 /* markdown to bold style */
 .markdown-body strong, strong{
-    color: green;
-    font-weight: 400;
+    color: black; /* porto theme green; */
+    font-weight: 400; /* 400 with green */
      
 }
 
@@ -158,14 +167,14 @@ details open{
 sup {
     vertical-align: super;
     font-size: smaller;
-    font-weight: 600;
+    font-weight: 500;
     color: red !important; 
     position: inherit;
     margin-left: 0.4em;
 }
 
 sup:hover{
-    color: green;
+    color: green !important;
 }
 
 

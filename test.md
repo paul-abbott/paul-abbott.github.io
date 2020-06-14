@@ -189,7 +189,7 @@
 
 ### —XT with [Seymour Wright](http://www.seymourwright.com)
 
-<details><summary> <!--2019 !-->
+<details><summary>
 <strong>Palina'tufa</strong> 2xLP & digital <a href="https://emptyeditions.bandcamp.com/album/ee004-palinatufa">Empty Editions</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
@@ -213,7 +213,7 @@
     </div>
 </details>
 
-**XT & Pat Thomas** perform Akasakila [Cafe OTO](https://www.cafeoto.co.uk/events/cecil-taylor-oto-tribute/) <!--2018 !-->
+**XT & Pat Thomas** perform Akasakila [Cafe OTO](https://www.cafeoto.co.uk/events/cecil-taylor-oto-tribute/)<!--2018 !-->
 
 **Empty Gallery** residency [Empty Gallery](https://emptygallery.com/)
 
@@ -278,7 +278,76 @@ performance [The Art School Glasgow]() <!--2014!-->
 
 **Falls (Version)**  
 
-### —with Will Holder, Seymour Wright, Cara Tolmie
-### —as ULAPAARC with Cara Tolmie
+### —with [Will Holder](https://www.uhbooks.directory/), [Seymour Wright](http://www.seymourwright.com), [Cara Tolmie](http://caratolmie.tumblr.com)
+
+**Drumming, speaking, singing, playing saxophone respectively** performance [KW Berlin](http://www.kw-berlin.de/en/weekend-10)
+
+**performance** at residency [Cafe OTO](https://www.cafeoto.co.uk/events/paul-abbott-cara-tolmie-will-holder-seymour-wright)
+
+### —as ULAPAARC with [Cara Tolmie](http://caratolmie.tumblr.com)
+
+**Eagress** performance [Hysteria PS/Y Camden Arts Centre](https://www.camdenartscentre.org/whats-on/view/ndpcn08)
+
+**Queen Of The Shell** performance [Whitechapel Art Gellery](http://www.whitechapelgallery.org/about/press/music-for-museums/)
+
+**The Legal Team, The Gait, The Singer and The Chorus** performance [Plastic Words](http://caratolmie.tumblr.com/post/115293286911/the-legal-team-the-singer-the-gait-and-the) Raven Row Gallery
+
+**Acting and the Architect** performance [Counterflows](http://caratolmie.tumblr.com/post/111093977476/acting-and-the-architect-collaborative-performance)
+
 ### —lll人, with [Seymour Wright]() & [Daichi Yoshikawa]()
+
+<details><summary>
+    <div id="details-wrap">
+    <strong>performances 2014-2017</strong><sup>(+)</sup>
+    </summary>
+    NEXT Festival<br> <!--2017!-->
+    Cafe OTO<br> <!--2016 !-->
+    Ulrichsberg Festival<br> <!--2016 !-->
+    No Wave Est Budpaest<br> <!--2016 !-->
+    Pocket Theatre Ljubliana<br> <!--2016 !-->
+    Akenbush Paris<br> <!--2016 !-->
+    <strong>Eyes Go Pop: Psychedelic Japan Series</strong> performance with Rikuro Miyai <a href="http://www.tate.org.uk/whats-on/tate-modern/throwing-shadows-japanese-expanded-cinema-time-pop/eyes-go-pop-psychedelic">Tate Modern</a><br><!--2016 !-->
+    Empty Gallery Hong Kong<br> <!--2015 !-->
+    Super Delux Tokyo<br> <!--2015 !-->
+    Ftarri Tokyo<br> <!--2015 !-->
+    Candy Tokyo<br> <!--2015 !-->
+    Hideous Porta London<br> <!--2015 !-->
+    De La War Pavillion Bexhil<br> <!--2014 !-->
+    Hideous Porta London <!--2014 !-->
+    Cafe Oto<br> <!--2014 !-->
+    Hagenfest<br> <!--2014 !-->
+    </div>
+</details>
+
+<details><summary>
+<strong>Vjerhanxsk</strong> CD <a href="https://www.cafeoto.co.uk/shop/lll-vjerhanxsk/">self released</a><sup>(+)</sup>
+</summary>
+    <div id="details-wrap">
+        Strange, intense and extreme lll人 is the trio of Daichi Yoshikawa, Paul Abbott and Seymour Wright.
+        <blockquote>Still finding, twisting and hammering out an expanding musical universe balanced only by its own logics – lll人 have few obvious comparisons. Their performances are consistent radical negotiations of the emotional, physical and social energies of the environments they sound out.</blockquote>
+            <div id="bs-player">
+            <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/202333995&color=%23292b30&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&amp;show_artwork=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/llln" title="lll人" target="_blank" style="color: #cccccc; text-decoration: none;">lll人</a> · <a href="https://soundcloud.com/llln/vjerhanxsk-extract" title="vjerhanxsk-EXTRACT" target="_blank" style="color: #cccccc; text-decoration: none;">vjerhanxsk-EXTRACT</a></div>
+            </div>
+        <img src="https://www.cafeoto.co.uk/media/thumbnails/uploads/vjerhanxsk-pack-01-72-800_page_image.jpg" class="responsive-img"><br>
+    </div>
+</details>
+
+<details><summary>
+<strong>GJĒRHAN</strong> LP & digital <a href="https://www.cafeoto.co.uk/shop/llln-gjerhan/">OTOroku</a><sup>(+)</sup>
+</summary>
+    <div id="details-wrap">
+        <a href="https://www.cafeoto.co.uk/shop/llln-gjerhan/">Cafe OTO page</a><br>
+        lll人 (pronounced /el/) is Daichi Yoshikawa, Paul Abbott and Seymour Wright. This recording includes two bare twenty minute excerpts from separate performances at Cafe OTO.
+        <blockquote>From subterranea, sweat, haze and dedication emerging out of intimate and intense weekly meetings begun in 2009 – their first, 2012 public performance, squeezed into a London basement was a sheer, vexed and exhilarating smack of organic, heterodyning ideas, and taut, lowbeating lumps.<br> Reemerge/revanish.<br>With the economy of familiar/traditional raw tools feedback, drumkit, altosaxophone, time, space and emotion lll人 move from molten musical pasts to grow future pleasures in sound.<br>The ingredients are familiar, but the listening is not.</blockquote>
+        <div id="bs-player">
+            <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/156891234&color=%23292b30&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&amp;show_artwork=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cafeoto" title="cafeOTO" target="_blank" style="color: #cccccc; text-decoration: none;">cafeOTO</a> · <a href="https://soundcloud.com/cafeoto/lll-gjerhan-excerpt-roku011-lp" title="lll人 - gjērhan [Excerpt] (ROKU011 LP)" target="_blank" style="color: #cccccc; text-decoration: none;">lll人 - gjērhan [Excerpt] (ROKU011 LP)</a></div>
+            </div>
+        <img src="https://www.cafeoto.co.uk/media/thumbnails/uploads/llln-gjerhan-otoroku011-cover-press_page_image.jpg" class="responsive-img"><br>
+    </div>
+</details>
+
+### —Cesura//Acceso
+### —Other Collaborative Projects
+**Wolf Ecologies** trio
+**Trio in Porto**
 

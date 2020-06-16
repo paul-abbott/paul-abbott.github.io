@@ -297,29 +297,6 @@ performance [The Art School Glasgow]() <!--2014!-->
 ### —lll人, with [Seymour Wright]() & [Daichi Yoshikawa]()
 
 <details><summary>
-    <div id="details-wrap">
-    <strong>performances 2014-2017</strong><sup>(+)</sup>
-    </summary>
-    NEXT Festival<br> <!--2017!-->
-    Cafe OTO<br> <!--2016 !-->
-    Ulrichsberg Festival<br> <!--2016 !-->
-    No Wave Est Budpaest<br> <!--2016 !-->
-    Pocket Theatre Ljubliana<br> <!--2016 !-->
-    Akenbush Paris<br> <!--2016 !-->
-    <strong>Eyes Go Pop: Psychedelic Japan Series</strong> performance with Rikuro Miyai <a href="http://www.tate.org.uk/whats-on/tate-modern/throwing-shadows-japanese-expanded-cinema-time-pop/eyes-go-pop-psychedelic">Tate Modern</a><br><!--2016 !-->
-    Empty Gallery Hong Kong<br> <!--2015 !-->
-    Super Delux Tokyo<br> <!--2015 !-->
-    Ftarri Tokyo<br> <!--2015 !-->
-    Candy Tokyo<br> <!--2015 !-->
-    Hideous Porta London<br> <!--2015 !-->
-    De La War Pavillion Bexhil<br> <!--2014 !-->
-    Hideous Porta London <!--2014 !-->
-    Cafe Oto<br> <!--2014 !-->
-    Hagenfest<br> <!--2014 !-->
-    </div>
-</details>
-
-<details><summary>
 <strong>Vjerhanxsk</strong> CD <a href="https://www.cafeoto.co.uk/shop/lll-vjerhanxsk/">self released</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
@@ -346,8 +323,33 @@ performance [The Art School Glasgow]() <!--2014!-->
     </div>
 </details>
 
+<details><summary>
+    <strong>performances 2014-2017</strong><sup>(+)</sup>
+    </summary>
+    <div id="details-wrap">
+        NEXT Festival<br> <!--2017!-->
+        Cafe OTO<br> <!--2016 !-->
+        Ulrichsberg Festival<br> <!--2016 !-->
+        No Wave Est Budpaest<br> <!--2016 !-->
+        Pocket Theatre Ljubliana<br> <!--2016 !-->
+        Akenbush Paris<br> <!--2016 !-->
+        <strong>Eyes Go Pop: Psychedelic Japan Series</strong> performance with Rikuro Miyai <a href="http://www.tate.org.uk/whats-on/tate-modern/throwing-shadows-japanese-expanded-cinema-time-pop/eyes-go-pop-psychedelic">Tate Modern</a><br><!--2016 !-->
+        Empty Gallery Hong Kong<br> <!--2015 !-->
+        Super Delux Tokyo<br> <!--2015 !-->
+        Ftarri Tokyo<br> <!--2015 !-->
+        Candy Tokyo<br> <!--2015 !-->
+        Hideous Porta London<br> <!--2015 !-->
+        De La War Pavillion Bexhil<br> <!--2014 !-->
+        Hideous Porta London<br> <!--2014 !-->
+        Cafe Oto<br> <!--2014 !-->
+        Hagenfest 
+    </div>
+</details>
+
+<!-- TO FINISH ------------------------------- !-->
 ### —Cesura//Acceso
 ### —Other Collaborative Projects
+<!-- TO FINISH ------------------------------- 
 **Wolf Ecologies** trio
 **Trio in Porto**
-
+!-->

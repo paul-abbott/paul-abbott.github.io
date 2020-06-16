@@ -5,11 +5,6 @@
 
 /* CUSTOM CSS */
 
-/* black only theme */
-
-/* MAIN CONTAINERS*/
-
-
 /* main-container */
 .container-lg{
     max-width: 800px;
@@ -88,7 +83,7 @@ img
     border-bottom: none;
 }
 
-.markdown-body p, p{
+.markdown-body p, p, details p, details a{
     margin-bottom: 4px;
     font-weight: 200; /* black theme light black */
 }
@@ -140,6 +135,7 @@ details > summary {
     display: block;
     outline:none;
     margin-bottom: 4px;
+    font-weight: 200;
 }
 
 details > summary::-webkit-details-marker {

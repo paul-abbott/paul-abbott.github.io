@@ -1,3 +1,53 @@
+<!-- scratch css testing !-->
+<link href="main.css" rel="stylesheet"></link>
+
+<!-- notes on conventions & some github pages defaults
+*
+GitHub Pages size defualts:
+max-width: 1012px;
+50% = 506px i.e. max images @500 px?
+bandcamp player - add trackname?
+soundcloud player = remove artwork - &amp;show_artwork=false
+*
+Order:
+Date | TITLE | Type (performance, published etc.) | Venue/Label 
+*
+Date values
+```--------```
+```00/00/00```
+Empty Date / inset block
+<kbd>--------</kbd>
+*
+Details: use html inside <details> tags
+No details: write in markdown
+*
+Details protocol:
+<details><summary>
+<strong>TITLE</strong> Type <a href="#">Target</a><sup>(+)</sup>
+</summary>
+    <div id="details-wrap">
+        <a href="#">link to project page</a><br>
+        project details brief
+        <blockquote>any quote</blockquote>
+            <div id="bs-player">
+            !! Bandcamp / Soundcloud player here !!
+            </div>
+        <img src="#" class="responsive-img"><br>
+        <a href="#">PDF</a>
+    </div>
+</details>
+*
+Image protocol
+![alt text](source)
+Image link
+[![alt text](preview-image-link)](source-destination-link)
+HTML image-link (inside details)
+<href="link"><img src="destination"></a>
+*
+!-->
+<!-- MAIN CONTENT BELOW !-->
+<!-- DELETE THE ABOVE BEFORE COPY TO GITHUB (NEEDS TO ME MD FIRST TO REGISTER AS MARKDOWN) !-->
+
 ## Solo Projects
 
 **DUCTUS** performance [Talbot Rice Gallery](https://www.trg.ed.ac.uk/event/paul-abbott-ductus) 
@@ -347,45 +397,8 @@ performance [The Art School Glasgow]() <!--2014!-->
 </details>
 
 <!-- TO FINISH ------------------------------- !-->
-### —Cesura//Acceso with Gabriel Humberstone, Cara Tolmie, Christina Chalmers, Anthony Iles, Larne Abse Gogarty
-
-<details><summary>
-<strong>About Cesura//Acceso</strong><sup>(+)</sup>
-</summary>
-    <div id="details-wrap">
-        <a href="#">link to project page</a><br>
-        Cesura was formed in 2014 as a place to think through the politics of music. The first issue was published in 2014, the second in 2017. Both issues are distributed by <a href="https://anagrambooks.com/publishers/cesuraacceso">Anagram</a>. Cesura//Acceso held workshops, talks, radio shows, and put on gigs exploring the politics of music, poetry and performance.
-        <blockquote>any quote</blockquote>
-            <div id="bs-player">
-            <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/190484416&color=%23292b30&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"&amp;show_artwork=false></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dj_nightdress" title="DJ NIGHTDRESS" target="_blank" style="color: #cccccc; text-decoration: none;">DJ NIGHTDRESS</a> · <a href="https://soundcloud.com/dj_nightdress/cesuraacceso-mix-for-hp-pt1" title="Cesura|/Acceso mix for HP pt1" target="_blank" style="color: #cccccc; text-decoration: none;">Cesura|/Acceso mix for HP pt1</a></div>
-            </div>
-        <img src="#" class="responsive-img"><br>
-        <a href="#">PDF</a>
-    </div>
-</details>
-
-<details><summary>
-<strong>Cesura Issue 2</strong> Launch <a href="https://www.cafeoto.co.uk/events/cesura-acceso-issue-2-launch/">Cafe OTO</a><sup>(+)</sup>
-</summary>
-    <div id="details-wrap">
-        <a href="#">Project page</a><br>
-        Cesura//Acceso Journal Issue 2 Launch with Claire Potter, Fderica Frabetti, Lisa Jeschke and Lucy Beynon, Vindicatrix, Billy Steiger.
-    </div>
-</details>
-
-<details><summary>
-<strong>Cesura//Acceso Issue 2</strong> Journal<a href="#">Target</a><sup>(+)</sup>
-</summary>
-    <div id="details-wrap">
-        Cesura Issue 2 distributed by <a href="https://anagrambooks.com/cesura-acceso-issue-2">Anagram</a><br>
-        <blockquote>Issue 2, in response to the open call Corrupting Desires! Technique, Performance, and Control Cesura present a series of texts which deal with the problems of constraint, restraint and domination in relation to musical production, performance and reception. With new writing from Paul Abbott, Hannah Black, Nathaniel Mackey, Larne Abse Gogarty, Verity Spott, Irene Revell with Annea Lockwood, Paul Rekret, and Federica Frabetti with Mark Fell and contributions from Abject Subject Ensemble (Mattin, Farahnaz Hatam, Sacha Kahir, and Colin Hacklander), Naroder Bourniki, ESW, Danny Hayward, Sophie Hoyle, Sacha Kahir, Pil and Galia Kollectiv, Claire Potter, Byron Peters and Tyler Coburn, David Morris and Kim O'Neil.</blockquote>
-        <img src="https://anagrambooks.com/sites/default/files/styles/slide/public/product-images/9780993024610.png?itok=GH0tBjWb" class="responsive-img"><br>
-        <a href="#">PDF</a>
-    </div>
-</details>
-
+### —Cesura//Acceso
 ### —Other Collaborative Projects
-...tbc....
 <!-- TO FINISH ------------------------------- 
 **Wolf Ecologies** trio
 **Trio in Porto**

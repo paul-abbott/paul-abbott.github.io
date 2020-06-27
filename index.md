@@ -347,9 +347,74 @@ performance [The Art School Glasgow]() <!--2014!-->
 </details>
 
 <!-- TO FINISH ------------------------------- !-->
+<<<<<<< Updated upstream
 ### —Cesura//Acceso
+=======
+### —Cesura//Acceso with Gabriel Humberstone, Cara Tolmie, Christina Chalmers, Anthony Iles, Larne Abse Gogarty
+
+<details><summary>
+About <strong>Cesura//Acceso</strong><sup>(+)</sup>
+</summary>
+    <div id="details-wrap">
+        <!--<a href="#">link to project page</a><br>!-->
+        Cesura was formed in 2014 as a place to think through the politics of music. The first issue was published in 2014, the second in 2017. Both issues are distributed by <a href="https://anagrambooks.com/publishers/cesuraacceso">Anagram</a>. Cesura//Acceso held workshops, talks, radio shows, and put on gigs exploring the politics of music, poetry and performance.
+        <blockquote>any quote</blockquote>
+            <div id="bs-player">
+            <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/190484416&color=%23292b30&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"&amp;show_artwork=false></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dj_nightdress" title="DJ NIGHTDRESS" target="_blank" style="color: #cccccc; text-decoration: none;">DJ NIGHTDRESS</a> · <a href="https://soundcloud.com/dj_nightdress/cesuraacceso-mix-for-hp-pt1" title="Cesura|/Acceso mix for HP pt1" target="_blank" style="color: #cccccc; text-decoration: none;">Cesura|/Acceso mix for HP pt1</a></div>
+            </div>
+        <!--<img src="#" class="responsive-img"><br>!-->
+        <!--<a href="#">PDF</a>!-->
+    </div>
+</details>
+
+<details><summary>
+<strong>Cesura Issue 2</strong> Launch <a href="https://www.cafeoto.co.uk/events/cesura-acceso-issue-2-launch/">Cafe OTO</a><sup>(+)</sup>
+</summary>
+    <div id="details-wrap">
+        <a href="#">Project page</a><br>
+        Cesura//Acceso Journal Issue 2 Launch with Claire Potter, Fderica Frabetti, Lisa Jeschke and Lucy Beynon, Vindicatrix, Billy Steiger.
+    </div>
+</details>
+
+<details><summary>
+<strong>Cesura//Acceso Issue 2</strong> Journal<a href="#"></a><sup>(+)</sup>
+</summary>
+    <div id="details-wrap">
+        Cesura Issue 2 distributed by <a href="https://anagrambooks.com/cesura-acceso-issue-2">Anagram</a><br>
+        <blockquote>Issue 2, in response to the open call Corrupting Desires! Technique, Performance, and Control Cesura present a series of texts which deal with the problems of constraint, restraint and domination in relation to musical production, performance and reception. With new writing from Paul Abbott, Hannah Black, Nathaniel Mackey, Larne Abse Gogarty, Verity Spott, Irene Revell with Annea Lockwood, Paul Rekret, and Federica Frabetti with Mark Fell and contributions from Abject Subject Ensemble (Mattin, Farahnaz Hatam, Sacha Kahir, and Colin Hacklander), Naroder Bourniki, ESW, Danny Hayward, Sophie Hoyle, Sacha Kahir, Pil and Galia Kollectiv, Claire Potter, Byron Peters and Tyler Coburn, David Morris and Kim O'Neil.</blockquote>
+        <img src="https://anagrambooks.com/sites/default/files/styles/slide/public/product-images/9780993024610.png?itok=GH0tBjWb" class="responsive-img"><br>
+        <a href="#">PDF</a>
+    </div>
+</details>
+
+<details><summary>
+<strong>Fred Moten</strong> Event <a href="https://www.cafeoto.co.uk/events/cesuraacceso-presents-fred-moten/">Cafe OTO</a><sup>(+)</sup>
+</summary>
+    <div id="details-wrap">
+        <a href="#">link to project page</a><br>
+        Event with Will Holder, Hannah Black, Sacha Kahir,
+Hypatia Vourloumis, Fumi Okiji.
+    </div>
+</details>
+
+**Festival In Opposition** Art and Politics of Improvisation [Kuda](http://kuda.org/en/festival-opposition-art-and-politics-improvisation-26-29th-october-novi-sad-organization-kudaorg)
+
+**Broken Rudiments** Workshops at [Ljudskolan](#)
+
+<details><summary>
+<strong>Cesura//Acceso Issue 1</strong> Journal<a href="#"></a><sup>(+)</sup>
+</summary>
+    <div id="details-wrap">
+        Cesura Issue 1 distributed by <a href="https://anagrambooks.com/cesura-acceso-issue-1">Anagram</a><br>
+        <blockquote>Cesura//Acceso is a journal about music and politics. Publishing a mix of commissions and open submissions, the journal asks what it could mean to practice politics through music or think music through politics. Featuring contributions from musicians, writers, artists, theorists and poets, Cesura//Acceso explores, unfolds and encourages interconnected spaces of experimental thought and practice in politics, music and poetics.<br><br>
+         It's about: Cruel optimism in Bay Area punk, DJ Rashad and the ghetto thermodynamics of juke, the 1994 Criminal Justice Bill, dole autonomy and rave, Mary J Blige, Lyn Hejinian and lives un-lived, the poetics of turfing, forensic speech analysis, musings on Don Cherry in London, singing and factory work, the abject history of happy hardcore, poetry by Howard Slater and Martin Glaberman, an interview with Joe McPhee, incantations to de-harmonise the world, puking music and more...<br><br>
+        Contributors: Sean Bonney, Anne Boyer, Seymour Wright, Stevphen Shukaitis, Howard Slater, Dhanveer Singh Brar, Commune Editions, Alberto Savinio, Kev Nickells, Anthony Iles & Eve Lear, Johanna Isaacson, Matteo Pasquinelli, Martin Glaberman, Emma Robertson Michael Pickering & Marek Korczynski, Lawrence Abu Hamdan, Simon Yuill, Iain Boal</blockquote>
+        <img src="https://anagrambooks.com/sites/default/files/styles/slide/public/product-images/9780993024603.jpg?itok=ToRdrIk6" class="responsive-img"><br>
+        <a href="#">PDF</a>
+    </div>
+</details>
+
 ### —Other Collaborative Projects
-...tbc....
 <!-- TO FINISH ------------------------------- 
 **Wolf Ecologies** trio
 **Trio in Porto**

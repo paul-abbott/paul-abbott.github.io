@@ -157,7 +157,7 @@
 
 <!--2019!--> **performance** [Counterflows 2019](http://www.counterflows.com/artist/rp-boo-seymour-wright-paul-abbott-trio/)
 
-### —The Creaking Breeze (with [Ute Kangiesser](http://www.utekanngiesser.com), [Evie Ward](http://www.eviescarlettward.com/), [Seymour Wright](http://www.seymourwright.com/), [Billy Steiger](https://www.billysteiger.com/))
+### —The Creaking Breeze (with [Ute Kanngiesser](http://www.utekanngiesser.com), [Evie Ward](http://www.eviescarlettward.com/), [Seymour Wright](http://www.seymourwright.com/), [Billy Steiger](https://www.billysteiger.com/))
 
 <details><summary>
 <strong>Creaking Breeze Ensemble with Nathaniel Mackey</strong> residency performances <a href="https://www.cafeoto.co.uk/events/nathaniel-mackey-creaking-breeze-ensemble/">Cafe OTO</a><sup>(+)</sup>
@@ -346,10 +346,6 @@ performance [The Art School Glasgow]() <!--2014!-->
     </div>
 </details>
 
-<!-- TO FINISH ------------------------------- !-->
-<<<<<<< Updated upstream
-### —Cesura//Acceso
-=======
 ### —Cesura//Acceso with Gabriel Humberstone, Cara Tolmie, Christina Chalmers, Anthony Iles, Larne Abse Gogarty
 
 <details><summary>
@@ -357,13 +353,7 @@ About <strong>Cesura//Acceso</strong><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         <!--<a href="#">link to project page</a><br>!-->
-        Cesura was formed in 2014 as a place to think through the politics of music. The first issue was published in 2014, the second in 2017. Both issues are distributed by <a href="https://anagrambooks.com/publishers/cesuraacceso">Anagram</a>. Cesura//Acceso held workshops, talks, radio shows, and put on gigs exploring the politics of music, poetry and performance.
-        <blockquote>any quote</blockquote>
-            <div id="bs-player">
-            <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/190484416&color=%23292b30&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"&amp;show_artwork=false></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/dj_nightdress" title="DJ NIGHTDRESS" target="_blank" style="color: #cccccc; text-decoration: none;">DJ NIGHTDRESS</a> · <a href="https://soundcloud.com/dj_nightdress/cesuraacceso-mix-for-hp-pt1" title="Cesura|/Acceso mix for HP pt1" target="_blank" style="color: #cccccc; text-decoration: none;">Cesura|/Acceso mix for HP pt1</a></div>
-            </div>
-        <!--<img src="#" class="responsive-img"><br>!-->
-        <!--<a href="#">PDF</a>!-->
+        Cesura was formed in 2014 as a place to think through the politics of music. The first issue was published in 2014, the second in 2017. Both issues are distributed by <a href="https://anagrambooks.com/publishers/cesuraacceso">Anagram</a>.<br><br> Cesura//Acceso held workshops, talks, radio shows, and put on gigs exploring the politics of music, poetry and performance.
     </div>
 </details>
 
@@ -371,8 +361,7 @@ About <strong>Cesura//Acceso</strong><sup>(+)</sup>
 <strong>Cesura Issue 2</strong> Launch <a href="https://www.cafeoto.co.uk/events/cesura-acceso-issue-2-launch/">Cafe OTO</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
-        <a href="#">Project page</a><br>
-        Cesura//Acceso Journal Issue 2 Launch with Claire Potter, Fderica Frabetti, Lisa Jeschke and Lucy Beynon, Vindicatrix, Billy Steiger.
+        Cesura//Acceso Journal Issue 2 Launch with performances and readings by Claire Potter, Federica Frabetti, Lisa Jeschke and Lucy Beynon, Vindicatrix, Billy Steiger.
     </div>
 </details>
 
@@ -391,9 +380,7 @@ About <strong>Cesura//Acceso</strong><sup>(+)</sup>
 <strong>Fred Moten</strong> Event <a href="https://www.cafeoto.co.uk/events/cesuraacceso-presents-fred-moten/">Cafe OTO</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
-        <a href="#">link to project page</a><br>
-        Event with Will Holder, Hannah Black, Sacha Kahir,
-Hypatia Vourloumis, Fumi Okiji.
+        Event with Will Holder, Hannah Black, Sacha Kahir, Hypatia Vourloumis, Fumi Okiji.
     </div>
 </details>
 

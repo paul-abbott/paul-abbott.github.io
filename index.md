@@ -407,4 +407,7 @@ About <strong>Cesura//Acceso</strong><sup>(+)</sup>
 <!-- TO FINISH ------------------------------- 
 **Wolf Ecologies** trio
 **Trio in Porto**
+**Bradon LaBelle South London**
+**Ben Drew Tempa**
+** add various images to solo, and other performances **
 !-->

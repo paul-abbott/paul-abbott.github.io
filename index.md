@@ -82,6 +82,7 @@
 <sup>(+)</sup>
 </summary>
     <div id="details-wrap">
+        <div id="tender"></div>
         Tender Interval was a series of monthly solo performances, in the Cafe OTO Project Space, "that will mobilise paraphrased pasts and imaginary futures to intensively explore the present for a way out."
         <blockquote>There is no origin nor terminus to our feelings<br>—Gregg Bordowitz</blockquote>
         The series was composed of recurring ingredients (in particular): drums, technology, bodies, words and the building in which they are located. For each performance the composition of these elements was take form through a specific figure of existing materials taken from a range of sources.<br>

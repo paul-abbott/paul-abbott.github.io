@@ -31,6 +31,7 @@
 <strong>Paene</strong> recording <a href="https://www.cafeoto.co.uk/shop/paul-abbott-jake-meginsky-9418">OTOroku digital</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
+    <div id="paene"></div>
     Live recording from Cafe OTO 9/4/18. Double digital release with Jake Meginsky.
     <div id="bs-player">
         <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/458291286&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&amp;show_artwork=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cafeoto" title="cafeOTO" target="_blank" style="color: #cccccc; text-decoration: none;">cafeOTO</a> · <a href="https://soundcloud.com/cafeoto/paene-sample-paul-abbott" title="Paene Sample [Paul Abbott]" target="_blank" style="color: #cccccc; text-decoration: none;">Paene Sample [Paul Abbott]</a></div>

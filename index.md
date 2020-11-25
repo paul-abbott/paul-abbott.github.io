@@ -404,10 +404,12 @@ About <strong>Cesura//Acceso</strong><sup>(+)</sup>
 </details>
 
 ### —Other Collaborative Projects
-<!-- TO FINISH ------------------------------- 
+
+<!-- TO FINISH NOTES------------------------------- 
 **Wolf Ecologies** trio
 **Trio in Porto**
 **Bradon LaBelle South London**
 **Ben Drew Tempa**
 ** add various images to solo, and other performances **
+** from motor to seed solo text image **
 !-->

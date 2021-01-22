@@ -1,6 +1,24 @@
 ## Solo Projects
 
-**DUCTUS** performance [Talbot Rice Gallery](https://www.trg.ed.ac.uk/event/paul-abbott-ductus) 
+<details><summary>
+<strong>DUCTUS</strong> CD & booklet <a href="https://paul-abbott.bandcamp.com/album/nsular">Bandcamp</a><sup>(+)</sup>
+</summary>
+    <div id="details-wrap">
+        <!--Rhythmic Figure: Ductus <a href="#">Project page</a>.<br>!-->
+        <blockquote>So we oeandha perform the  ve theatre body or environment characters of nsular: Knee (Lover), Core (Pendulum), Back (Peacock), Limb (Leaf ) and Neck (Folds)...</blockquote> NSULAR is the second of 3 ‘Rhythmic Figure’ projects, following DUCTUS released in 2019. Includes 61 minutes of audio, across 5 tracks, and a 28 page booklet with new writing. NSULAR was written and recorded in Edinburgh and Brussels in 2020.   
+        <!-- project page = /rf/ductus !-->
+        <div id="bs-player">
+             <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1308937241/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://paul-abbott.bandcamp.com/album/nsular">Nsular by Paul Abbott</a></iframe>
+        </div>
+        <img src="https://f4.bcbits.com/img/a0481765264_10.jpg"
+        class="responsive-img"><br>
+        <!-- link to discogs images page
+        <a href="assets/ductus/DUCTUS-2019-BOOKLET-WEB.pdf">Ductus Booklet PDF</a>
+        !-->
+    </div>
+</details>
+
+**DUCTUS** performance [Talbot Rice Gallery](https://www.trg.ed.ac.uk/event/paul-abbott-ductus)
 
 **DUCTUS** performance [Serralves Em Festa](https://www.serralvesemfesta.com/evento/m16a-paul-abott/)
 
@@ -8,7 +26,7 @@
 <strong>DUCTUS</strong> CD & booklet <a href="https://paul-abbott.bandcamp.com/album/ductus">Bandcamp</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
-        Rhythmic Figure: Ductus <a href="#">Project page</a>.<br>
+        <!--Rhythmic Figure: Ductus <a href="#">Project page</a>.<br>!-->
         <blockquote>DUCTUS is an organic environment, a comedy of vibrations and signs, featuring the fictional characters DETECTIVE ENGINEER, QOSEL, and STRIKE.</blockquote>
         DUCTUS is the first of 3 'Rhythmic Figure' projects.  51 minutes of audio, 12 tracks, 42 page booklet. DUCTUS was written and recorded in Edinburgh and Porto in 2019.
         <!-- project page = /rf/ductus !-->
@@ -17,7 +35,7 @@
         </div>
         <img src="https://f4.bcbits.com/img/a4080751166_10.jpg"
         class="responsive-img"><br>
-        <!-- link to discogs images page 
+        <!-- link to discogs images page
         <a href="assets/ductus/DUCTUS-2019-BOOKLET-WEB.pdf">Ductus Booklet PDF</a>
         !-->
     </div>
@@ -43,7 +61,7 @@
 **performance** [Cafe OTO](http://www.cafeoto.co.uk)
 
 <details><summary>
-<strong>Sphuzo</strong> digital & booklet 
+<strong>Sphuzo</strong> digital & booklet
 <a href="https://paul-abbott.bandcamp.com/album/sphuzo">Bandcamp</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
@@ -65,9 +83,9 @@
 **performance** [Speeding and Breaking](https://www.gold.ac.uk/calendar/?id=9889)
 
 <details><summary>
-<strong>QNO</strong> recording <a href="https://www.cafeoto.co.uk/shop/paul-abbott-010216-dl">OTOroku digital</a> 
+<strong>QNO</strong> recording <a href="https://www.cafeoto.co.uk/shop/paul-abbott-010216-dl">OTOroku digital</a>
 <sup>(+)</sup>
-</summary> 
+</summary>
     <div id="details-wrap">
         Solo performance, live recording from Cafe OTO
         <div id="bs-player">
@@ -94,9 +112,9 @@
 **Queen Of the Shell** [text](#) published in [Cesura//Acceso #2](https://anagrambooks.com/cesura-acceso-issue-2)
 
 <details><summary>
-<strong>VAGUS</strong> CD & booklet <a href="http://www.portaaaa.com/porta-11/">PORTAA</a> 
+<strong>VAGUS</strong> CD & booklet <a href="http://www.portaaaa.com/porta-11/">PORTAA</a>
 <sup>(+)</sup>
-</summary> 
+</summary>
     <div id="details-wrap">
             <div id="bs-player">
                 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/200763111&color=00ff00&show_artwork=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/portaaaa" title="PORTA" target="_blank" style="color: #cccccc; text-decoration: none;">PORTA</a> · <a href="https://soundcloud.com/portaaaa/11-cd-r-publication-paul-abbott-vagus-excerpt" title="#11 CD-R / Publication: Paul Abbott - Vagus (excerpt)" target="_blank" style="color: #cccccc; text-decoration: none;">#11 CD-R / Publication: Paul Abbott - Vagus (excerpt)</a></div>
@@ -135,12 +153,12 @@
 
 **performance** Folds/Very Good* F.R.David launch [Cafe OTO](https://www.cafeoto.co.uk/events/keira-greene-rian-treanor-paul-abbott-will-holder/) <!--jan 2020 !-->
 
-**performance** [Counterflows](#) Kings Hall <!--2019 !--> 
+**performance** [Counterflows](#) Kings Hall <!--2019 !-->
 
 
 ### —RP Boo Trio (with [RP Boo](#) & [Semour Wright](#))
 
-<!--2019!--> **performance** [Badd Bonn Festival](http://kilbi.badbonn.ch/2019/en/shows/rp-boo-wright-abbott-trio-3/) 
+<!--2019!--> **performance** [Badd Bonn Festival](http://kilbi.badbonn.ch/2019/en/shows/rp-boo-wright-abbott-trio-3/)
 
 <details><summary>
 <!--2019!--> <strong>DS134—31.12.18</strong> digital release <a href="https://www.cafeoto.co.uk/shop/xt-and-rp-boo-311218/">OTOrokuDigital</a><sup>(+)</sup>
@@ -210,7 +228,7 @@
 </summary>
     <div id="details-wrap">
         <a href="https://cafeoto.co.uk/shop/xt-container-9818/">Cafe OTO page</a><br>
-        <blockquote>First time trio from Ren Schofield, Seymour Wright and Paul Abbott. Seymour Wright: saxophone; Paul Abbott: drums, electronics; Ren Schofield: Roland 909, tape machine, delay. 2018.</blockquote> 
+        <blockquote>First time trio from Ren Schofield, Seymour Wright and Paul Abbott. Seymour Wright: saxophone; Paul Abbott: drums, electronics; Ren Schofield: Roland 909, tape machine, delay. 2018.</blockquote>
         <img src="https://www.cafeoto.co.uk/media/thumbnails/uploads/ds136-container-xt_page_image.jpg" class="responsive-img"><br>
     </div>
 </details>
@@ -344,7 +362,7 @@ performance [The Art School Glasgow]() <!--2014!-->
         De La War Pavillion Bexhil<br> <!--2014 !-->
         Hideous Porta London<br> <!--2014 !-->
         Cafe Oto<br> <!--2014 !-->
-        Hagenfest 
+        Hagenfest
     </div>
 </details>
 
@@ -405,7 +423,7 @@ About <strong>Cesura//Acceso</strong><sup>(+)</sup>
 
 ### —Other Collaborative Projects
 
-<!-- TO FINISH NOTES------------------------------- 
+<!-- TO FINISH NOTES-------------------------------
 **Wolf Ecologies** trio
 **Trio in Porto**
 **Bradon LaBelle South London**

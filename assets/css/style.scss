@@ -4,6 +4,7 @@
 @import "{{ site.theme }}";
 
 /* CUSTOM CSS */
+/* paulabbott.net site */
 
 /* main-container */
 .container-lg{
@@ -33,9 +34,9 @@
 }
 
 /* soundcloud-bandcamp player container */
-#bs-player, 
+#bs-player,
 .markdown-body #bs-player,
-#bs-player:hover, 
+#bs-player:hover,
 .markdown-body #bs-player:hover,
 {
     max-width: 600px;
@@ -45,7 +46,7 @@
 }
 
 /* image container */
-#details-wrap > img, 
+#details-wrap > img,
 .markdown-body img,
 .markdown-body img .responsive-img,
 img
@@ -89,7 +90,7 @@ img
 }
 
 /* date/indent */
-.markdown-body code, code, 
+.markdown-body code, code,
 .markdown-body samp, samp,
 .markdown-body kbd, kbd
 {
@@ -120,7 +121,7 @@ img
 .markdown-body strong, strong{
     color: black; /* porto theme green; */
     font-weight: 400; /* 400 with green */
-     
+
 }
 
 /*  details-summary collapse style
@@ -164,7 +165,7 @@ sup {
     vertical-align: super;
     font-size: smaller;
     font-weight: 500;
-    color: red !important; 
+    color: red !important;
     position: inherit;
     margin-left: 0.4em;
 }
@@ -172,7 +173,3 @@ sup {
 sup:hover{
     color: green !important;
 }
-
-
-
-

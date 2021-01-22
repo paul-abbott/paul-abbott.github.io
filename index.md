@@ -8,7 +8,7 @@
         <blockquote>So we oeandha perform the five theatre body or environment characters of nsular: Knee (Lover), Core (Pendulum), Back (Peacock), Limb (Leaf ) and Neck (Folds) [...]</blockquote> NSULAR is the second of 3 ‘Rhythmic Figure’ projects, following DUCTUS (2019). 61 minutes of audio, across 5 tracks, and a 28 page booklet with new writing; written and recorded in Edinburgh and Brussels in 2020.   
         <!-- project page = /rf/ductus !-->
         <div id="bs-player">
-             <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1308937241/size=small/bgcol=ffffff/linkcol=0687f5/artwork=none/transparent=true/" seamless><a href="https://paul-abbott.bandcamp.com/album/nsular">Nsular by Paul Abbott</a></iframe>
+             <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1308937241/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=none/transparent=true/" seamless><a href="https://paul-abbott.bandcamp.com/album/nsular">Nsular by Paul Abbott</a></iframe>
         </div>
         <img src="https://f4.bcbits.com/img/a0481765264_10.jpg"
         class="responsive-img"><br>

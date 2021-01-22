@@ -1,7 +1,7 @@
 ## Solo Projects
 
 <details><summary>
-<strong>NSULAR</strong> CD & booklet <a href="https://paul-abbott.bandcamp.com/album/nsular">Bandcamp</a><sup>(+)</sup>
+<strong>NSULAR</strong> Digital & booklet <a href="https://paul-abbott.bandcamp.com/album/nsular">Bandcamp</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         <!--Rhythmic Figure: Ductus <a href="#">Project page</a>.<br>!-->

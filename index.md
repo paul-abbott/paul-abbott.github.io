@@ -243,10 +243,10 @@ Selected projects:
 <details><summary>
 <strong>Anne Gillis & XT 'Our/s Bouture(s)'</strong> Broadcast/Stream <a href="https://www.cafeoto.co.uk/archive/2021/06/02/anne-gillis-xt-paul-abbott-seymour-wright-ours-bou/">Cafe OTO</a><sup>(+)</sup>
 </summary>
-    <div id="details-wrap">
-    <blockquote>[Dear Anne] "We imagine a room - OTO - which we move around (with sounds) in which we are planting bulbs, sprouts/roots, seeds, graftings/clippings (but these plants are sounds and movements), which grow and evolve organically, but can repeat mechanically. Many births!"</blockquote>
+  <div id="details-wrap">
+  <blockquote>[Dear Anne] "We imagine a room - OTO - which we move around (with sounds) in which we are planting bulbs, sprouts/roots, seeds, graftings/clippings (but these plants are sounds and movements), which grow and evolve organically, but can repeat mechanically. Many births!"</blockquote>
       Anne Gillis and XT (Seymour Wright and I) have developed a new work remotely, together. Responding to the invitation above - recorded and assembled - in three locations: Paris (Anne), Brussels (Paul) and London (Seymour). It was played inside cafe OTO. Following this live 'broadcast', the recording is available to listen to for free online, for one week between 2 - 9 June, [here](https://www.cafeoto.co.uk/archive/2021/06/02/anne-gillis-xt-paul-abbott-seymour-wright-ours-bou/)
-    </div>
+  </div>
 </details>
 
 <!-- Palina'tufa !-->

@@ -234,7 +234,7 @@ Selected projects:
     <div id="details-wrap">
       <blockquote>New music from XT: A reflective re-assembling of a dozen years working together. Deorlaf X is located in Dalston, and specifically at OTO. “A changing cast of OTO guests, audience and emotions hosted each time in a new London.</blockquote>
           <div id="bs-player">
-            <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1055336659&color=%23584d42&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&amp;show_artwork=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cafeoto" title="cafeOTO" target="_blank" style="color: #cccccc; text-decoration: none;">cafeOTO</a> · <a href="https://soundcloud.com/cafeoto/roku026-sample" title="ROKU026 - Deorlaf X [sample]" target="_blank" style="color: #cccccc; text-decoration: none;">ROKU026 - Deorlaf X [sample]</a></div>
+            <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1055336659&color=%23584d42&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&show_artwork=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cafeoto" title="cafeOTO" target="_blank" style="color: #cccccc; text-decoration: none;">cafeOTO</a> · <a href="https://soundcloud.com/cafeoto/roku026-sample" title="ROKU026 - Deorlaf X [sample]" target="_blank" style="color: #cccccc; text-decoration: none;">ROKU026 - Deorlaf X [sample]</a></div>
       <img src="https://www.cafeoto.co.uk/media/thumbnails/uploads/roku026-deorlaf_page_image.png" class="responsive-img"><br>
 
     </div>
@@ -277,7 +277,6 @@ Selected projects:
 
 <!--
 **XT & Pat Thomas** perform Akasakila [Cafe OTO](https://www.cafeoto.co.uk/events/cecil-taylor-oto-tribute/)<!--2018 !-->
-!-->
 
 <!--
 **Empty Gallery** residency [Empty Gallery](https://emptygallery.com/)
@@ -285,7 +284,6 @@ Selected projects:
 
 <!--
 **ornette** performance [Experimental Library](https://www.cafeoto.co.uk/events/the-experimental-library-ornette-coleman/) Cafe OTO <!-- 2018 !-->
-!-->
 
 <details><summary>
 <strong>Tanadonu Roll</strong> digital release <a href="https://xxxxxxxxxttttttt.bandcamp.com/releases">Bandcamp</a><sup>(+)</sup>

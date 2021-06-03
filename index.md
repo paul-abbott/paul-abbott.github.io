@@ -1,4 +1,6 @@
-## Solo Projects
+Selected projects:
+
+## Solo
 
 <details><summary>
 <strong>NSULAR</strong> Digital & booklet <a href="https://paul-abbott.bandcamp.com/album/nsular">Bandcamp</a><sup>(+)</sup>
@@ -308,11 +310,20 @@ performance [The Art School Glasgow]() <!--2014!-->
 
 ### —with [Keira Greene](http://keiragreene.com/)
 
-**sound** for [Eustatic Drift](https://lux.org.uk/work/eustatic-drift-2)
+<!--pegs
+[pegs](https://pegs.site)
 
+!-->
+
+**sound** for film [Folds](https://lux.org.uk/work/folds)
+
+**sound** for film [Eustatic Drift](https://lux.org.uk/work/eustatic-drift-2)
+
+<!--
 **The Thinking Body As A Second Language** performance [RCA]()
 
 **Falls (Version)**  
+!-->
 
 ### —with [Will Holder](https://www.uhbooks.directory/), [Seymour Wright](http://www.seymourwright.com), [Cara Tolmie](http://caratolmie.tumblr.com)
 

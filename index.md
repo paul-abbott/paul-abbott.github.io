@@ -447,3 +447,7 @@ About <strong>Cesura//Acceso</strong><sup>(+)</sup>
 ** add various images to solo, and other performances **
 ** from motor to seed solo text image **
 !-->
+
+### Research
+
+__Playing no solo imagination: synthesising the rhythmic emergence of sound and sign formation through embodied drum kit performance and creative writing.__ [Creative Music Practice PhD, Edinburgh University](https://www.eca.ed.ac.uk/profile/paul-abbott)

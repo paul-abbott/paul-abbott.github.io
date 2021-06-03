@@ -169,7 +169,7 @@ Selected projects:
         Recorded live at Cafe OTO on Tuesday 31st December 2018. Details at <a href="https://www.cafeoto.co.uk/shop/xt-and-rp-boo-311218/">release page</a>
         <blockquote>Chicago footwork originator and pioneer RP Boo alongside ever-radical, longstanding collaborators Seymour Wright and Paul Abbott in a special New Years Eve trio.</blockquote>
             <div id="bs-player">
-            <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/643430094&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false/&amp;show_artwork=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cafeoto" title="cafeOTO" target="_blank" style="color: #cccccc; text-decoration: none;">cafeOTO</a> · <a href="https://soundcloud.com/cafeoto/ds134-xt-rp-boo-311218" title="DS134 - XT &amp; RP Boo - 31.12.18" target="_blank" style="color: #cccccc; text-decoration: none;">DS134 - XT &amp; RP Boo - 31.12.18</a></div>
+              <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/643430094&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false/&amp;show_artwork=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cafeoto" title="cafeOTO" target="_blank" style="color: #cccccc; text-decoration: none;">cafeOTO</a> · <a href="https://soundcloud.com/cafeoto/ds134-xt-rp-boo-311218" title="DS134 - XT &amp; RP Boo - 31.12.18" target="_blank" style="color: #cccccc; text-decoration: none;">DS134 - XT &amp; RP Boo - 31.12.18</a></div>
             </div>
         <img src="https://i1.sndcdn.com/artworks-000558815913-by0cfd-t500x500.jpg" class="responsive-image"><br>
     </div>
@@ -227,6 +227,30 @@ Selected projects:
 
 ### —XT with [Seymour Wright](http://www.seymourwright.com)
 
+<!-- Deorlaf X !-->
+<details><summary>
+<strong>Deorlaf X</strong> LP/Digital<a href="https://www.cafeoto.co.uk/shop/xt-deorlaf-x/"> OTOroku</a><sup>(+)</sup>
+</summary>
+    <div id="details-wrap">
+      <blockquote>New music from XT: A reflective re-assembling of a dozen years working together. Deorlaf X is located in Dalston, and specifically at OTO. “A changing cast of OTO guests, audience and emotions hosted each time in a new London.</blockquote>
+          <div id="bs-player">
+            <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1055336659&color=%23584d42&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&amp;show_artwork=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cafeoto" title="cafeOTO" target="_blank" style="color: #cccccc; text-decoration: none;">cafeOTO</a> · <a href="https://soundcloud.com/cafeoto/roku026-sample" title="ROKU026 - Deorlaf X [sample]" target="_blank" style="color: #cccccc; text-decoration: none;">ROKU026 - Deorlaf X [sample]</a></div>
+      <img src="https://www.cafeoto.co.uk/media/thumbnails/uploads/roku026-deorlaf_page_image.png" class="responsive-img"><br>
+
+    </div>
+</details>
+
+<!-- Anne Gillis & XT !-->
+<details><summary>
+<strong>Anne Gillis & XT 'Our/s Bouture(s)'</strong> Broadcast/Stream <a href="https://www.cafeoto.co.uk/archive/2021/06/02/anne-gillis-xt-paul-abbott-seymour-wright-ours-bou/">Cafe OTO</a><sup>(+)</sup>
+</summary>
+    <div id="details-wrap">
+    <blockquote>[Dear Anne] "We imagine a room - OTO - which we move around (with sounds) in which we are planting bulbs, sprouts/roots, seeds, graftings/clippings (but these plants are sounds and movements), which grow and evolve organically, but can repeat mechanically. Many births!"</blockquote>
+      Anne Gillis and XT (Seymour Wright and I) have developed a new work remotely, together. Responding to the invitation above - recorded and assembled - in three locations: Paris (Anne), Brussels (Paul) and London (Seymour). It was played inside cafe OTO. Following this live 'broadcast', the recording is available to listen to for free online, for one week between 2 - 9 June, [here](https://www.cafeoto.co.uk/archive/2021/06/02/anne-gillis-xt-paul-abbott-seymour-wright-ours-bou/)
+    </div>
+</details>
+
+<!-- Palina'tufa !-->
 <details><summary>
 <strong>Palina'tufa</strong> 2xLP & digital <a href="https://emptyeditions.bandcamp.com/album/ee004-palinatufa">Empty Editions</a><sup>(+)</sup>
 </summary>
@@ -251,11 +275,17 @@ Selected projects:
     </div>
 </details>
 
+<!--
 **XT & Pat Thomas** perform Akasakila [Cafe OTO](https://www.cafeoto.co.uk/events/cecil-taylor-oto-tribute/)<!--2018 !-->
+!-->
 
+<!--
 **Empty Gallery** residency [Empty Gallery](https://emptygallery.com/)
+!-->
 
+<!--
 **ornette** performance [Experimental Library](https://www.cafeoto.co.uk/events/the-experimental-library-ornette-coleman/) Cafe OTO <!-- 2018 !-->
+!-->
 
 <details><summary>
 <strong>Tanadonu Roll</strong> digital release <a href="https://xxxxxxxxxttttttt.bandcamp.com/releases">Bandcamp</a><sup>(+)</sup>

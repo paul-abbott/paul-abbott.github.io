@@ -322,7 +322,7 @@ four day residency [Cafe OTO]() <!--2014!-->
 
 performance [The Art School Glasgow]() <!--2014!-->
 
-### —yPLO with [Micheal Spears]()
+### —yPLO with [Micheal Speers]()
 
 **performance** [Cafe OTO](https://www.cafeoto.co.uk/events/yplo-paul-abbott-michael-speers/)
 

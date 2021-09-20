@@ -227,6 +227,23 @@ Selected projects:
 
 ### —XT with [Seymour Wright](http://www.seymourwright.com)
 
+
+<!-- Deorlaf Z (version) for XT Deorlaf X Live !-->
+<details><summary>
+<strong>Deorlaf Z (version) for XT Deorlaf X Live</strong> Digital<a href="https://www.cafeoto.co.uk/shop/paul-abbott-deorlaf-z-version-for-xt-deorlaf-x-liv/"> Takuroku</a><sup>(+)</sup>
+</summary>
+    <div id="details-wrap">
+      <blockquote>Seymour Wright and I had exchanged some ideas in advance of, to prepare for, our live performance for the launch of the XT 'Deorlaf X' OTOroku record, at Cafe OTO. I began to prepare some material based on our thoughts, and the Deorlaf X record. This congealed unexpectedly, into the 38 minutes which became this Deorlaf "Z" iteration. For the OTO event, the sounds were then reworked live (from Brussels), with Seymour's material (live in London). I'd said this: "The ingredients were those initial ideas: 'dub' mutations, Deorlaf (Dalston) & XT histories (memory) plus mutated bifurcations:—thinking about (distanced, as we are/will be for the 14th [July, 2021]) joins, connections, transitions (edges, bridges, membranes, blocks) intense and continual communication (pouring in/out, simultaneously: time, density, speed) across real and imaged spaces. I used the Deorlaf [X] section (beeps) as one draped, initial frame, the rest was a continual pouring in/out; ultra(s) close/far/fast/slow/low frequency/high frequency."</blockquote>
+
+      <div id="bs-player">
+        <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1055336659&color=%23584d42&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true/&amp;show_artwork=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cafeoto" title="cafeOTO" target="_blank" style="color: #cccccc; text-decoration: none;">cafeOTO</a> · <a href="https://soundcloud.com/cafeoto/tr192-paul-abbott-deorlaf-z-version-for-xt-deorlaf-x-live-excerpt" title="TR192 - Paul Abbott - &#x27;Deorlaf Z (version) for XT Deorlaf X Live&#x27; [excerpt]" target="_blank" style="color: #cccccc; text-decoration: none;">TR192 - Paul Abbott - &#x27;Deorlaf Z (version) for XT Deorlaf X Live&#x27; [excerpt]</a></div>
+      </div>
+
+      <img src="https://www.cafeoto.co.uk/media/thumbnails/uploads/tr192-paul-abbott_page_image.jpg" class="responsive-img"><br>
+      <!--[ Listen to sample](https://soundcloud.com/cafeoto/roku026-sample)!-->
+    </div>
+</details>
+
 <!-- Deorlaf X !-->
 <details><summary>
 <strong>Deorlaf X</strong> LP/Digital<a href="https://www.cafeoto.co.uk/shop/xt-deorlaf-x/"> OTOroku</a><sup>(+)</sup>

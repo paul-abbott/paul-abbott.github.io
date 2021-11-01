@@ -3,7 +3,7 @@ Selected projects:
 ## Solo
 
 <details><summary>
-<strong>NSULAR</strong> Digital & booklet <!--<a href="https://paul-abbott.bandcamp.com/album/nsular">!-->Bandcamp</a>
+<strong>NSULAR</strong> <em>Digital & booklet </em> Bandcamp</a>
 </summary>
     <div id="details-wrap">
         <!--Rhythmic Figure: Ductus <a href="#">Project page</a>.<br>!-->
@@ -20,12 +20,12 @@ Selected projects:
     </div>
 </details>
 
-**DUCTUS** performance [Talbot Rice Gallery](https://www.trg.ed.ac.uk/event/paul-abbott-ductus)
+**DUCTUS** _performance_ [Talbot Rice Gallery](https://www.trg.ed.ac.uk/event/paul-abbott-ductus)
 
-**DUCTUS** performance [Serralves Em Festa](https://www.serralvesemfesta.com/evento/m16a-paul-abott/)
+**DUCTUS** _performance_ [Serralves Em Festa](https://www.serralvesemfesta.com/evento/m16a-paul-abott/)
 
 <details><summary>
-<strong>DUCTUS</strong> CD & booklet <a href="https://paul-abbott.bandcamp.com/album/ductus">Bandcamp</a>
+<strong>DUCTUS</strong> <em>CD & booklet </em>Bandcamp
 </summary>
     <div id="details-wrap">
         <!--Rhythmic Figure: Ductus <a href="#">Project page</a>.<br>!-->
@@ -43,22 +43,24 @@ Selected projects:
     </div>
 </details>
 
-**performance** [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) Smup Parede Lisbon
+_performance_ [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) Smup Parede Lisbon
 
-**Percebes** performance [No Noise #4 Sonoscopia](https://www.facebook.com/events/903774636489378/)
+**Percebes** _performance_ [No Noise #4 Sonoscopia](https://www.facebook.com/events/903774636489378/)
 
 <details><summary>
-<strong>Paene</strong> recording <a href="https://www.cafeoto.co.uk/shop/paul-abbott-jake-meginsky-9418">OTOroku digital</a>
+<strong>Paene</strong> <em>recording </em>OTOroku digital
 </summary>
     <div id="details-wrap">
     <div id="paene"></div>
-    Live recording from Cafe OTO 9/4/18. Double digital release with Jake Meginsky.
+    Live recording from Cafe OTO 9/4/18. Double digital release with Jake Meginsky. <a href="https://www.cafeoto.co.uk/shop/paul-abbott-jake-meginsky-9418">OTO Roku Digital</a>
     <div id="bs-player">
         <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/458291286&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&amp;show_artwork=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cafeoto" title="cafeOTO" target="_blank" style="color: #cccccc; text-decoration: none;">cafeOTO</a> · <a href="https://soundcloud.com/cafeoto/paene-sample-paul-abbott" title="Paene Sample [Paul Abbott]" target="_blank" style="color: #cccccc; text-decoration: none;">Paene Sample [Paul Abbott]</a></div>
     </div>
     <img src="https://i1.sndcdn.com/artworks-000360676188-dn77nu-t500x500.jpg" class="responsive-img">
     </div>
 </details>
+
+<!--need to edit code after here  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!    !-->
 
 **performance** [Cafe OTO](http://www.cafeoto.co.uk)
 

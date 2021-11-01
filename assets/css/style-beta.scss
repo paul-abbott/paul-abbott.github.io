@@ -14,6 +14,8 @@
 --main-txt-color: lightgrey;
 --main-txt-size: 18px;
 --main-line-height: 1.25;
+--max-width: 800px;
+--inset-width: 600px;
 /* light scheme */
 /* off
 --main-bg-color: white;
@@ -27,7 +29,7 @@
 
 /* main-container */
 .container-lg{
-    max-width: 800px;
+    max-width: var(--max-width);
     background: var(--main-bg-color) !important;
 }
 
@@ -57,7 +59,7 @@
 /*details>details wrapper */
 #details-wrap, #details-wrap:hover{
     width:inherit;
-    max-width: 600px;
+    max-width: var(--inset-width);
     margin-left: 1em;
     margin-bottom: 2em;
     margin-top: 2em;
@@ -70,7 +72,7 @@
 #bs-player:hover,
 .markdown-body #bs-player:hover,
 {
-    max-width: 600px;
+    max-width: var(--inset-width);
     margin-top: 0.5em;
     margin-bottom: 0.5em;
     /* background: #FFD1CE; */
@@ -83,10 +85,10 @@
 img
 {
     width: 100%;
-    max-width: 600px;
+    max-width: var(--inset-width);
     height: auto;
     margin: 0.5em 0 0.5em 0;
-    /* background: #FFD1CE; */
+    border
 }
 
 .markdown-body blockquote, blockquote{

@@ -18,14 +18,12 @@
 /* dusk */
 --main-bg-color: #404040;
 --main-txt-color: lightgrey;
-
+--main-txt-hover: mediumseagreen;
 /* light scheme */
 /*
 --main-bg-color: white;
 --main-txt-color: black;
 */
-
---main-txt-hover: red;
 --main-txt-hover-decoration: underline;
 --txt-underline-up-col: grey;
 --main-txt-size: 16px;
@@ -162,7 +160,7 @@ img
 
 /* markdown to bold style */
 .markdown-body strong, strong{
-    color: var(--main-txt-color);
+    /* color: var(--main-txt-color); */
     font-weight: 400;
 
 }

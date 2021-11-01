@@ -11,7 +11,9 @@
 :root {
 /* dark scheme */
 --main-bg-color: black;
---main-txt-color: white;
+--main-txt-color: lightgrey;
+--main-txt-size: 18px;
+--main-line-height: 1.25;
 /* light scheme */
 /* off
 --main-bg-color: white;
@@ -30,8 +32,8 @@
 }
 
 .markdown-body, body{
-    font-size: 15px;
-    line-height: 1.2;
+    font-size: var(--main-txt-size);
+    line-height: var(--main-line-height);
     background: var(--main-bg-color) !important;
     color: var(--main-txt-color) !important;
 }

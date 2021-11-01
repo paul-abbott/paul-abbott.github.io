@@ -32,11 +32,11 @@
 .markdown-body, body{
     font-size: 15px;
     line-height: 1.2;
-    background: var(--main-bg-color);
+    background: var(--main-bg-color) !important;
 }
 
 .markdown-body a, body a{
-    color: var(--main-txt-color);
+    color: var(--main-txt-color) !important;
     text-decoration: underline;
 }
 
@@ -80,9 +80,9 @@ img
     margin-bottom: 0.5em;
     padding: 0 1em;
     border: 0;
-    color: black;
+    color: var(--main-txt-color)!important;
     font-family: courier;
-    /* background: #FFD1CE; */
+    background: var(--main-bg-color) !important;
 }
 
 .markdown-body h1, h1 {

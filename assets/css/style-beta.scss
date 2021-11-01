@@ -26,7 +26,7 @@
 /* main-container */
 .container-lg{
     max-width: 800px;
-    background: white; /* porto pink #FFD1CE; */
+    background: var(--main-bg-color) !important;
 }
 
 .markdown-body, body{
@@ -38,8 +38,8 @@
 
 .markdown-body a, body a{
     color: var(--main-txt-color) !important;
-    text-decoration: underline;
-    text-decoration-style: dotted;
+    text-decoration: underline !important;
+    text-decoration-style: dotted !important;
 }
 
 .markdown-body a:hover{
@@ -51,8 +51,6 @@
     font-weight: 200; /* black theme light black */
     color: var(--main-txt-color) !important;
 }
-
-
 
 /*details>details wrapper */
 #details-wrap, #details-wrap:hover{
@@ -94,8 +92,8 @@ img
     margin-bottom: 0.5em;
     padding: 0 1em;
     border: 0;
-    color: var(--main-txt-color)!important;
     font-family: courier;
+    color: var(--main-txt-color)!important;
     background: var(--main-bg-color) !important;
 }
 
@@ -114,8 +112,6 @@ img
     padding-bottom: 0.3em;
     border-bottom: none;
 }
-
-
 
 /* date/indent */
 .markdown-body code, code,
@@ -158,8 +154,8 @@ img
 */
 details > summary {
     border: none;
-    text-decoration: underline;
-    text-decoration-style: dotted;
+    text-decoration: underline !important;
+    text-decoration-style: dotted !important;
     cursor: pointer;
     list-style: none;
     display: block;
@@ -178,9 +174,7 @@ details :hover,
 details a:hover,
 details .strong:hover
 {
-    /* color: green !important; */
-    text-decoration: underline;
-    /* background-color: lightgrey; */
+    text-decoration: underline !important;
 }
 
 details open{

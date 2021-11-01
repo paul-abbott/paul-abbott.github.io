@@ -37,8 +37,16 @@
 
 .markdown-body a, body a{
     color: var(--main-txt-color) !important;
-    text-decoration: underline;
+    text-decoration: dotted;
 }
+
+.markdown-body p, p, details p, details a{
+    margin-bottom: 4px;
+    font-weight: 200; /* black theme light black */
+    color: var(--main-txt-color) !important;
+}
+
+
 
 /*details>details wrapper */
 #details-wrap, #details-wrap:hover{
@@ -101,10 +109,7 @@ img
     border-bottom: none;
 }
 
-.markdown-body p, p, details p, details a{
-    margin-bottom: 4px;
-    font-weight: 200; /* black theme light black */
-}
+
 
 /* date/indent */
 .markdown-body code, code,
@@ -167,7 +172,7 @@ details a:hover,
 details .strong:hover
 {
     /* color: green !important; */
-    /* text-decoration: underline; */
+    text-decoration: underline;
     /* background-color: lightgrey; */
 }
 
@@ -182,11 +187,12 @@ sup {
     vertical-align: super;
     font-size: smaller;
     font-weight: 500;
-    color: red !important;
+    color: var(--main-bg-color) !important; /* makes invisible */
     position: inherit;
     margin-left: 0.4em;
 }
 
 sup:hover{
-    color: green !important;
+
+    /* color: green !important; */
 }

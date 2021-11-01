@@ -33,11 +33,17 @@
     font-size: 15px;
     line-height: 1.2;
     background: var(--main-bg-color) !important;
+    color: var(--main-txt-color) !important;
 }
 
 .markdown-body a, body a{
     color: var(--main-txt-color) !important;
-    text-decoration: dotted;
+    text-decoration: underline;
+    text-decoration-style: dotted;
+}
+
+.markdown-body a:hover{
+  text-decoration: underline;
 }
 
 .markdown-body p, p, details p, details a{
@@ -152,7 +158,8 @@ img
 */
 details > summary {
     border: none;
-    text-decoration: none;
+    text-decoration: underline;
+    text-decoration-style: dotted;
     cursor: pointer;
     list-style: none;
     display: block;

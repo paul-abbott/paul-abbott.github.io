@@ -42,8 +42,8 @@
     text-decoration-style: dotted !important;
 }
 
-.markdown-body a:hover{
-  text-decoration: underline;
+.markdown-body a:hover, body a:hover{
+  text-decoration: underline !important;
 }
 
 .markdown-body p, p, details p, details a{
@@ -170,7 +170,7 @@ details > summary::-webkit-details-marker {
 }
 
 /* when hovering over extra content line */
-details :hover,
+details > summary:hover,
 details a:hover,
 details .strong:hover
 {

@@ -15,7 +15,7 @@
 --main-txt-size: 18px;
 --main-line-height: 1.25;
 --max-width: 800px;
---inset-width: 600px; 
+--inset-width: 600px;
 /* light scheme */
 /* off
 --main-bg-color: white;
@@ -88,7 +88,8 @@ img
     max-width: var(--inset-width);
     height: auto;
     margin: 0.5em 0 0.5em 0;
-    border
+    border: 1px solid !important;
+    border-color: grey !important;
 }
 
 .markdown-body blockquote, blockquote{

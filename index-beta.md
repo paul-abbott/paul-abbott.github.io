@@ -9,7 +9,7 @@
 
 ## Solo
 
-<details><summary>
+<details><summary markdown='span'>
 000000{:.pdate}
 NSULAR{:.pproject}
 Digital & booklet{:.ptype}

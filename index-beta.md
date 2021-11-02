@@ -1,9 +1,20 @@
-Selected projects:
+<!--important to be able to mix HTML+MARLDOWN !-->
+{::options parse_block_html="true" /}
+<!--main content below!-->
+
+<!--universal NAV!-->
+[About](/about.html), [Projects](/index-beta.html), [Activity](/activity.html)
+
+
+<!--main content below -------------------------------------------------!-->
 
 ## Solo
 
 <details><summary>
-<strong>NSULAR</strong> <em>Digital & booklet </em> Bandcamp</a>
+000000{: .pdate}
+NSULAR{: .pproject}
+Digital & booklet{: .ptype}
+Bandcamp{.ppublisher}
 </summary>
     <div id="details-wrap">
         <!--Rhythmic Figure: Ductus <a href="#">Project page</a>.<br>!-->
@@ -88,7 +99,6 @@ _performance_ [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) 
 
 <details><summary>
 <strong>QNO</strong> recording <a href="https://www.cafeoto.co.uk/shop/paul-abbott-010216-dl">OTOroku digital</a>
-
 </summary>
     <div id="details-wrap">
         Solo performance, live recording from Cafe OTO

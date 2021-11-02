@@ -68,6 +68,22 @@
     color: var(--main-txt-color) !important;
 }
 
+/* CUSTOM SPAN CLASSES */
+
+.pdate{
+  color: green !important;
+}
+.pproject{
+  font-weight: bold !important;
+  font-variant: normal !important;
+}
+.ptype{
+  font-style: italic;
+}
+.ppublisher{
+  color: yellow !important;
+}
+
 /*details>details wrapper */
 #details-wrap, #details-wrap:hover{
     width:inherit;

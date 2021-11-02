@@ -10,10 +10,10 @@
 ## Solo
 
 <details><summary>
-000000{: .pdate}
-NSULAR{: .pproject}
-Digital & booklet{: .ptype}
-Bandcamp{.ppublisher}
+000000{:.pdate}
+NSULAR{:.pproject}
+Digital & booklet{:.ptype}
+Bandcamp{:.ppublisher}
 </summary>
     <div id="details-wrap">
         <!--Rhythmic Figure: Ductus <a href="#">Project page</a>.<br>!-->

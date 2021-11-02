@@ -1,11 +1,13 @@
-<!--universal NAV!-->
-[About](/about.html), [Projects](/index-beta.html), [Activity](/activity.html)
-
 <!--important to be able to mix HTML+MARLDOWN !-->
 {::options parse_block_html="true" /}
 <!--main content below!-->
 
+<!--universal NAV!-->
+[About](/about.html), [Projects](/index-beta.html), [Activity](/activity.html)
+
 <!--main content below -------------------------------------------------!-->
+
+test{:.pdate}
 
 ## Solo
 

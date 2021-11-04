@@ -1,5 +1,5 @@
-[Projects](https://paulabbott.net/index.html) [About](https://paulabbott.net/about/)
-
+[Projects](https://paulabbott.net/index.html) [About](https://paulabbott.net/about/)  
+  
 ### Selected projects:
 
 ## Solo

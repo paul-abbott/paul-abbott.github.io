@@ -1,4 +1,6 @@
-Selected projects:
+[Projects](https://paulabbott.net/index.html) [About](https://paulabbott.net/about/)
+
+__Selected projects:__
 
 ## Solo
 

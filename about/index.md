@@ -3,7 +3,6 @@
 ### About
 
 <div id="about-text">
-
 contact@paulabbott.net  
 
 Paul Abbott plays with real and imaginary drums, synthetic sounds, performance and writing.  

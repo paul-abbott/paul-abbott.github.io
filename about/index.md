@@ -4,10 +4,15 @@
 
 contact@paulabbott.net
 
-<iframe src="https://docs.google.com/document/d/e/2PACX-1vRyq1WSgCl6CgJ4fv1XU0FYVEpIaha7UUFX0_E7Cpp9R6IYyuTTiT6gK4ZlQv0nkHt69BJtwAMH8SjE/pub?embedded=true" width="100%" height="1000px" style="border:1px solid black;"></iframe>
+Paul Abbott plays with real and imaginary drums, synthetic sounds, performance and writing.
+
+Recent and ongoing collaborations include—[XT](#) with Seymour Wright; XT+[Anne Gillis](#); [_F.R.David_, very good*](https://www.uhbooks.directory/2020/03/02/f-r-david-very-good/) with Will Holder; sound design for [Keira Greene](http://keiragreene.com/); [Rian Treanor](http://www.riantreanor.com/) Duo; [RP Boo Trio](https://www.cafeoto.co.uk/shop/xt-and-rp-boo-311218/) with XT; [The Creaking Breeze Ensemble](https://www.cafeoto.co.uk/events/nathaniel-mackey-creaking-breeze-ensemble/) with Nathaniel Mackey, Ute Kanngießer, Evie Ward, Seymour Wright and Billy Steiger; yPLO with [Micheal Speers](https://michaelspeers.net/) and performances with [Cara Tolmie](http://caratolmie.tumblr.com/).
+
+Paul has performed internationally at Cafe OTO, Talbot Rice Gallery, Whitstable Biennale, Whitechapel Gallery, Raven Row, Tate Modern, Counterflows, Next Festival, KW Institute Berlin, Serralves Porto, Empty Gallery HK. He has records released by OTORoku, Empty Editions, Pleasures of The Text, and published with Cesura//Acceso and F.R.David. Residencies include Cafe OTO, KW Institute, Empty Gallery.
+
+Recent releases include solos [_Nsular_](https://paul-abbott.bandcamp.com/album/nsular), [_Ductus_](https://paul-abbott.bandcamp.com/album/ductus);
+XT: [_Deorlaf X_](https://www.cafeoto.co.uk/shop/xt-deorlaf-x/) (OTOroku), [_Palina’Tufa_](https://emptyeditions.bandcamp.com/album/ee004-palinatufa) (Empty Editions); Creaking Breeze Ensemble & Nathaniel Mackey, [_Fugitive Equation_](https://fonografeditions.com/catalog/f0no-13-nathaniel-mackey-and-the-creaking-breeze-ensemble-fugitive-equation-compact-disc/) (Fonograf Editions), [_very good*_](https://www.uhbooks.directory/2020/03/02/f-r-david-very-good/) (_F.R.David_); RP Boo Trio: [_31.12.18_](https://www.cafeoto.co.uk/shop/xt-and-rp-boo-311218/) (takuroku); He was one of the co-editor’s of Cesura//Acceso and a Sound and Music “Embedded” resident artist at Cafe OTO 2015-2016.
 
 ![brx](/assets/images/paul-biog-image-72.jpg)
 
 ![NoNoise](/assets/images/No-Noise-Porto-01.jpg)
-
-*

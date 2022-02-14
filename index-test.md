@@ -1,5 +1,7 @@
 [Projects](https://paulabbott.net/index.html) [About](https://paulabbott.net/about/)  
 
+<div id="main-index">
+
 ### Selected projects:
 
 ## Solo
@@ -512,3 +514,5 @@ About <strong>Cesura//Acceso</strong><sup>(+)</sup>
 ### Research
 
 __Playing no solo imagination: synthesising the rhythmic emergence of sound and sign through embodied drum kit performance and creative writing.__ [Creative Music Practice PhD Candidate, Edinburgh University](https://www.eca.ed.ac.uk/profile/paul-abbott)
+
+</div>  <!--main-index end !-->

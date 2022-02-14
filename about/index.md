@@ -9,3 +9,5 @@ contact@paulabbott.net
 ![brx](/assets/images/paul-biog-image-72.jpg)
 
 ![NoNoise](/assets/images/No-Noise-Porto-01.jpg)
+
+*

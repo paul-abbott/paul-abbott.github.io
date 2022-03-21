@@ -515,4 +515,4 @@ About <strong>Cesura//Acceso</strong><sup>(+)</sup>
 
 ### Research
 
-__Playing no solo imagination: synthesising the rhythmic emergence of sound and sign through embodied drum kit performance and creative writing.__ [Creative Music Practice PhD Candidate, Edinburgh University](https://www.eca.ed.ac.uk/profile/paul-abbott)
+__Playing no solo imagination: synthesising the rhythmic emergence of sound and sign through embodied drum kit performance and creative writing.__ [Creative Music Practice PhD, Edinburgh University, 2022](https://www.eca.ed.ac.uk/profile/paul-abbott)

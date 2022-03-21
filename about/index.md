@@ -1,6 +1,6 @@
 <!-- NAV for all headers !-->
 [Projects](https://paulabbott.net/index.html)
-[Upcoming]((https://paulabbott.net/future/)
+[Upcoming](https://paulabbott.net/future/)
 [About](https://paulabbott.net/about/)
 <!-- end nav! -->
 

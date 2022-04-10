@@ -4,15 +4,15 @@
 [About](https://paulabbott.net/about/)
 <!-- end nav! -->
 
-### About
+### •
 
 <div id="about-text" markdown="1">
 
 [bandcamp](https://paul-abbott.bandcamp.com)  
-[soundcloud](https://soundcloud.com/antrgor_reiz)
-contact@paulabbott.net    
+[soundcloud](https://soundcloud.com/antrgor_reiz)  
+contact@paulabbott.net  
 
-### •
+### About
 
   Paul Abbott plays with real and imaginary drums, synthetic sounds, performance and writing.  
 

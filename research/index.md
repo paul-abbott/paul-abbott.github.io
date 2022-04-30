@@ -7,5 +7,5 @@
 
 ### Research  
 
-__"Playing no solo imagination: synthesising the rhythmic emergence of sound and sign through embodied drum kit performance and creative writing."__  
+__Playing no solo imagination: synthesising the rhythmic emergence of sound and sign through embodied drum kit performance and creative writing.__  
 [Creative Music Practice PhD, The University of Edinburgh, 2022](http://dx.doi.org/10.7488/era/2024)  

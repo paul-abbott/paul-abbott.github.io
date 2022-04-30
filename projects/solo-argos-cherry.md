@@ -5,8 +5,7 @@
 [About](https://paulabbott.net/about/)
 <!-- end nav! -->
 
-### Solo: The Don and Moki Cherry Sessions
-
+### The Don and Moki Cherry Sessions  
 Argos, Brussels, 2022.  
 
 ![argos](/assets/images/solo-argos-cherry-geertcoppens.jpg)  

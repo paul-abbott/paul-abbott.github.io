@@ -5,10 +5,10 @@
 [About](https://paulabbott.net/about/)
 <!-- end nav! -->
 
-### Solo: Atelier Claus
+### Solo residency & performance.
 
 Atelier Claus, Brussels, March 2022.  
-Drum kit & computer.  
+Acoustic drum kit & synthetic sounds; physical & algorithmic composition.  
 
 <!--![IMAGES](#)!-->  
 
@@ -36,8 +36,3 @@ Acoustic and synthetic sounds were combined in a set of flexible algorithmic sou
 <br>
 During the live performance I improvised with/within these 'scenes' guided by the room and the audience: its feeling and sounds.  
 <br>
-•  
-<br>
-Paul Abbott: acoustic drum kit & synthetic sounds; physical & algorithmic composition.  
-Recorded by Atelier Claus.  
-Mixed by Paul Abbott.  

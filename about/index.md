@@ -1,6 +1,7 @@
 <!-- NAV for all headers !-->
 [Projects](https://paulabbott.net/index.html)
 [Future](https://paulabbott.net/future/)
+[Research](https://paulabbott.net/research/)
 [About](https://paulabbott.net/about/)
 <!-- end nav! -->
 
@@ -27,3 +28,5 @@ contact@paulabbott.net
 ![brx](/assets/images/paul-biog-image-72.jpg)
 
 ![NoNoise](/assets/images/No-Noise-Porto-01.jpg)
+
+<!-- add other images !-->

@@ -4,7 +4,7 @@ Argos, Brussels, 2022.
 
 ![argos](/assets/images/solo-argos-cherry-geertcoppens.jpg)  
 
-[soundcloud extract]  
+<!--[soundcloud extract]!-->
 
 A solo performance in the context of the exhibition [Don & Moki Cherry: Organic Music Societies](https://www.argosarts.org/event/don-and-moki-cherry-organic-music-societies). Playing acoustic drums, synthetic sound, "Pif Paf Puf" (version).  
 
@@ -23,4 +23,3 @@ Prior to the performance I spent weeks listening/re-listening, reading/re-readin
 _(dissolve, growth)_  
 
 I performed twice for approximately thirty minutes, during which the weaved _Piff Paff Puff_ sound played through/into the room and I played an acoustic drum kit, and some (_spilled_) synthetic sounds.  
-  

@@ -9,6 +9,10 @@
 
 ## Solo
 
+**THIS IS NOT MY MUSIC** performance [Solo: The Don and Moki Cherry Sessions Argos](/projects/solo-argos-cherry.html)  
+
+**.** residency, performance [Solo: Atelier Claus](#)  
+
 <details><summary>
 <strong>NSULAR</strong> Digital & booklet <a href="https://paul-abbott.bandcamp.com/album/nsular">Bandcamp</a><sup>(+)</sup>
 </summary>

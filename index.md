@@ -502,8 +502,9 @@ About <strong>Cesura//Acceso</strong><sup>(+)</sup>
     </div>
 </details>
 
+<!--
 ### —Other Collaborative Projects
-
+!-->
 <!-- TO FINISH NOTES-------------------------------
 **Wolf Ecologies** trio
 **Trio in Porto**
@@ -512,7 +513,3 @@ About <strong>Cesura//Acceso</strong><sup>(+)</sup>
 ** add various images to solo, and other performances **
 ** from motor to seed solo text image **
 !-->
-
-### Research
-
-__Playing no solo imagination: synthesising the rhythmic emergence of sound and sign through embodied drum kit performance and creative writing.__ [Creative Music Practice PhD, Edinburgh University, 2022](https://www.eca.ed.ac.uk/profile/paul-abbott)

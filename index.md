@@ -7,6 +7,8 @@
 
 ### Selected projects:
 
+<div id="projects-text" markdown="1"> <!-- main div wrapper DONT DEL !-->
+
 ## Solo
 
 **performance** [The Don and Moki Cherry Sessions, Argos](/projects/solo-argos-cherry.html)  
@@ -518,3 +520,5 @@ About <strong>Cesura//Acceso</strong><sup>(+)</sup>
 ** add various images to solo, and other performances **
 ** from motor to seed solo text image **
 !-->
+
+</div> <!-- main div wrapper DONT DEL !-->

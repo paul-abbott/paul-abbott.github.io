@@ -8,7 +8,7 @@
 ### The Don and Moki Cherry Sessions  
 Argos, Brussels, 2022.  
 
-![argos](/assets/images/Paul-Abbott-argos-04.jpg)  
+![argos](/assets/images/Paul-Abbott-argos-04.JPG)    
 ![argos](/assets/images/Paul-Abbott-argos-01.jpg)  
 
 <!--[soundcloud extract]!-->
@@ -33,4 +33,4 @@ I performed twice for approximately thirty minutes, during which the weaved _Pif
 
 •
 
-<span id="photo-credit">Photography by Geert Coppens</span>  
+<span class="photo-credit">Photography by Geert Coppens</span>  

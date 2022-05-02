@@ -1,22 +1,22 @@
-<!--important to be able to mix HTML+MARLDOWN !-->
-{::options parse_block_html="true" /}
-<!--main content below!-->
+<!-- NAV for all headers !-->
+[Projects](https://paulabbott.net/index.html)
+[Future](https://paulabbott.net/future/)
+[Research](https://paulabbott.net/research/)
+[About](https://paulabbott.net/about/)
+<!-- end nav! -->
 
-<!--universal NAV!-->
-[About](/about.html), [Projects](/index-beta.html), [Activity](/activity.html)
+### Selected projects:
 
-<!--main content below -------------------------------------------------!-->
-
-test{:.testkram} kram  
-
+<div id="projects-text" markdown="1"> <!-- main div wrapper DONT DEL !-->
 
 ## Solo
 
-<details><summary markdown='span'>
-000000{:.pdate}
-NSULAR{:.pproject}
-Digital & booklet{:.ptype}
-Bandcamp{:.ppublisher}
+**performance** [The Don and Moki Cherry Sessions, Argos](/projects/solo-argos-cherry.html)  
+
+**residency, performance** [Atelier Claus](/projects/solo-atelier-claus-april-22.html)  
+
+<details><summary>
+<strong>NSULAR</strong> Digital & booklet <a href="https://paul-abbott.bandcamp.com/album/nsular">Bandcamp</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         <!--Rhythmic Figure: Ductus <a href="#">Project page</a>.<br>!-->
@@ -33,12 +33,12 @@ Bandcamp{:.ppublisher}
     </div>
 </details>
 
-**DUCTUS** _performance_ [Talbot Rice Gallery](https://www.trg.ed.ac.uk/event/paul-abbott-ductus)
+**DUCTUS** performance [Talbot Rice Gallery](https://www.trg.ed.ac.uk/event/paul-abbott-ductus)
 
-**DUCTUS** _performance_ [Serralves Em Festa](https://www.serralvesemfesta.com/evento/m16a-paul-abott/)
+**DUCTUS** performance [Serralves Em Festa](https://www.serralvesemfesta.com/evento/m16a-paul-abott/)
 
 <details><summary>
-<strong>DUCTUS</strong> <em>CD & booklet </em>Bandcamp
+<strong>DUCTUS</strong> CD & booklet <a href="https://paul-abbott.bandcamp.com/album/ductus">Bandcamp</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         <!--Rhythmic Figure: Ductus <a href="#">Project page</a>.<br>!-->
@@ -56,16 +56,16 @@ Bandcamp{:.ppublisher}
     </div>
 </details>
 
-_performance_ [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) Smup Parede Lisbon
+**performance** [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) Smup Parede Lisbon
 
-**Percebes** _performance_ [No Noise #4 Sonoscopia](https://www.facebook.com/events/903774636489378/)
+**Percebes** performance [No Noise #4 Sonoscopia](https://www.facebook.com/events/903774636489378/)
 
 <details><summary>
-<strong>Paene</strong> <em>recording </em>OTOroku digital
+<strong>Paene</strong> recording <a href="https://www.cafeoto.co.uk/shop/paul-abbott-jake-meginsky-9418">OTOroku digital</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
     <div id="paene"></div>
-    Live recording from Cafe OTO 9/4/18. Double digital release with Jake Meginsky. <a href="https://www.cafeoto.co.uk/shop/paul-abbott-jake-meginsky-9418">OTO Roku Digital</a>
+    Live recording from Cafe OTO 9/4/18. Double digital release with Jake Meginsky.
     <div id="bs-player">
         <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/458291286&color=%23ff5500&auto_play=false&hide_related=true&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&amp;show_artwork=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/cafeoto" title="cafeOTO" target="_blank" style="color: #cccccc; text-decoration: none;">cafeOTO</a> · <a href="https://soundcloud.com/cafeoto/paene-sample-paul-abbott" title="Paene Sample [Paul Abbott]" target="_blank" style="color: #cccccc; text-decoration: none;">Paene Sample [Paul Abbott]</a></div>
     </div>
@@ -73,13 +73,11 @@ _performance_ [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) 
     </div>
 </details>
 
-<!--need to edit code after here  !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!    !-->
-
 **performance** [Cafe OTO](http://www.cafeoto.co.uk)
 
 <details><summary>
 <strong>Sphuzo</strong> digital & booklet
-<a href="https://paul-abbott.bandcamp.com/album/sphuzo">Bandcamp</a>
+<a href="https://paul-abbott.bandcamp.com/album/sphuzo">Bandcamp</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         <div id="bs-player">
@@ -101,6 +99,7 @@ _performance_ [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) 
 
 <details><summary>
 <strong>QNO</strong> recording <a href="https://www.cafeoto.co.uk/shop/paul-abbott-010216-dl">OTOroku digital</a>
+<sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         Solo performance, live recording from Cafe OTO
@@ -113,7 +112,7 @@ _performance_ [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) 
 
 <details><summary>
 <strong>Tender Interval</strong> performances <a href="https://www.cafeoto.co.uk/archive/2016/08/30/tender-interval-paul-abbott">Cafe OTO residency</a>
-
+<sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         <div id="tender"></div>
@@ -129,7 +128,7 @@ _performance_ [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) 
 
 <details><summary>
 <strong>VAGUS</strong> CD & booklet <a href="http://www.portaaaa.com/porta-11/">PORTAA</a>
-
+<sup>(+)</sup>
 </summary>
     <div id="details-wrap">
             <div id="bs-player">
@@ -153,7 +152,7 @@ _performance_ [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) 
 **performance** Very Good* F.R.David launch [KW Berlin](https://www.kw-berlin.de/en/f-r-david-good/) <!-- feb 2020 !-->
 
 <details><summary> <!-- jan 2020? !-->
-    <strong><em>F.R.David</em>—Very Good*</strong> publication <a href="https://www.uhbooks.directory/">Uh books</a>
+    <strong><em>F.R.David</em>—Very Good*</strong> publication <a href="https://www.uhbooks.directory/">Uh books</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         <a href="https://www.uhbooks.directory/2020/03/02/f-r-david-very-good/">Uh books</a><br>
@@ -177,7 +176,7 @@ _performance_ [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) 
 <!--2019!--> **performance** [Badd Bonn Festival](http://kilbi.badbonn.ch/2019/en/shows/rp-boo-wright-abbott-trio-3/)
 
 <details><summary>
-<!--2019!--> <strong>DS134—31.12.18</strong> digital release <a href="https://www.cafeoto.co.uk/shop/xt-and-rp-boo-311218/">OTOrokuDigital</a>
+<!--2019!--> <strong>DS134—31.12.18</strong> digital release <a href="https://www.cafeoto.co.uk/shop/xt-and-rp-boo-311218/">OTOrokuDigital</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         Recorded live at Cafe OTO on Tuesday 31st December 2018. Details at <a href="https://www.cafeoto.co.uk/shop/xt-and-rp-boo-311218/">release page</a>
@@ -197,7 +196,7 @@ _performance_ [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) 
 
 <!--2021!-->
 <details><summary>
-<strong>Nathaniel Mackey and The Creaking Breeze Ensemble: Fugitive Equation</strong> CD, Digital. <a href="https://fonografeditions.com/catalog/f0no-13-nathaniel-mackey-and-the-creaking-breeze-ensemble-fugitive-equation-compact-disc/">Fonograf Editions</a>
+<strong>Nathaniel Mackey and The Creaking Breeze Ensemble: Fugitive Equation</strong> CD, Digital. <a href="https://fonografeditions.com/catalog/f0no-13-nathaniel-mackey-and-the-creaking-breeze-ensemble-fugitive-equation-compact-disc/">Fonograf Editions</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         <blockquote>
@@ -212,7 +211,7 @@ _performance_ [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) 
 </details>
 
 <details><summary>
-<strong>Creaking Breeze Ensemble with Nathaniel Mackey</strong> residency performances <a href="https://www.cafeoto.co.uk/events/nathaniel-mackey-creaking-breeze-ensemble/">Cafe OTO</a>
+<strong>Creaking Breeze Ensemble with Nathaniel Mackey</strong> residency performances <a href="https://www.cafeoto.co.uk/events/nathaniel-mackey-creaking-breeze-ensemble/">Cafe OTO</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         <blockquote>Nathaniel Mackey and the Creaking Breeze Ensemble meet in London for the first time to develop two live performances based on letters from Mackey's From A Broken Bottle epistolary series. Inspired by Mackey's fictional music, these experimental performances will explore the mysterious balance between sound and word. </blockquote>
@@ -224,7 +223,7 @@ _performance_ [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) 
 **conversation with Keira Greene** podcast [Whitstable Biennale](https://journal.whitstablebiennale.com/the-creaking-breeze-trio-conversation-with-keira-greene/)
 
 <details><summary>
-<strong>Slack Fulcrum Twelfths (Green Vitriol)</strong> performance <a href="https://whitstablebiennale.com/project/slack-fulcrum-twelfths-green-vitriol/">Whitstable Biennale</a>
+<strong>Slack Fulcrum Twelfths (Green Vitriol)</strong> performance <a href="https://whitstablebiennale.com/project/slack-fulcrum-twelfths-green-vitriol/">Whitstable Biennale</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         <blockquote>..a moment of collective song; an imaginary glass bottom boat (as perspex cube); tidal dynamics; the physics of acoustic and atmospheric pressure. The trio perform their composition animated by the sea and the wind at the end of The Street, a shingle spit stretching out half a mile into the sea at low tide. The Creaking Breeze Trio will perform for 60 minutes, during the 30 minutes of ‘slack water’ time either side of the low tide mark at 16.47pm. The trio will perform with and during any weather. </blockquote>
@@ -244,7 +243,7 @@ _performance_ [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) 
 
 <!-- Deorlaf Z (version) for XT Deorlaf X Live !-->
 <details><summary>
-<strong>Deorlaf Z (version) for XT Deorlaf X Live</strong> Digital<a href="https://www.cafeoto.co.uk/shop/paul-abbott-deorlaf-z-version-for-xt-deorlaf-x-liv/"> Takuroku</a>
+<strong>Deorlaf Z (version) for XT Deorlaf X Live</strong> Digital<a href="https://www.cafeoto.co.uk/shop/paul-abbott-deorlaf-z-version-for-xt-deorlaf-x-liv/"> Takuroku</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
       <blockquote>Seymour Wright and I had exchanged some ideas in advance of, to prepare for, our live performance for the launch of the XT 'Deorlaf X' OTOroku record, at Cafe OTO. I began to prepare some material based on our thoughts, and the Deorlaf X record. This congealed unexpectedly, into the 38 minutes which became this Deorlaf "Z" iteration. For the OTO event, the sounds were then reworked live (from Brussels), with Seymour's material (live in London). I'd said this: "The ingredients were those initial ideas: 'dub' mutations, Deorlaf (Dalston) & XT histories (memory) plus mutated bifurcations:—thinking about (distanced, as we are/will be for the 14th [July, 2021]) joins, connections, transitions (edges, bridges, membranes, blocks) intense and continual communication (pouring in/out, simultaneously: time, density, speed) across real and imaged spaces. I used the Deorlaf [X] section (beeps) as one draped, initial frame, the rest was a continual pouring in/out; ultra(s) close/far/fast/slow/low frequency/high frequency."</blockquote>
@@ -260,7 +259,7 @@ _performance_ [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) 
 
 <!-- Deorlaf X !-->
 <details><summary>
-<strong>Deorlaf X</strong> LP/Digital<a href="https://www.cafeoto.co.uk/shop/xt-deorlaf-x/"> OTOroku</a>
+<strong>Deorlaf X</strong> LP/Digital<a href="https://www.cafeoto.co.uk/shop/xt-deorlaf-x/"> OTOroku</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
       <blockquote>New music from XT: A reflective re-assembling of a dozen years working together. Deorlaf X is located in Dalston, and specifically at OTO. "A changing cast of OTO guests, audience and emotions hosted each time in a new London."</blockquote>
@@ -276,7 +275,7 @@ _performance_ [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) 
 
 <!-- Anne Gillis & XT !-->
 <details><summary>
-<strong>Anne Gillis & XT 'Our/s Bouture(s)'</strong> Broadcast/Stream <a href="https://www.cafeoto.co.uk/archive/2021/06/02/anne-gillis-xt-paul-abbott-seymour-wright-ours-bou/">Cafe OTO</a>
+<strong>Anne Gillis & XT 'Our/s Bouture(s)'</strong> Broadcast/Stream <a href="https://www.cafeoto.co.uk/archive/2021/06/02/anne-gillis-xt-paul-abbott-seymour-wright-ours-bou/">Cafe OTO</a><sup>(+)</sup>
 </summary>
   <div id="details-wrap">
   <blockquote>[Dear Anne] "We imagine a room - OTO - which we move around (with sounds) in which we are planting bulbs, sprouts/roots, seeds, graftings/clippings (but these plants are sounds and movements), which grow and evolve organically, but can repeat mechanically. Many births!"</blockquote>
@@ -286,7 +285,7 @@ _performance_ [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) 
 
 <!-- Palina'tufa !-->
 <details><summary>
-<strong>Palina'tufa</strong> 2xLP & digital <a href="https://emptyeditions.bandcamp.com/album/ee004-palinatufa">Empty Editions</a>
+<strong>Palina'tufa</strong> 2xLP & digital <a href="https://emptyeditions.bandcamp.com/album/ee004-palinatufa">Empty Editions</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         <a href="https://emptyeditions.bandcamp.com/album/ee004-palinatufa">Empty Editions Bandcamp</a><br>
@@ -300,7 +299,7 @@ _performance_ [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) 
 </details>
 
 <details><summary>
-<strong>XT & Container 9.8.18</strong> digital release <a href="https://cafeoto.co.uk/shop/xt-container-9818/">OTOrokuDigital</a>
+<strong>XT & Container 9.8.18</strong> digital release <a href="https://cafeoto.co.uk/shop/xt-container-9818/">OTOrokuDigital</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         <a href="https://cafeoto.co.uk/shop/xt-container-9818/">Cafe OTO page</a><br>
@@ -320,7 +319,7 @@ _performance_ [DESCARNADOR 1](https://www.facebook.com/events/259159891369170/) 
 **ornette** performance [Experimental Library](https://www.cafeoto.co.uk/events/the-experimental-library-ornette-coleman/) Cafe OTO <!-- 2018 !-->
 
 <details><summary>
-<strong>Tanadonu Roll</strong> digital release <a href="https://xxxxxxxxxttttttt.bandcamp.com/releases">Bandcamp</a>
+<strong>Tanadonu Roll</strong> digital release <a href="https://xxxxxxxxxttttttt.bandcamp.com/releases">Bandcamp</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         <a href="https://xxxxxxxxxttttttt.bandcamp.com/releases">Bandcamp page</a><br>
@@ -339,7 +338,7 @@ performance [Gamut Festival](http://www.gamutkollektiv.com/festival/2017) <!-- 2
 **love calls** performance [Cafe OTO]() <!--2016!-->
 
 <details><summary>
-<strong>Pah</strong> CD & digital <a href="https://seymourwrightandpaulabbot.bandcamp.com/">Pleasure Of The Text</a>
+<strong>Pah</strong> CD & digital <a href="https://seymourwrightandpaulabbot.bandcamp.com/">Pleasure Of The Text</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         <a href="https://seymourwrightandpaulabbot.bandcamp.com/album/xt-pah">Bandcamp link</a>
@@ -358,7 +357,7 @@ performance [The Art School Glasgow]() <!--2014!-->
 **performance** [Cafe OTO](https://www.cafeoto.co.uk/events/yplo-paul-abbott-michael-speers/)
 
 <details><summary>
-<strong>Stop Constant</strong> digital release <a href="http://yplo.bandcamp.com/">Bandcamp</a>
+<strong>Stop Constant</strong> digital release <a href="http://yplo.bandcamp.com/">Bandcamp</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         micro-album of studies towards a speculative drum kit.<br>
@@ -406,7 +405,7 @@ performance [The Art School Glasgow]() <!--2014!-->
 ### —lll人, with [Seymour Wright]() & [Daichi Yoshikawa]()
 
 <details><summary>
-<strong>Vjerhanxsk</strong> CD <a href="https://www.cafeoto.co.uk/shop/lll-vjerhanxsk/">self released</a>
+<strong>Vjerhanxsk</strong> CD <a href="https://www.cafeoto.co.uk/shop/lll-vjerhanxsk/">self released</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         Strange, intense and extreme lll人 is the trio of Daichi Yoshikawa, Paul Abbott and Seymour Wright.
@@ -419,7 +418,7 @@ performance [The Art School Glasgow]() <!--2014!-->
 </details>
 
 <details><summary>
-<strong>GJĒRHAN</strong> LP & digital <a href="https://www.cafeoto.co.uk/shop/llln-gjerhan/">OTOroku</a>
+<strong>GJĒRHAN</strong> LP & digital <a href="https://www.cafeoto.co.uk/shop/llln-gjerhan/">OTOroku</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         <a href="https://www.cafeoto.co.uk/shop/llln-gjerhan/">Cafe OTO page</a><br>
@@ -433,7 +432,7 @@ performance [The Art School Glasgow]() <!--2014!-->
 </details>
 
 <details><summary>
-    <strong>performances 2014-2017</strong>
+    <strong>performances 2014-2017</strong><sup>(+)</sup>
     </summary>
     <div id="details-wrap">
         NEXT Festival<br> <!--2017!-->
@@ -458,7 +457,7 @@ performance [The Art School Glasgow]() <!--2014!-->
 ### —Cesura//Acceso with Gabriel Humberstone, Cara Tolmie, Christina Chalmers, Anthony Iles, Larne Abse Gogarty
 
 <details><summary>
-About <strong>Cesura//Acceso</strong>
+About <strong>Cesura//Acceso</strong><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         <!--<a href="#">link to project page</a><br>!-->
@@ -467,7 +466,7 @@ About <strong>Cesura//Acceso</strong>
 </details>
 
 <details><summary>
-<strong>Cesura Issue 2</strong> Launch <a href="https://www.cafeoto.co.uk/events/cesura-acceso-issue-2-launch/">Cafe OTO</a>
+<strong>Cesura Issue 2</strong> Launch <a href="https://www.cafeoto.co.uk/events/cesura-acceso-issue-2-launch/">Cafe OTO</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         Cesura//Acceso Journal Issue 2 Launch with performances and readings by Claire Potter, Federica Frabetti, Lisa Jeschke and Lucy Beynon, Vindicatrix, Billy Steiger.
@@ -475,7 +474,7 @@ About <strong>Cesura//Acceso</strong>
 </details>
 
 <details><summary>
-<strong>Cesura//Acceso Issue 2</strong> Journal<a href="#"></a>
+<strong>Cesura//Acceso Issue 2</strong> Journal<a href="#"></a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         Cesura Issue 2 distributed by <a href="https://anagrambooks.com/cesura-acceso-issue-2">Anagram</a><br>
@@ -486,7 +485,7 @@ About <strong>Cesura//Acceso</strong>
 </details>
 
 <details><summary>
-<strong>Fred Moten</strong> Event <a href="https://www.cafeoto.co.uk/events/cesuraacceso-presents-fred-moten/">Cafe OTO</a>
+<strong>Fred Moten</strong> Event <a href="https://www.cafeoto.co.uk/events/cesuraacceso-presents-fred-moten/">Cafe OTO</a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         Event with Will Holder, Hannah Black, Sacha Kahir, Hypatia Vourloumis, Fumi Okiji.
@@ -498,7 +497,7 @@ About <strong>Cesura//Acceso</strong>
 **Broken Rudiments** Workshops at [Ljudskolan](#)
 
 <details><summary>
-<strong>Cesura//Acceso Issue 1</strong> Journal<a href="#"></a>
+<strong>Cesura//Acceso Issue 1</strong> Journal<a href="#"></a><sup>(+)</sup>
 </summary>
     <div id="details-wrap">
         Cesura Issue 1 distributed by <a href="https://anagrambooks.com/cesura-acceso-issue-1">Anagram</a><br>
@@ -510,8 +509,9 @@ About <strong>Cesura//Acceso</strong>
     </div>
 </details>
 
+<!--
 ### —Other Collaborative Projects
-
+!-->
 <!-- TO FINISH NOTES-------------------------------
 **Wolf Ecologies** trio
 **Trio in Porto**
@@ -521,6 +521,4 @@ About <strong>Cesura//Acceso</strong>
 ** from motor to seed solo text image **
 !-->
 
-### Research
-
-__Playing no solo imagination: synthesising the rhythmic emergence of sound and sign through embodied drum kit performance and creative writing.__ [Creative Music Practice PhD Candidate, Edinburgh University](https://www.eca.ed.ac.uk/profile/paul-abbott)
+</div> <!-- main div wrapper DONT DEL !-->

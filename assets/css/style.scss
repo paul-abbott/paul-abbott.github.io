@@ -18,8 +18,12 @@
 
 .markdown-body, body{
     font-size: 15px;
-    line-height: 1.2;
+    line-height: 1.4; /* old 1.2 */
     background: white; /* porto pink #FFD1CE; */
+}
+
+.projects-text, body{ /*text rules just for projects list page */
+    line-height: 1.2; /* different from main body rule */
 }
 
 .markdown-body a, body a{

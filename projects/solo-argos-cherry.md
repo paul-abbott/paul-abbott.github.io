@@ -8,8 +8,9 @@
 ### The Don and Moki Cherry Sessions  
 Argos, Brussels, 2022.  
 
-![argos](/assets/images/solo-argos-cherry-geertcoppens.jpg)  
-
+![argos](/assets/images/Paul-Abbott-argos-04.jpg)  
+![argos](/assets/images/Paul-Abbott-argos-01.jpg)  
+<span id="photo-credit">photography by Geert Coppens</span>   
 <!--[soundcloud extract]!-->
 
 A solo performance in the context of the exhibition [Don & Moki Cherry: Organic Music Societies](https://www.argosarts.org/event/don-and-moki-cherry-organic-music-societies). Playing acoustic drums, synthetic sound, "Pif Paf Puf" (version).  

@@ -15,7 +15,7 @@ Pat Thomas & XT
 Gamut LP Launch: _Attitudes of Preparation (Mountains, Oceans, Trees)_  
 10+11/6/22. [Zurich](#)  
 14/6/22. [Atelier Claus, Brussels](https://www.lesateliersclaus.com/activities/pat-thomas-seymour-wright-paul-abbott)  
-22/6/22, [Pat Thomas & XT, Cafe OTO, London](https://www.cafeoto.co.uk/events/pat-thomas-xt/)  
+22/6/22, [Cafe OTO, London](https://www.cafeoto.co.uk/events/pat-thomas-xt/)  
 <br>
 XT  
 Meteo festival 2022  

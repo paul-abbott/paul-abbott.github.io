@@ -7,16 +7,19 @@
 
 ### Future  
 
-7+8/65/22, [Will Holder & Paul Abbott read Rosmarie Waldrop; Asynchronicity: Aachen & Koln](#)
+Rosmarie Waldrop’s “Lawn of Excluded Middle”*  
+read by Will Holder (vocals) and Paul Abbott (drums).  
+7+8/5/22. [Asynchronicity: Aachen & Koln](#)
 
-10+11/6/22, [Pat Thomas & XT, Zurich](#), Gamut LP Launch: "Akisakila" / Attitudes[...]
+Pat Thomas & XT  
+Gamut LP Launch: _Attitudes of Preparation (Mountains, Oceans, Trees)_  
+10+11/6/22. [Zurich](#)  
+14/6/22. [Atelier Claus, Brussels](https://www.lesateliersclaus.com/activities/pat-thomas-seymour-wright-paul-abbott)  
+22/6/22, [Pat Thomas & XT, Cafe OTO, London](https://www.cafeoto.co.uk/events/pat-thomas-xt/)    
 
-14/6/22, [Pat Thomas & XT, Atelier Claus, Brussels](https://www.lesateliersclaus.com/activities/pat-thomas-seymour-wright-paul-abbott), Gamut LP Launch: "Akisakila" / Attitudes[...]  
-
-22/6/22, [Pat Thomas & XT, Cafe OTO, London](https://www.cafeoto.co.uk/events/pat-thomas-xt/), Gamut LP Launch: "Akisakila" / Attitudes[...]    
-
-23-26/8/22, [Workshops, Meteo Festival](#)  
-
-27/8/22, [XT, Meteo Festival](#)  
+XT  
+Meteo festival 2022  
+23-26/8/22. [Workshops](#)  
+27/8/22. [XT performance](#)  
 
 <!-- October XT Anne !-->

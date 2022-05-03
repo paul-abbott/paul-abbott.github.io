@@ -10,10 +10,10 @@
 Atelier Claus, Brussels, March 2022.  
 Acoustic drum kit & synthetic sounds; physical & algorithmic composition.  
 
-<!--![IMAGES](#)!-->  
+![argos](/assets/images/solo-claus-2022march-01-marija.jpg)  
 
 <div id="bs-player">
-  <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1247661445&color=%231e1e25&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/antrgor_reiz" title="Paul Abbott" target="_blank" style="color: #cccccc; text-decoration: none;">Paul Abbott</a> · <a href="https://soundcloud.com/antrgor_reiz/solo-atelier-claus-march-2022-extract" title="Solo Atelier Claus March 2022 [extract]" target="_blank" style="color: #cccccc; text-decoration: none;">Solo Atelier Claus March 2022 [extract]</a></div>
+  <iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1247661445&color=%231e1e25&inverse=true&auto_play=false&show_user=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/antrgor_reiz" title="Paul Abbott" target="_blank" style="color: #cccccc; text-decoration: none;">Paul Abbott</a> · <a href="https://soundcloud.com/antrgor_reiz/solo-atelier-claus-march-2022-extract" title="Solo Atelier Claus March 2022 [extract]" target="_blank" style="color: #cccccc; text-decoration: none;">Solo Atelier Claus March 2022 [extract]</a></div>
 </div>
 
 <br>

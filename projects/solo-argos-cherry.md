@@ -8,8 +8,8 @@
 ### The Don and Moki Cherry Sessions  
 Argos, Brussels, 2022.  
 
-![argos](/assets/images/Paul-Abbott-argos-04.JPG)    
-![argos](/assets/images/Paul-Abbott-argos-01.jpg)  
+![argos](/assets/images/solo-argos-2022april-04.jpg)    
+![argos](/assets/images/solo-argos-2022april-01.jpg)  
 
 <!--[soundcloud extract]!-->
 

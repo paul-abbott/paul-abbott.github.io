@@ -13,9 +13,9 @@ Argos, Brussels, 2022.
 
 <!--[soundcloud files]! TRACK 1 + 2
 
-  <iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1260963928%3Fsecret_token%3Ds-XmYdgG53EgS&color=%231e1e25&inverse=false&auto_play=false&show_user=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"></div>
+<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1260963928%3Fsecret_token%3Ds-XmYdgG53EgS&color=%23000000&inverse=false&auto_play=false&show_user=false"></iframe>
 
-  <iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1260963907%3Fsecret_token%3Ds-6X57ixo8fzE&color=%231e1e25&inverse=false&auto_play=false&show_user=false"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"></div>
+<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1260963907%3Fsecret_token%3Ds-6X57ixo8fzE&color=%23000000&inverse=false&auto_play=false&show_user=false"></iframe>
 
 -->
 

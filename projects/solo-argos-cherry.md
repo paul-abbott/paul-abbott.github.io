@@ -19,7 +19,7 @@ Argos, Brussels, 2022.
 
 -->
 
-A solo performance in the context of the exhibition [Don & Moki Cherry: Organic Music Societies](https://www.argosarts.org/event/don-and-moki-cherry-organic-music-societies). Playing acoustic drums, synthetic sound, remodulated archival recordings.  
+A solo performance in the context of the exhibition [Don & Moki Cherry: Organic Music Societies](https://www.argosarts.org/event/don-and-moki-cherry-organic-music-societies). Playing acoustic drums, synthetic sound, remodulated [archival recordings].  
 <br>
 "[The] exhibition, which brings together music, artworks, and archival materials, also features _Piff, Paff, Puff_, a six-episode children’s programme Don and Moki Cherry made for Swedish national television in the early 1970s."  
 <br>

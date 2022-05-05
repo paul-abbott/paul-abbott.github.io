@@ -39,4 +39,6 @@ I performed twice for approximately thirty minutes, during which the weaved [arc
 
 •
 
-<span class="photo-credit">Photography by Geert Coppens</span>  
+<span class="photo-credit">  
+Thank you: Tommy De Nys, Niels Van Tomme, Lawrence Kumpf, Maryam K. Hedayat, Stijn Schiffeleers, Inge Coolsaet; Argos, Les Atelier Claus, Blank Forms. Photography by Geert Coppens
+</span>  

@@ -12,9 +12,10 @@ Acoustic drum kit & synthetic sounds; physical & algorithmic composition.
 
 ![argos](/assets/images/solo-claus-2022march-01-marija.jpg)  
 
-<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1247661445&color=%23000000&inverse=false&auto_play=false&show_user=false"></iframe>
-
 <br>
+<iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1247661445&color=%23000000&inverse=false&auto_play=false&show_user=false"></iframe>
+<br>
+
 <br>
 Live solo performance of new work developed during short residency:
 a compositional environment for organic (body) & algorithmic movement. The work continues an ongoing investigation into the mixing of real and imaginary drums, fictional and material environments and movements of the body.  

@@ -19,7 +19,7 @@ Argos, Brussels, 2022.
 
 -->
 
-A solo performance in the context of the exhibition [Don & Moki Cherry: Organic Music Societies](https://www.argosarts.org/event/don-and-moki-cherry-organic-music-societies). Playing acoustic drums, synthetic sound, "Pif Paf Puf" (version).  
+A solo performance in the context of the exhibition [Don & Moki Cherry: Organic Music Societies](https://www.argosarts.org/event/don-and-moki-cherry-organic-music-societies). Playing acoustic drums, synthetic sound, remodulated archival recordings.  
 <br>
 "[The] exhibition, which brings together music, artworks, and archival materials, also features _Piff, Paff, Puff_, a six-episode children’s programme Don and Moki Cherry made for Swedish national television in the early 1970s."  
 <br>
@@ -27,7 +27,7 @@ The performance took place on the second floor, where the audience and I were su
 <br>
 _(weave)_  
 <br>
-Using the audio from the _Piff Paff Puff_ episodes, I generated a new soundfile which simultaneously mixed the sounds from multiple episodes, overlapping, weave-like, for thirty minutes. This new soundfile was introduced and concluded with another sound I created by re-synthesising and modulating the horn sound Don Cherry uses to indicate the start of each _Piff Paff Puff_ episode. This imaginary horn marked (loosely) the start and end, of the performance, at Argos. There were two (different) 'versions' of the soundfile generated (to accompany the two parts of my live performance).  
+Using [archival audio recordings], I generated a new soundfile which simultaneously mixed the sounds from multiple [sources], overlapping, weave-like, for thirty minutes. This new soundfile was introduced and concluded with another sound I created by re-synthesising and modulating [a signal horn sound Don Cherry uses]. This imaginary horn marked (loosely) the start and end, of the performance, at Argos. There were two (different) 'versions' of the soundfile generated (to accompany the two parts of my live performance).  
 <br>
 _(seeds)_  
 <br>
@@ -35,7 +35,7 @@ Prior to the performance I spent weeks listening/re-listening, reading/re-readin
 <br>
 _(dissolve, growth)_  
 <br>
-I performed twice for approximately thirty minutes, during which the weaved _Piff Paff Puff_ sound played through/into the room and I played an acoustic drum kit, and some (_spilled_) synthetic sounds.  
+I performed twice for approximately thirty minutes, during which the weaved [archival audio] sound played through/into the room and I played an acoustic drum kit, and some (_spilled_) synthetic sounds.  
 
 •
 

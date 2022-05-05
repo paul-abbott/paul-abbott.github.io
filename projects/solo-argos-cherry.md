@@ -11,11 +11,12 @@ Argos, Brussels, 2022.
 ![argos](/assets/images/solo-argos-2022april-04.jpg)    
 ![argos](/assets/images/solo-argos-2022april-01.jpg)  
 
+<br>  
 <iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1260963928%3Fsecret_token%3Ds-XmYdgG53EgS&color=%23000000&inverse=false&auto_play=false&show_user=false"></iframe>
 
 <iframe width="100%" height="20" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1260963907%3Fsecret_token%3Ds-6X57ixo8fzE&color=%23000000&inverse=false&auto_play=false&show_user=false"></iframe>
-
 <br>
+
 <br>
 A solo performance in the context of the exhibition [Don & Moki Cherry: Organic Music Societies](https://www.argosarts.org/event/don-and-moki-cherry-organic-music-societies). Playing acoustic drums, synthetic sound, remodulated [archival recordings].  
 <br>

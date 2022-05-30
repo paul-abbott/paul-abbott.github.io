@@ -7,6 +7,8 @@
 
 ### Solo residency & performance.
 
+"Growl, Rubs, Drops, Claps (grown in Atelier Claus)"
+
 Atelier Claus, Brussels, March 2022.  
 Acoustic drum kit & synthetic sounds; physical & algorithmic composition.  
 

@@ -240,6 +240,17 @@
 
 ### —XT with [Seymour Wright](http://www.seymourwright.com)
 
+<!-- "Akisakila" / Attitudes of Preparation (Mountains, Oceans, Trees) !-->
+<details><summary>
+<strong>"Akisakila" / Attitudes of Preparation (Mountains, Oceans, Trees)</strong> LP, Digital<a href="https://editiongamut.bandcamp.com/album/akisakila-attitudes-of-preparation-mountains-oceans-trees"> Edition Gamut</a><sup>(+)</sup>
+</summary>
+    <div id="details-wrap">
+      <blockquote>"In August 2018, musicians Paul Abbott and Seymour Wright (together known as XT) and Pat Thomas took part in a tribute to Cecil Taylor at London’s Cafe Oto, four months after the death of the US pianist. In advance of the performance, the trio looked to Taylor's “attitudes of preparation” to inspire them, and created a piece developed in response to their listening to, and discussion of, Cecil Taylor Unit's Akisakila, recorded in Japan in 1973. The audio resulting from this exercise was then used as a framework for the live performance. “We prepared the piece, transcribing elements,” they explain. “And developed a series of cycles – unit structures – made up of various voices of Cecil’s influences and associates (real and imaginary), and at the end the voice of Cecil himself.”"</blockquote>
+
+      <img src="https://www.cafeoto.co.uk/media/thumbnails/uploads/tr192-paul-abbott_page_image.jpg" class="responsive-img"><br>
+      <!--[ Listen to sample](https://soundcloud.com/cafeoto/roku026-sample)!-->
+    </div>
+</details>
 
 <!-- Deorlaf Z (version) for XT Deorlaf X Live !-->
 <details><summary>

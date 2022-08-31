@@ -15,7 +15,7 @@ contact@paulabbott.net
 
 ### About
 
-  Paul Abbott plays with real and imaginary drums, synthetic sounds, performance and writing.  
+  Paul Abbott plays with the drum kit, synthetic sounds, performance and writing. He explores music as an ecology: in which the interaction of sounds, signs and the physical body grow real and imaginary music. His work is often concerned with creating practical and fictional structures to facilitate improvisation and experimental musical play.
 
   Recent and ongoing collaborations include: [XT](#) with Seymour Wright; XT+[Anne Gillis](#); [_F.R.David_, very good*](https://www.uhbooks.directory/2020/03/02/f-r-david-very-good/) with Will Holder; sound design for [Keira Greene](http://keiragreene.com/); [Rian Treanor](http://www.riantreanor.com/) Duo; [RP Boo Trio](https://www.cafeoto.co.uk/shop/xt-and-rp-boo-311218/) with XT; [The Creaking Breeze Ensemble](https://www.cafeoto.co.uk/events/nathaniel-mackey-creaking-breeze-ensemble/) with Nathaniel Mackey, Ute Kanngießer, Evie Ward, Seymour Wright and Billy Steiger; yPLO with [Micheal Speers](https://michaelspeers.net/) and performances with [Cara Tolmie](http://caratolmie.tumblr.com/).  
 

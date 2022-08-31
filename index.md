@@ -11,7 +11,7 @@
 
 ## Solo  
 
-**workshop** WE GROW MUSIC! [Meteo Festival, 23-26/8/22](https://www.festival-meteo.fr/workshops/)  
+**WE GROW MUSIC!** workshop [Meteo Festival, 23-26/8/22](https://www.festival-meteo.fr/workshops/)  
 
 **performance** [The Don and Moki Cherry Sessions, Argos](/projects/solo-argos-cherry.html)  
 

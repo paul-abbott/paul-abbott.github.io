@@ -7,6 +7,15 @@
 
 ### Future  
 
+TBC  
+  
+<!-- ••••••••••••••  Future •••••••••••••• !-->
+
+<!-- October XT Anne TBC !-->
+<!-- Oct Q02 Workshops / Residency !-->
+
+<!-- ••••••••••••••  Past Archive •••••••••••••• !-->
+
 <!--Rosmarie Waldrop’s “Lawn of Excluded Middle”*  
 read by Will Holder (vocals) and Paul Abbott (drums) at  
 _Asynchronicity. A symposium-like gathering, hosted by Cally Spooner._    
@@ -21,9 +30,3 @@ Gamut LP Launch: [_Attitudes of Preparation (Mountains, Oceans, Trees)_](https:/
 22/6/22. [Cafe OTO, London](https://www.cafeoto.co.uk/events/pat-thomas-xt/)  
 <br>
 !-->
-XT  
-Meteo festival 2022  
-23-26/8/22. [Workshops](#)  
-27/8/22. [XT performance](#)  
-<br>
-<!-- October XT Anne !-->

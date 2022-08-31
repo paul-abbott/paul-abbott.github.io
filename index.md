@@ -9,7 +9,9 @@
 
 <div id="projects-text" markdown="1"> <!-- main div wrapper DONT DEL !-->
 
-## Solo
+## Solo  
+
+**workshop** WE GROW MUSIC! [Meteo Festival, 23-26/8/22](https://www.festival-meteo.fr/workshops/)  
 
 **performance** [The Don and Moki Cherry Sessions, Argos](/projects/solo-argos-cherry.html)  
 
@@ -239,6 +241,8 @@
 **Fictional Music, Experimental Composition and Performance** workshop [Whitstable Biennale](https://whitstablebiennale.com/project/fictional-music-experimental-composition-and-performance/)
 
 ### —XT with [Seymour Wright](http://www.seymourwright.com)
+
+<!-- **performance** XT duo at Meteo Festival 2022 !-->
 
 <!-- "Akisakila" / Attitudes of Preparation (Mountains, Oceans, Trees) !-->
 <details><summary>

@@ -244,7 +244,7 @@
 
 <!-- q02 + OTO res !-->
 <details><summary>
-<strong>Q-02 & Cafe OTO</strong> residency/performances <a href="http://www.q-o2.be/en/event/anne-gillis-france-xt-seymour-wright-uk-and-paul-abbott-uk/">q-02</a <a href="https://www.cafeoto.co.uk/events/anne-gillis-with-xt-paul-abbott-and-seymour-wright/">Cafe OTO</a><sup>(+)</sup>
+<strong>Q-02 & Cafe OTO</strong> residency/performances <a href="http://www.q-o2.be/en/event/anne-gillis-france-xt-seymour-wright-uk-and-paul-abbott-uk/">q-02</a> <a href="https://www.cafeoto.co.uk/events/anne-gillis-with-xt-paul-abbott-and-seymour-wright/">Cafe OTO</a><sup>(+)</sup>
 </summary>
   <div id="details-wrap">
   Developing two new site-specific works, following the 'Our/s Bouture(s)' collaboration they started, in 2021.

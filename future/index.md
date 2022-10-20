@@ -9,12 +9,14 @@
 
 <!-- ••••••••••••••  Future •••••••••••••• !-->
 
-<!-- October XT Anne TBC !-->
-Anne Gillis with XT (Paul Abbott and Seymour Wright) trio: 14/10/22 Brussels, 16/10/22 [Cafe OTO London](https://www.cafeoto.co.uk/events/anne-gillis-with-xt-paul-abbott-and-seymour-wright/).
+
 
 <!-- Oct Q02 Workshops / Residency !-->
 
 <!-- ••••••••••••••  Past Archive •••••••••••••• !-->
+
+<!-- October XT Anne TBC !-->
+<!--Anne Gillis with XT (Paul Abbott and Seymour Wright) trio: 14/10/22 Brussels, 16/10/22 [Cafe OTO London](https://www.cafeoto.co.uk/events/anne-gillis-with-xt-paul-abbott-and-seymour-wright/).!-->
 
 <!--Rosmarie Waldrop’s “Lawn of Excluded Middle”*  
 read by Will Holder (vocals) and Paul Abbott (drums) at  

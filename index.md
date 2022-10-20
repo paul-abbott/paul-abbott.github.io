@@ -240,9 +240,28 @@
 
 **Fictional Music, Experimental Composition and Performance** workshop [Whitstable Biennale](https://whitstablebiennale.com/project/fictional-music-experimental-composition-and-performance/)
 
-### —XT with [Seymour Wright](http://www.seymourwright.com)
+### —XT (with [Seymour Wright](http://www.seymourwright.com)) + [Anne Gillis](http://www.http://anne-gillis.com)
 
-<!-- **performance** XT duo at Meteo Festival 2022 !-->
+<!-- q02 + OTO res !-->
+<details><summary>
+<strong>Q-02 & Cafe OTO</strong> residency/performances <a href="http://www.q-o2.be/en/event/anne-gillis-france-xt-seymour-wright-uk-and-paul-abbott-uk/">q-02</a <a href="https://www.cafeoto.co.uk/events/anne-gillis-with-xt-paul-abbott-and-seymour-wright/">Cafe OTO</a><sup>(+)</sup>
+</summary>
+  <div id="details-wrap">
+  Developing two new site-specific works, following the 'Our/s Bouture(s)' collaboration they started, in 2021.
+  </div>
+</details>
+
+<!-- ours bouture !-->
+<details><summary>
+<strong>Anne Gillis & XT 'Our/s Bouture(s)'</strong> Broadcast/Stream <a href="https://www.cafeoto.co.uk/archive/2021/06/02/anne-gillis-xt-paul-abbott-seymour-wright-ours-bou/">Cafe OTO</a><sup>(+)</sup>
+</summary>
+  <div id="details-wrap">
+  <blockquote>[Dear Anne] "We imagine a room - OTO - which we move around (with sounds) in which we are planting bulbs, sprouts/roots, seeds, graftings/clippings (but these plants are sounds and movements), which grow and evolve organically, but can repeat mechanically. Many births!"</blockquote>
+      Anne Gillis and XT (Seymour Wright and I) have developed a new work remotely, together. Responding to the invitation above - recorded and assembled - in three locations: Paris (Anne), Brussels (Paul) and London (Seymour). It was played inside cafe OTO. Following this live 'broadcast', the recording is available to listen to for free online, for one week between 2 - 9 June, <a href="https://www.cafeoto.co.uk/archive/2021/06/02/anne-gillis-xt-paul-abbott-seymour-wright-ours-bou/">here</a>
+  </div>
+</details>
+
+### —XT (with [Seymour Wright](http://www.seymourwright.com)) + Pat Thomas
 
 <!-- "Akisakila" / Attitudes of Preparation (Mountains, Oceans, Trees) !-->
 <details><summary>
@@ -255,6 +274,10 @@
       <!--[ Listen to sample](https://soundcloud.com/cafeoto/roku026-sample)!-->
     </div>
 </details>
+
+### —XT (duo with [Seymour Wright](http://www.seymourwright.com))
+
+<!-- **performance** XT duo at Meteo Festival 2022 !-->
 
 <!-- Deorlaf Z (version) for XT Deorlaf X Live !-->
 <details><summary>
@@ -286,16 +309,6 @@
       <img src="https://www.cafeoto.co.uk/media/thumbnails/uploads/roku026-deorlaf_page_image.png" class="responsive-img"><br>
       <!--[ Listen to sample](https://soundcloud.com/cafeoto/roku026-sample)!-->
     </div>
-</details>
-
-<!-- Anne Gillis & XT !-->
-<details><summary>
-<strong>Anne Gillis & XT 'Our/s Bouture(s)'</strong> Broadcast/Stream <a href="https://www.cafeoto.co.uk/archive/2021/06/02/anne-gillis-xt-paul-abbott-seymour-wright-ours-bou/">Cafe OTO</a><sup>(+)</sup>
-</summary>
-  <div id="details-wrap">
-  <blockquote>[Dear Anne] "We imagine a room - OTO - which we move around (with sounds) in which we are planting bulbs, sprouts/roots, seeds, graftings/clippings (but these plants are sounds and movements), which grow and evolve organically, but can repeat mechanically. Many births!"</blockquote>
-      Anne Gillis and XT (Seymour Wright and I) have developed a new work remotely, together. Responding to the invitation above - recorded and assembled - in three locations: Paris (Anne), Brussels (Paul) and London (Seymour). It was played inside cafe OTO. Following this live 'broadcast', the recording is available to listen to for free online, for one week between 2 - 9 June, <a href="https://www.cafeoto.co.uk/archive/2021/06/02/anne-gillis-xt-paul-abbott-seymour-wright-ours-bou/">here</a>
-  </div>
 </details>
 
 <!-- Palina'tufa !-->

@@ -1,6 +1,6 @@
 <!-- NAV for all headers !-->
 [Projects](https://paulabbott.net/index.html)
-[Future](https://paulabbott.net/future/)
+<!--[Future](https://paulabbott.net/future/)!-->
 [Research](https://paulabbott.net/research/)
 [About](https://paulabbott.net/about/)
 <!-- end nav! -->
@@ -8,7 +8,7 @@
 ### Solo residency & performance.
 
 <strong>"Growl, Rubs, Drops, Claps (grown in Atelier Claus)"</strong>  
-  
+
 Atelier Claus, Brussels, March 2022.  
 Acoustic drum kit & synthetic sounds; physical & algorithmic composition.  
 

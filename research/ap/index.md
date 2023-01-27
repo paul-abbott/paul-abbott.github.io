@@ -25,7 +25,7 @@ Practical exercises—for live improvised music—~~will be~~ are developed. The
 
 # "Two"
 
-[*After*](paul-abbott.github.io/research/ap/g-invitation-letter.md)
+[*After*](http://www.paulabbott.net/research/ap/g-invitation-letter.md)
 
 ## We Grow Music!
 

@@ -5,7 +5,7 @@
 [About](https://paulabbott.net/about/)
 <!-- end nav! -->
 
-<div id="about-text" markdown="1">
+<div id="standard-text" markdown="1">
 
 # "One"
 

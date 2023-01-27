@@ -139,6 +139,8 @@ I call this complex ecology; this collection of fictions, characters, sounds and
 
 ~~I conceive the research project, overall, is a stage, and/or garden. That is, a particular, framed space to develop conditions for the investigation of a specific kind growth (culture).~~
 
+• <!--spacer before footnotes !-->
+
 <!-- footnotes below here !-->
 [^1]: Anderson, Sound & Score; Boone and Mignolo, *Writing Without Words*
 [^2]: See Reybrouck, “Music as Environment”; Reybrouck, *Musical Sense-Making*.

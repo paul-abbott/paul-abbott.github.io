@@ -5,9 +5,7 @@
 [About](https://paulabbott.net/about/)
 <!-- end nav! -->
 
-### WGM Intro Test  
-
-Many returns, starting,
+<div id="about-text" markdown="1">
 
 # "One"
 
@@ -27,7 +25,7 @@ Practical exercises—for live improvised music—~~will be~~ are developed. The
 
 # "Two"
 
-*[After](http://www.paulabbott.net/research/ap/g-invitation-letter.md)*
+*[After](http://www.paulabbott.net/research/ap/g-invitation-letter.html)*
 
 ## We Grow Music!
 
@@ -60,7 +58,6 @@ an *ongoing alter-practice of ongoing un-training* [[2 Grow! Music Journal Ongoi
 The subject of this research is a reconsideration of embodied music making as a complex ecology. In the context of improvised and experimental music, I have performed in projects where diverse elements (instrumentation, ideas, languages, bodies) were brought together.
 
 This experience was of a complex musical ecology. This project is (another) attempt at finding new approaches, growing new frames: to practically, conceptually and theoretically explore this specific music making experience.
-%%see section on the use of these words & summarise%%
 
 The themes of the project are approached practically through multiple, overlapping activities. These include independent ongoing practice, collaborative work and guest presentations. This practice is approached conceptually through the terms *discrepancy* and *multiplicity*.
 
@@ -72,7 +69,7 @@ What this sounds and looks like, and what is at stake, will be demonstrated thro
 
 ### PRISMS and GUIDES
 
-This research looks at the aspects of *discrepancy* and *multiplicity* as specific generative features of embodied music making, primarily in the context of live experimental improvised music.%%
+This research looks at the aspects of *discrepancy* and *multiplicity* as specific generative features of embodied music making, primarily in the context of live experimental improvised music.
 
 This project makes use of the concepts *discrepancy* and *multiplicity* to guide an exploration of generative features of embodied music making: primarily in the context of live experimental improvised music.
 
@@ -147,3 +144,5 @@ I call this complex ecology; this collection of fictions, characters, sounds and
 ~~This research explores growth as a condition — grows, develops — practical and fictional structures through improvisation to // encourage experimental musical play // . I refer to the sum total pf these structures: the total conceptual, fictional and material environment or composition as the Dramatic Environment.~~
 
 ~~I conceive the research project, overall, is a stage, and/or garden. That is, a particular, framed space to develop conditions for the investigation of a specific kind growth (culture).~~
+
+</div> <!-- this must be the last thing on the page !-->

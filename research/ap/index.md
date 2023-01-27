@@ -25,7 +25,7 @@ Practical exercises—for live improvised music—~~will be~~ are developed. The
 
 # "Two"
 
-*[After](http://www.paulabbott.net/research/ap/g-invitation-letter.html)*
+[*After*](paul-abbott.github.io/research/ap/g-invitation-letter.md)
 
 ## We Grow Music!
 
@@ -44,13 +44,6 @@ This research looks at the aspects of discrepancy and multiplicity as specific g
 
 Practical exercises—for live improvised music—will be developed. These will be based on listening as a mode of attention ~~// and learning //~~ and used to investigate how performing bodies grow music and language—characterised by discrepancy and multiplicity. What this sounds and looks like, and what is at stake, will be demonstrated through performed and recorded music, written documentation, and presentations. This musical growth will be approached as the production of a ‘living archive’ of scores, in an expanded sense.
 
-<!--
-## or
-an *ongoing alter-practice of ongoing un-training* [[2 Grow! Music Journal Ongoing Notes#a listening alter-practice of ongoing untraning, history|link]]
-[Ongoing performance and music practice (my website)](http://www.paulabbott.net)
-[PhD Research](obsidian://open?vault=My%20Documents&file=Academic%20Research%2FPhD%2Fshared%2FPA-s1798460-phd-thesis-final-shared.pdf)
-!-->
-
 ## or
 
 ### ANOTHER GARDEN or ANTEROOM
@@ -63,41 +56,42 @@ The themes of the project are approached practically through multiple, overlappi
 
 The idea of *listening as a mode of attention to grow music* will be explored, to develop practical exercises—for exploring live improvised music.
 
-What this sounds and looks like, and what is at stake, will be demonstrated through performed and recorded music, written documentation, and presentations. This musical growth will be approached as the production of a ‘living archive’ of scores, in an expanded sense. ^[Anderson, Sound & Score; Boone and Mignolo, *Writing Without Words*.]
+What this sounds and looks like, and what is at stake, will be demonstrated through performed and recorded music, written documentation, and presentations. This musical growth will be approached as the production of a ‘living archive’ of scores, in an expanded sense. [^1]
 
-[unsure] The artistic and academic outcomes of this research will challenge disciplinary and idiomatic conventions, standards of practice and therefore access; it will challenge assumptions of homogeneity and raise critical questions about the production, performance and inscription of new music.
+~~The artistic and academic outcomes of this research will challenge disciplinary and idiomatic conventions, standards of practice and therefore access; it will challenge assumptions of homogeneity and raise critical questions about the production, performance and inscription of new music.~~
 
 ### PRISMS and GUIDES
 
-This research looks at the aspects of *discrepancy* and *multiplicity* as specific generative features of embodied music making, primarily in the context of live experimental improvised music.
+~~This research looks at the aspects of *discrepancy* and *multiplicity* as specific generative features of embodied music making, primarily in the context of live experimental improvised music.~~
 
 This project makes use of the concepts *discrepancy* and *multiplicity* to guide an exploration of generative features of embodied music making: primarily in the context of live experimental improvised music.
 
 Specifically, the research aims to encourage an ‘open’ musical context, allowing the combination of diverse elements: conventional and unconventional musical instrumentation; acoustic and electronic sound sources; trained and untrained musicians; scored and improvised, unscripted play.
 
-While concentrating on this primary artistic context, the project moves outside this framework, in an attempt to explode its frame; to find new ways to listen *in* to practice. This follows the idea of music making as an ecology, in which simultaneously real (material, sonic) and imaginary (subjective, embodied) music is grown. ^[See Reybrouck, “Music as Environment”; Reybrouck, *Musical Sense-Making*.] The project engages the challenge: how to access, explore, and articulate features of the complex embodied music making process.
+While concentrating on this primary artistic context, the project moves outside this framework, in an attempt to explode its frame; to find new ways to listen *in* to practice. This follows the idea of music making as an ecology, in which simultaneously real (material, sonic) and imaginary (subjective, embodied) music is grown.[^2] The project engages the challenge: how to access, explore, and articulate features of the complex embodied music making process.
 
-The human body had been called an “intricately coordinated crowd” and “multiple” but not “fragmented.” ^[Mol, in *The Body Multiple* contests Western-medical and philosophical conventions of a singular-unified and individuated physical body.] Through practice led research I will focus in particular on the aspect of attention (for example *listening as a mode of attention)* ^[Riess Jones, *Time Will Tell*.] as a practical guide through this ‘crowd’. ^[See Coessens, Sensorial Aesthetics in *Music Practices* et. al.]
+The human body had been called an “intricately coordinated crowd” and “multiple” but not “fragmented.”[^3] Through practice led research I will focus in particular on the aspect of attention (for example *listening as a mode of attention)*[^4]  as a practical guide through this ‘crowd’.[^5]
 
 ### DRAPED FRAMES
 
 It has been demonstrated that the musical environment (which includes preparations, performance and reception) is animated by polyvalent real and imagined elements. Taking just one aspect of this as an example: in the context of the embodied sense of *temporality* and musical timing, multiple oscillating rhythms make up organism and environment, through a mix of an internal “endogenous timebase” (pulse, heart, brain) and ‘external’ (gestural and environmental) rhythms. ^[Riess Jones, Time Will Tell.]
 
-The musical environment is an ecology consisting, simultaneously, of moving bodies, imaginative ideas and sonic vibrations. ^[Reybrouck, “Music as Environment.”] The music emerging from this ecology is always situation specific: contingent on, co-produced by performer(s) and context. ^[Cox, *Music and Embodied Cognition*; Clarke, *Ways of Listening: An Ecological Approach to the Perception of Musical Meaning*.]
+The musical environment is an ecology consisting, simultaneously, of moving bodies, imaginative ideas and sonic vibrations.[^6] The music emerging from this ecology is always situation specific: contingent on, co-produced by performer(s) and context.[^7]
 
 It is the existing content of this complex bio-musical environment that this project investigates: to grow new music. It is from body to situation to score, that this research plays. Or put another way: "somewhere between heart-beat and truck joke."
 
 This will be engaged through two core themes: *discrepancy* and *multiplicity*, approached through practices of *attention*.
 
-I will use the concept of discrepancy to imply movement, dynamism, and critically: a challenge to standards, processes of normalisation and raising questions of perceptual filtering and subject constitution. ^[Keil, “Participatory Discrepancies and the Power of Music.”] The concept of multiplicity exemplifies a condition of proliferation which is key to developing living, growing and accessible music. ^[Sloboda, *Generative Processes in Music*.]
+I will use the concept of discrepancy to imply movement, dynamism, and critically: a challenge to standards, processes of normalisation and raising questions of perceptual filtering and subject constitution.[^8]  The concept of multiplicity exemplifies a condition of proliferation which is key to developing living, growing and accessible music.[^9]
 
-The subjective perception of musical experience has been described as an attentional practice. ^[London, *Meter as a Kind of Attentional Behavior*; London, *Hearing in Time*.] I will draw on theories and practices of attention ^[Riess Jones, *Time Will Tell*; Small, *Musicking: The Meanings of Performing and Listening* et. al.] starting with an expanded conception of listening to include both (1) the conventional ‘outward’ sense, where we listen to music, with our ears, to the environment, and the organised sounds which may occur within it; ^[Clarke, *Ways of Listening: An Ecological Approach to the Perception of Musical Meaning*; Schafer, *The Tuning of the World*.] and (2) the ‘internal’ sense of the registration of the subjective sensations of what we understand as our body (e.g. pulse, heartbeat, breath), in reaction to the same musical environment. ^[Preester, *The Interoceptive Mind*; Craig, *How Do You Feel*?]
+%%attention, listening%%
+The subjective perception of musical experience has been described as an attentional practice.[^10]  I will draw on theories and practices of attention[^11] starting with an expanded conception of listening to include both (1) the conventional ‘outward’ sense, where we listen to music, with our ears, to the environment, and the organised sounds which may occur within it;[^12] and (2) the ‘internal’ sense of the registration of the subjective sensations of what we understand as our body (e.g. pulse, heartbeat, breath), in reaction to the same musical environment.[^13]
 
-Alongside artists practices, I will draw on a range of work in the fields of music cognition and perception, embodied music cognition, and supporting ideas in neuroscience. ^[Iyer, “Embodied Mind, Situated Cognition, and Expressive Microtiming in African-American Music”; Leman, *Embodied Music Cognition and Mediation Technology*; Lesaffre, Maes, and Leman, *The Routledge Companion to Embodied Music Interaction*.]
+Alongside artists practices, I will draw on a range of work in the fields of music cognition and perception, embodied music cognition, and supporting ideas in neuroscience.[^14]
 
 ### TRUCK JOKE
 
-This project is *realised* through practice, including the practice of writing. I am starting from (following my PhD research on the *emergence of sounds and signs*) the provocation that *writing is everything happening outside of the time based performance of musical sounds*. ^[Following—Boone and Mignolo, *Writing Without Words*; Mackey, *Discrepant Engagement: Dissonance, Cross-Culturality, and Experimental Writing*; Anderson, *Sound & Score*; Waterman, “Music Is the Social Body Sounding: Composing Acts of Reading on and Off the Page.”]
+This project is *realised* through practice, including the practice of writing. I am starting from (following my PhD research on the *[emergence of sounds and signs](https://era.ed.ac.uk/bitstream/handle/1842/38770/AbbottP_2022.pdf?sequence=1&isAllowed=y)*) the provocation that *writing is everything happening outside of the time based performance of musical sounds*.[^15]
 
 Or,
 >I use an expanded sense of writing, \[borrowing\] the term ‘writing plus words,’ which includes the range of signs and symbols—from words to diagrammatic marks—relating, through symbolic inscription, to verbal language systems.
@@ -122,16 +116,16 @@ The action this project tries to stimulate is to begin to practically articulate
 
 ### SPIRALING TWIST
 
-After
-^[Zorn and Graves, *Arcana V: Music, Magic and Mysticism*.] The body of the performer—engaged in the specific dynamic physical and semiotic play that music performance necessitates—is the site of an ongoing dynamic mix of tension and generative growth between registers of language and modes of consciousness and communication.
+
+After.[^16] The body of the performer—engaged in the specific dynamic physical and semiotic play that music performance necessitates—is the site of an ongoing dynamic mix of tension and generative growth between registers of language and modes of consciousness and communication.
 
 It is not only the body which is already multiple (plural), but the context (environment) that the body is situated. That is, the body is already a collaboration: an ongoing embodied process of transition and translation between sound and sign, animating emerging music.
 
-Performance practice is poly-temporal ^[Ray, “Thesis: Sounding Expanded Affinities: A Polytemporal Approach to Reconceptualizing Egalitarian Social Relations.”] (repeating, off-grid, de-centred), imaginative (dramatized, metaphorical, fictional) ^[Hargreaves, Miell, and MacDonald, *Musical Imaginations - Multidisciplinary Perspectives on Creativity, Performance and Perception*.] and synthetic (mixing sound sources, symbolic registers, ideas, materials). ^[“Performance is the resistance of the object” Moten, *Black and Blur*.]
+Performance practice is poly-temporal[^17] (repeating, off-grid, de-centred), imaginative (dramatized, metaphorical, fictional)[^18] and synthetic (mixing sound sources, symbolic registers, ideas, materials).[^19]
 
 ### DRAMATIC ENVIRONMENT
 
-![wgm-sketch](http://www.paulabbott.net/assets/images/ap-wgm-stage-sketch-01.jpg)
+!["Dramatic Environment 1"](http://www.paulabbott.net/assets/images/ap-wgm-stage-sketch-01.jpg)
 
 The project is realised through practice. Embodied practice. A practice of growth and rhythmic returns. Each rhythmic restart is a chance to reset: re-learn listening, reconsider claims, findings and feelings. Rhythmic returns to cultivate the growth process.
 
@@ -144,5 +138,27 @@ I call this complex ecology; this collection of fictions, characters, sounds and
 ~~This research explores growth as a condition — grows, develops — practical and fictional structures through improvisation to // encourage experimental musical play // . I refer to the sum total pf these structures: the total conceptual, fictional and material environment or composition as the Dramatic Environment.~~
 
 ~~I conceive the research project, overall, is a stage, and/or garden. That is, a particular, framed space to develop conditions for the investigation of a specific kind growth (culture).~~
+
+<!-- footnotes below here !-->
+
+[^1]: Anderson, Sound & Score; Boone and Mignolo, *Writing Without Words*
+[^2]: See Reybrouck, “Music as Environment”; Reybrouck, *Musical Sense-Making*.
+[^3]: Mol, in *The Body Multiple* contests Western-medical and philosophical conventions of a singular-unified and individuated physical body.
+[^4]: Riess Jones, *Time Will Tell*.
+[^5]: See Coessens, Sensorial Aesthetics in *Music Practices* et. al.
+[^6]: Reybrouck, “Music as Environment.”
+[^7]: Cox, *Music and Embodied Cognition*; Clarke, *Ways of Listening: An Ecological Approach to the Perception of Musical Meaning*.
+[^8]: Keil, “Participatory Discrepancies and the Power of Music.”
+[^9]: Sloboda, *Generative Processes in Music.*
+[^10]: London, *Meter as a Kind of Attentional Behavior*; London, *Hearing in Time*.
+[^11]: Riess Jones, *Time Will Tell*; Small, *Musicking: The Meanings of Performing and Listening* et. al.
+[^12]: Clarke, *Ways of Listening: An Ecological Approach to the Perception of Musical Meaning*; Schafer, *The Tuning of the World*.
+[^13]: Preester, *The Interoceptive Mind*; Craig, *How Do You Feel*?
+[^14]: Iyer, “Embodied Mind, Situated Cognition, and Expressive Microtiming in African-American Music”; Leman, *Embodied Music Cognition and Mediation Technology*; Lesaffre, Maes, and Leman, *The Routledge Companion to Embodied Music Interaction*.
+[^15]: Following—Boone and Mignolo, *Writing Without Words*; Mackey, *Discrepant Engagement: Dissonance, Cross-Culturality, and Experimental Writing*; Anderson, *Sound & Score*; Waterman, “Music Is the Social Body Sounding: Composing Acts of Reading on and Off the Page.”
+[^16]: Zorn and Graves, *Arcana V: Music, Magic and Mysticism*.
+[^17]: Ray, “Thesis: Sounding Expanded Affinities: A Polytemporal Approach to Reconceptualizing Egalitarian Social Relations.”
+[^18]: Hargreaves, Miell, and MacDonald, *Musical Imaginations - Multidisciplinary Perspectives on Creativity, Performance and Perception*.
+[^19]: Performance is the resistance of the object” Moten, *Black and Blur*
 
 </div> <!-- this must be the last thing on the page !-->

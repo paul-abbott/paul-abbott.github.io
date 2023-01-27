@@ -140,25 +140,25 @@ I call this complex ecology; this collection of fictions, characters, sounds and
 ~~I conceive the research project, overall, is a stage, and/or garden. That is, a particular, framed space to develop conditions for the investigation of a specific kind growth (culture).~~
 
 <!-- footnotes below here !-->
-    [^1]: Anderson, Sound & Score; Boone and Mignolo, *Writing Without Words*
-    [^2]: See Reybrouck, “Music as Environment”; Reybrouck, *Musical Sense-Making*.
-    [^3]: Mol, in *The Body Multiple* contests Western-medical and philosophical conventions of a singular-unified and individuated physical body.
-    [^4]: Riess Jones, *Time Will Tell*.
-    [^5]: See Coessens, Sensorial Aesthetics in *Music Practices* et. al.
-    [^6]: Reybrouck, “Music as Environment.”
-    [^7]: Cox, *Music and Embodied Cognition*; Clarke, *Ways of Listening: An Ecological Approach to the Perception of Musical Meaning*.
-    [^8]: Keil, “Participatory Discrepancies and the Power of Music.”
-    [^9]: Sloboda, *Generative Processes in Music.*
-    [^10]: London, *Meter as a Kind of Attentional Behavior*; London, *Hearing in Time*.
-    [^11]: Riess Jones, *Time Will Tell*; Small, *Musicking: The Meanings of Performing and Listening* et. al.
-    [^12]: Clarke, *Ways of Listening: An Ecological Approach to the Perception of Musical Meaning*; Schafer, *The Tuning of the World*.
-    [^13]: Preester, *The Interoceptive Mind*; Craig, *How Do You Feel*?
-    [^14]: Iyer, “Embodied Mind, Situated Cognition, and Expressive Microtiming in African-American Music”; Leman, *Embodied Music Cognition and Mediation Technology*; Lesaffre, Maes, and Leman, *The Routledge Companion to Embodied Music Interaction*.
-    [^15]: Following—Boone and Mignolo, *Writing Without Words*; Mackey, *Discrepant Engagement: Dissonance, Cross-Culturality, and Experimental Writing*; Anderson, *Sound & Score*; Waterman, “Music Is the Social Body Sounding: Composing Acts of Reading on and Off the Page.”
-    [^16]: Zorn and Graves, *Arcana V: Music, Magic and Mysticism*.
-    [^17]: Ray, “Thesis: Sounding Expanded Affinities: A Polytemporal Approach to Reconceptualizing Egalitarian Social Relations.”
-    [^18]: Hargreaves, Miell, and MacDonald, *Musical Imaginations - Multidisciplinary Perspectives on Creativity, Performance and Perception*.
-    [^19]: Performance is the resistance of the object” Moten, *Black and Blur*
+[^1]: Anderson, Sound & Score; Boone and Mignolo, *Writing Without Words*
+[^2]: See Reybrouck, “Music as Environment”; Reybrouck, *Musical Sense-Making*.
+[^3]: Mol, in *The Body Multiple* contests Western-medical and philosophical conventions of a singular-unified and individuated physical body.
+[^4]: Riess Jones, *Time Will Tell*.
+[^5]: See Coessens, Sensorial Aesthetics in *Music Practices* et. al.
+[^6]: Reybrouck, “Music as Environment.”
+[^7]: Cox, *Music and Embodied Cognition*; Clarke, *Ways of Listening: An Ecological Approach to the Perception of Musical Meaning*.
+[^8]: Keil, “Participatory Discrepancies and the Power of Music.”
+[^9]: Sloboda, *Generative Processes in Music.*
+[^10]: London, *Meter as a Kind of Attentional Behavior*; London, *Hearing in Time*.
+[^11]: Riess Jones, *Time Will Tell*; Small, *Musicking: The Meanings of Performing and Listening* et. al.
+[^12]: Clarke, *Ways of Listening: An Ecological Approach to the Perception of Musical Meaning*; Schafer, *The Tuning of the World*.
+[^13]: Preester, *The Interoceptive Mind*; Craig, *How Do You Feel*?
+[^14]: Iyer, “Embodied Mind, Situated Cognition, and Expressive Microtiming in African-American Music”; Leman, *Embodied Music Cognition and Mediation Technology*; Lesaffre, Maes, and Leman, *The Routledge Companion to Embodied Music Interaction*.
+[^15]: Following—Boone and Mignolo, *Writing Without Words*; Mackey, *Discrepant Engagement: Dissonance, Cross-Culturality, and Experimental Writing*; Anderson, *Sound & Score*; Waterman, “Music Is the Social Body Sounding: Composing Acts of Reading on and Off the Page.”
+[^16]: Zorn and Graves, *Arcana V: Music, Magic and Mysticism*.
+[^17]: Ray, “Thesis: Sounding Expanded Affinities: A Polytemporal Approach to Reconceptualizing Egalitarian Social Relations.”
+[^18]: Hargreaves, Miell, and MacDonald, *Musical Imaginations - Multidisciplinary Perspectives on Creativity, Performance and Perception*.
+[^19]: Performance is the resistance of the object” Moten, *Black and Blur*
 <!-- end footnotes !-->
 
 </div> <!-- end of body text !-->

@@ -189,8 +189,10 @@ sup:hover{
   margin-bottom: 1em !important;
 }
 
-#footnotes{
+.footnotes{
   font-size: small;
+  font-weight: inherit;
+  color: inherit;
 }
 
 .photo-credit{

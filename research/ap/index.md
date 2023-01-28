@@ -7,25 +7,39 @@
 
 <div id="standard-text" markdown="1">
 
-# "One"
+# "Invitation"
 
-## We Grow Music!
-Ecologies of attention, discrepancy and multiplicity—real and imaginary—in embodied music performance.
+Dear friends,
 
-## or
-A reconsideration of embodied music making as a complex ecology. Practical exercises—for live improvised music—are being developed. These are based on **listening as a mode of attention** and used to investigate how performing bodies grow music and language—characterised by discrepancy and multiplicity.
+I have just started a research project in Antwerp titled for now: "WE GROW MUSIC! Ecologies of attention, discrepancy and multiplicity—real and imaginary—in embodied music performance." It is a practice based research project that will last around a year and a half, ending in March 2024.
 
-## or
-This research looks at the aspects of discrepancy and multiplicity as specific generative features of embodied music making, primarily in the context of live experimental improvised music. This follows the idea of music making as an ecology, in which simultaneously real (material, sonic) and imaginary (subjective, embodied) music is grown. The project engages the challenge: how to access, explore, and articulate features of the complex embodied music making process. The body is an “**intricately coordinated crowd**” and “multiple” but not “fragmented.” Through practice led research I will focus in particular on the aspect of attention as a practical guide through this ‘crowd’
+The project will be made up of a number of discrete and interacting *cycles* of activity: ~~ONGOING PRACTICE, GROUP MUSIC, INDEPENDENT MUSIC, WORKSHOP and GUESTS~~.
 
-## or
-This research looks at the aspects of discrepancy and multiplicity as specific generative features of embodied music making, primarily in the context of live experimental improvised music. This follows the idea of music making as an ecology, in which simultaneously real (material, sonic) and imaginary (subjective, embodied) music is grown. The project engages the challenge: how to access, explore, and articulate features of the complex embodied music making process. The body is an “intricately coordinated crowd” and “multiple” but not “fragmented.” Through practice led research the project focuses in particular on the aspect of attention as a practical guide through this ‘crowd’.
+The different activity cycles will overlap and interact, contributing in more or less direct or explicit ways to the core themes of the research.
 
-Practical exercises—for live improvised music—~~will be~~ are developed. These will be based on listening as a mode of attention and used to investigate how performing bodies grow music and language—characterised by discrepancy and multiplicity. What this sounds and looks like, and what is at stake, will be demonstrated through performed and recorded music, written documentation, and presentations. This musical growth will be approached as the production of a ‘living archive’ of scores, in an expanded sense.
+If you are able and willing, I would like to invite you as one of the GUESTS.
+
+It would be XXX 2022 (prob around XXX, to be precise): an independent 'presentation' (explained below) of something (of your choosing) during a day/evening. Probably in Antwerp, or Brussels. We would negotiate an appropriate venue, through conversation. Could be in/outside 'the institution'. I will pay for travel, accommodation and a fee.
+
+I am in the process of double checking practicalities: budget amount, feasibility, but for now, if you are likely free and able, let's schedule a chat and I can explain in more detail?
+
+Until we might talk it through, for now; to explain a little bit, the context of the invitation: this is a *summary* from my application, and is the departure point for the research:
+
+>The subject of this research is a reconsideration of embodied music making as a complex ecology.
+
+>This research looks at the aspects of discrepancy and multiplicity as specific generative features of embodied music making, primarily in the context of live experimental improvised music. This follows the idea of music making as an ecology, in which simultaneously real (material, sonic) and imaginary (subjective, embodied) music is grown.
+
+The ideas here serve as an invitation, some ingredients, a start point, and an excuse - to provoke some action. In this case to begin to practically articulate and question some of what already happens, when we perform (that is play, listen to, write, imagine) music.
+
+I conceive the research project overall is a stage, and/or garden. That is, a particular, framed space to develop conditions for the investigation of a specific kind growth (culture).
+
+So, I am inviting a few GUESTS to *do* (perform, present) something (present in the very broadest and non-academic sense) as a kind of perpendicular (oblique, *discrepant?*) contribution to the themes of the research project. I imagine the guest contributions as being a bit like when you open a window to a room, and the outside sounds come in, being both contingent and organised, related and not.
+
+Hope this might work out.... sorry for the long email,
+
+Let me know!
 
 # "Two"
-
-[*After*](http://www.paulabbott.net/research/ap/g-invitation-letter.md)
 
 ## We Grow Music!
 
@@ -84,7 +98,6 @@ This will be engaged through two core themes: *discrepancy* and *multiplicity*, 
 
 I will use the concept of discrepancy to imply movement, dynamism, and critically: a challenge to standards, processes of normalisation and raising questions of perceptual filtering and subject constitution.[^8]  The concept of multiplicity exemplifies a condition of proliferation which is key to developing living, growing and accessible music.[^9]
 
-%%attention, listening%%
 The subjective perception of musical experience has been described as an attentional practice.[^10]  I will draw on theories and practices of attention[^11] starting with an expanded conception of listening to include both (1) the conventional ‘outward’ sense, where we listen to music, with our ears, to the environment, and the organised sounds which may occur within it;[^12] and (2) the ‘internal’ sense of the registration of the subjective sensations of what we understand as our body (e.g. pulse, heartbeat, breath), in reaction to the same musical environment.[^13]
 
 Alongside artists practices, I will draw on a range of work in the fields of music cognition and perception, embodied music cognition, and supporting ideas in neuroscience.[^14]
@@ -138,6 +151,22 @@ I call this complex ecology; this collection of fictions, characters, sounds and
 ~~This research explores growth as a condition — grows, develops — practical and fictional structures through improvisation to // encourage experimental musical play // . I refer to the sum total pf these structures: the total conceptual, fictional and material environment or composition as the Dramatic Environment.~~
 
 ~~I conceive the research project, overall, is a stage, and/or garden. That is, a particular, framed space to develop conditions for the investigation of a specific kind growth (culture).~~
+
+# "One"
+
+## We Grow Music!
+Ecologies of attention, discrepancy and multiplicity—real and imaginary—in embodied music performance.
+
+## or
+A reconsideration of embodied music making as a complex ecology. Practical exercises—for live improvised music—are being developed. These are based on **listening as a mode of attention** and used to investigate how performing bodies grow music and language—characterised by discrepancy and multiplicity.
+
+## or
+This research looks at the aspects of discrepancy and multiplicity as specific generative features of embodied music making, primarily in the context of live experimental improvised music. This follows the idea of music making as an ecology, in which simultaneously real (material, sonic) and imaginary (subjective, embodied) music is grown. The project engages the challenge: how to access, explore, and articulate features of the complex embodied music making process. The body is an “**intricately coordinated crowd**” and “multiple” but not “fragmented.” Through practice led research I will focus in particular on the aspect of attention as a practical guide through this ‘crowd’
+
+## or
+This research looks at the aspects of discrepancy and multiplicity as specific generative features of embodied music making, primarily in the context of live experimental improvised music. This follows the idea of music making as an ecology, in which simultaneously real (material, sonic) and imaginary (subjective, embodied) music is grown. The project engages the challenge: how to access, explore, and articulate features of the complex embodied music making process. The body is an “intricately coordinated crowd” and “multiple” but not “fragmented.” Through practice led research the project focuses in particular on the aspect of attention as a practical guide through this ‘crowd’.
+
+Practical exercises—for live improvised music—~~will be~~ are developed. These will be based on listening as a mode of attention and used to investigate how performing bodies grow music and language—characterised by discrepancy and multiplicity. What this sounds and looks like, and what is at stake, will be demonstrated through performed and recorded music, written documentation, and presentations. This musical growth will be approached as the production of a ‘living archive’ of scores, in an expanded sense.
 
 • <!--spacer before footnotes !-->
 

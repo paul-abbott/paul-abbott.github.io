@@ -1,7 +1,7 @@
 <!-- NAV for all headers !-->
 [Projects](https://paulabbott.net/index.html)
 <!--[Future](https://paulabbott.net/future/)!-->
-[Research](https://paulabbott.net/research/)
+[Writing](https://paulabbott.net/wr)
 [About](https://paulabbott.net/about/)
 <!-- end nav! -->
 
@@ -15,7 +15,7 @@ contact@paulabbott.net
 
 ### About
 
-  Paul Abbott is a musician and drummer. He plays with real and imaginary drums, synthetic sounds, performance and writing. 
+  Paul Abbott is a musician and drummer. He plays with real and imaginary drums, synthetic sounds, performance and writing.
 
   Recent and ongoing collaborations include: [XT](#) with Seymour Wright; XT+[Anne Gillis](#); [_F.R.David_, very good*](https://www.uhbooks.directory/2020/03/02/f-r-david-very-good/) with Will Holder; film sound for [Keira Greene](http://keiragreene.com/); [Rian Treanor](http://www.riantreanor.com/) Duo; [RP Boo Trio](https://www.cafeoto.co.uk/shop/xt-and-rp-boo-311218/) with XT; [The Creaking Breeze Ensemble](https://www.cafeoto.co.uk/events/nathaniel-mackey-creaking-breeze-ensemble/) with Nathaniel Mackey, Ute Kanngießer, Evie Ward, Seymour Wright and Billy Steiger; yPLO with [Micheal Speers](https://michaelspeers.net/) and performances with [Cara Tolmie](http://caratolmie.tumblr.com/).  
 

@@ -5,13 +5,11 @@
 [About](https://paulabbott.net/about/)  
 <!-- end nav! -->
 
-### We Grow Music!
+### WE GROW MUSIC! Ecologies of attention, discrepancy and multiplicity—real and imaginary—in embodied music performance.
 
-<div id="standard-text" markdown="1">
-
-__WE GROW MUSIC! Ecologies of attention, discrepancy and multiplicity—real and imaginary—in embodied music performance.__  
 [RCA, Antwerp, 2022-2024](https://www.ap-arts.be/en/research/we-grow-music-ecologies-attention-discrepancy-and-multiplicity-real-and-imaginary-embodied)
 
+<div id="standard-text" markdown="1">
 <!--updated descriptions here (reverse order)!-->
 
 # "Invitation"

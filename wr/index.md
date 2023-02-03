@@ -1,11 +1,11 @@
 <!-- NAV for all headers !-->
 [Projects](https://paulabbott.net/index.html)
 <!--[Future](https://paulabbott.net/future/)!-->
-[Writing](https://paulabbott.net/wr/)
+[Words & Other Research](https://paulabbott.net/wr)
 [About](https://paulabbott.net/about/)
 <!-- end nav! -->
 
-### Writing & Other Research
+### Words & Other Research
 
 <div id="about-text" markdown="1">
 

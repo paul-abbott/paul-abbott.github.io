@@ -5,7 +5,7 @@
 [About](https://paulabbott.net/about/)
 <!-- end nav! -->
 
-### Playing no solo imagination (PhD): synthesising the rhythmic emergence of sound and sign through embodied drum kit performance and creative writing.
+### Playing no solo imagination: synthesising the rhythmic emergence of sound and sign through embodied drum kit performance and creative writing.
 
 <div id="standard-text" markdown="1">
 

@@ -23,9 +23,6 @@ DUCTUS is the first of 3 'Rhythmic Figure' projects.  51 minutes of audio, 12 tr
 </div>
 
 <img src="https://f4.bcbits.com/img/a4080751166_10.jpg" class="responsive-img"><br>
-<!-- link to discogs images page
-<a href="assets/ductus/DUCTUS-2019-BOOKLET-WEB.pdf">Ductus Booklet PDF</a>
-!-->
 
 ## 2 Nsular
 

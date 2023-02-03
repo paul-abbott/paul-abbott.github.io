@@ -5,13 +5,13 @@
 [About](https://paulabbott.net/about/)
 <!-- end nav! -->
 
+### Workshop Call
+
 <div id="standard-text" markdown="1">
 
 ![alt_text](https://paulabbott.net/assets/images/ap-gkg-skotamo.jpg)
 
-**Workshop Open Call!**  
 **Music as a living landscape**  
-
 Part one: "skotamo"  
 When: March 9th 2023, 10am-5pm  
 Where: "Studio 3" (old radio studio), RCA deSingel, Antwerp

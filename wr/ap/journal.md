@@ -5,6 +5,6 @@
 [About](https://paulabbott.net/about/)
 <!-- end nav! -->
 
-<div id="standard-text" markdown="1">
-
 ### WGM Journal Test
+
+<div id="standard-text" markdown="1">

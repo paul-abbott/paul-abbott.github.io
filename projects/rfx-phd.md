@@ -5,9 +5,9 @@
 [About](https://paulabbott.net/about/)
 <!-- end nav! -->
 
-<div id="standard-text" markdown="1">
+### Rhythmic Figure(s) 1 & 2: Ductus, Nsular
 
-# Rhythmic Figure(s) 1 & 2: Ductus, Nsular.
+<div id="standard-text" markdown="1">
 
 ## 1 Ductus  
 

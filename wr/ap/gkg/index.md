@@ -1,18 +1,18 @@
 <!-- NAV for all headers !-->
 [Projects](https://paulabbott.net/index.html)
 <!--[Future](https://paulabbott.net/future/)!-->
-[Research](https://paulabbott.net/research/)
+[Writing](https://paulabbott.net/wr)
 [About](https://paulabbott.net/about/)
 <!-- end nav! -->
 
 <div id="standard-text" markdown="1">
 
-![alt_text](../assets/images/ap-gkg-skotamo.jpg)
+![alt_text](https://paulabbott.net/assets/images/ap-gkg-skotamo.jpg)
 
 **Workshop Open Call!**  
 **Music as a living landscape**  
-Part one: "skotamo"  
 
+Part one: "skotamo"  
 When: March 9th 2023, 10am-5pm  
 Where: "Studio 3" (old radio studio), RCA deSingel, Antwerp
 
@@ -26,7 +26,7 @@ This will be a playful and experimental practical workshop which will involve gr
 
 This will be the first of a two part workshop series, the second, related workshop "da", will happen later in the year. Those attending this first workshop are encouraged to attend both, and will have priority to reserve a place for the second part.
 
-<span style="text-decoration:underline;">Who can participate?</span>
+**Who can participate?**
 
 Anyone interested in what we will explore: students and non-students. This workshop is intended to be as open as possible: no musical or artistic training, performance experience or language is necessary. If you have any of these, you are also welcome.
 
@@ -36,7 +36,7 @@ For maximum 12 people. Reserve your place at <span style="text-decoration:underl
 
 This workshop is organised by musician and RAFA/RCA researcher Paul Abbott, as part of his research project “[WE GROW MUSIC! Ecologies of attention, discrepancy and multiplicity—real and imaginary—in embodied music performance](https://www.ap-arts.be/en/research/we-grow-music-ecologies-attention-discrepancy-and-multiplicity-real-and-imaginary-embodied)."
 
-<span style="text-decoration:underline;">About us</span>
+**About us**
 
 **Keira Greene** is an artist working across film, photography, performance and text. Her work is preoccupied with the social and organic life and landscape of specific environments. Her work is produced through a collaborative and conversational practice of looking, writing and forming enduring relationships. Recent works are concerned with ideas of the body and the experience of emotion, in dialogue with an embodied filmmaking practice. Moving image works by Greene are distributed by LUX.
 

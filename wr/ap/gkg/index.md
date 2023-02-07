@@ -9,6 +9,9 @@
 
 <div id="standard-text" markdown="1">
 
+[check here for updates](https://www.ap-arts.be/evenement/music-living-landscape-workshop-keira-greene-paul-abbott)  
+
+
 ![alt_text](https://paulabbott.net/assets/images/ap-gkg-skotamo.jpg)
 
 **Music as a living landscape**  

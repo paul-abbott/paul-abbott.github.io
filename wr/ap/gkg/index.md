@@ -16,7 +16,7 @@
 
 **Music as a living landscape**  
 Part one: "skotamo"  
-When: March 9th 2023, 10am-5pm  
+When: March 8th 2023, 10am-5pm  
 Where: "Studio 3" (old radio studio), RCA deSingel, Antwerp
 
 Led by artist-filmmaker [Keira Greene](https://lux.org.uk/artist/keira-greene/) in collaboration with musician and RCA/RAFA researcher [Paul Abbott](https://paulabbott.net/about/).

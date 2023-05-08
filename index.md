@@ -15,7 +15,7 @@
 
 **performance** [The Don and Moki Cherry Sessions, Argos](/projects/solo-argos-cherry.html)  
 
-**"Growl, Rubs, Drops, Claps (Live Growth: Atelier Claus)"** residency, performance, release [Bandcamp](https://paul-abbott.bandcamp.com/album/growl-rubs-drops-claps-live-growth)  
+**Growl, Rubs, Drops, Claps (Live Growth: Atelier Claus)** residency, performance, release [Bandcamp](https://paul-abbott.bandcamp.com/album/growl-rubs-drops-claps-live-growth)  
 
 <details><summary>
 <strong>NSULAR</strong> Digital & booklet <a href="https://paul-abbott.bandcamp.com/album/nsular">Bandcamp</a><sup>(+)</sup>

@@ -1,8 +1,8 @@
 <!-- NAV for all headers !-->
-[Projects](https://paulabbott.net/index.html)
+[PROJECTS](https://paulabbott.net/index.html)
 <!--[Future](https://paulabbott.net/future/)!-->
-[Words & Other Research](https://paulabbott.net/wr)
-[About](https://paulabbott.net/about/)
+ • [WORDS & OTHER](https://paulabbott.net/wr)
+ • [About](https://paulabbott.net/about/)
 <!-- end nav! -->
 
 ### Selected projects:
@@ -15,7 +15,7 @@
 
 **performance** [The Don and Moki Cherry Sessions, Argos](/projects/solo-argos-cherry.html)  
 
-**"Growl, Rubs, Drops, Claps (grown in Atelier Claus)"** residency, performance [Atelier Claus](/projects/solo-atelier-claus-april-22.html)  
+**"Growl, Rubs, Drops, Claps (Live Growth: Atelier Claus)"** residency, performance, release [Bandcamp](https://paul-abbott.bandcamp.com/album/growl-rubs-drops-claps-live-growth)  
 
 <details><summary>
 <strong>NSULAR</strong> Digital & booklet <a href="https://paul-abbott.bandcamp.com/album/nsular">Bandcamp</a><sup>(+)</sup>

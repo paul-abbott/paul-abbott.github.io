@@ -1,8 +1,8 @@
 <!-- NAV for all headers !-->
 [PROJECTS](https://paulabbott.net/index.html)
 <!--[Future](https://paulabbott.net/future/)!-->
- • [WORDS & OTHER](https://paulabbott.net/wr)
- • [About](https://paulabbott.net/about/)
+ • [WRITING](https://paulabbott.net/wr)
+ • [ABOUT](https://paulabbott.net/about/)
 <!-- end nav! -->
 
 ### Selected projects:

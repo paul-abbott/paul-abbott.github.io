@@ -1,8 +1,8 @@
 <!-- NAV for all headers !-->
-[Projects](https://paulabbott.net/index.html)
+[PROJECTS](https://paulabbott.net/index.html)
 <!--[Future](https://paulabbott.net/future/)!-->
-[Words & Other Research](https://paulabbott.net/wr)
-[About](https://paulabbott.net/about/)
+ • [WRITING](https://paulabbott.net/wr)
+ • [ABOUT](https://paulabbott.net/about/)
 <!-- end nav! -->
 
 ### Playing no solo imagination: synthesising the rhythmic emergence of sound and sign through embodied drum kit performance and creative writing.

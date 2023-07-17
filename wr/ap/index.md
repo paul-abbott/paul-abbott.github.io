@@ -145,7 +145,9 @@ Performance practice is poly-temporal[^17] (repeating, off-grid, de-centred), im
 
 !["Dramatic Environment 1"](http://www.paulabbott.net/assets/images/ap-wgm-stage-sketch-01.jpg)
 
+<!--
 <a href="http://www.paulabbott.net/assets/images/ap-wgm-stage-sketch-01.jpg" <img src="http://www.paulabbott.net/assets/images/ap-wgm-stage-sketch-01.jpg"></> target="_blank"></a>
+!-->
 
 The project is realised through practice. Embodied practice. A practice of growth and rhythmic returns. Each rhythmic restart is a chance to reset: re-learn listening, reconsider claims, findings and feelings. Rhythmic returns to cultivate the growth process.
 

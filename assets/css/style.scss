@@ -263,12 +263,12 @@ iframe{
   width: 100% !important;
 }
 
-body.docs-gm #top-bar{
+#top-bar{
   visibility: hidden !important;
   background: white !important;
 }
 
-#doc-title.name{
+#doc-title{
   visibility: hidden !important;
   color: white !important;
 }
@@ -280,3 +280,5 @@ td.freezebar-cell, th.freezebar-cell, td.row-header-shim, th.row-header-shim, .s
 tr.td{
   background: white !important;
 }
+
+sheets-viewport.widget-viewport{}

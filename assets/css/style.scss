@@ -268,17 +268,20 @@ iframe{
   background: white !important;
 }
 
-#doc-title{
+#doc-title, #doc-title.name{
   visibility: hidden !important;
   color: white !important;
 }
 
-td.freezebar-cell, th.freezebar-cell, td.row-header-shim, th.row-header-shim, .switcherOuter{
+.switcherOuter{
   visibility: hidden !important;
 }
 
-tr.td{
+
+td{
   background: white !important;
 }
 
-sheets-viewport.widget-viewport{}
+td.freezebar-cell, th.freezebar-cell, td.row-header-shim, th.row-header-shim{
+  visibility: hidden !important;
+}

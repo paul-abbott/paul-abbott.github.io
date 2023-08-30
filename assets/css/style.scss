@@ -207,5 +207,9 @@ sup:hover{
 iframe{
   border: 0px !important;
   border: white !important;
-  width: 100% !important;
+  overflow: hidden !important;
+}
+
+docs-gm{
+  overflow: hidden !important;
 }

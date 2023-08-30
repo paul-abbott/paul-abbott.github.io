@@ -207,9 +207,10 @@ sup:hover{
 iframe{
   border: 0px !important;
   border: white !important;
-  overflow: hidden !important;
 }
 
-docs-gm{
+html body.docs-gm div#sheets-viewport{
+  width: 1000px !important;
+  height: 1000px !important;
   overflow: hidden !important;
 }

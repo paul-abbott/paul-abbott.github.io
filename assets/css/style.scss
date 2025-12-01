@@ -12,14 +12,14 @@
 
 /* main-container */
 .container-lg{
-    max-width: 600px; /* old = 600px */
+    /* max-width: 600px; /* old = 600px */
     background: black; /* porto pink #FFD1CE; */
 }
 
 .markdown-body, body{
     font-size: 15px;
     line-height: 1.4; /* old 1.2 */
-    background: white; /* porto pink #FFD1CE; */
+    background: black; /* porto pink #FFD1CE; */
 }
 
 .projects-text, body{ /*text rules just for projects list page */
@@ -28,7 +28,7 @@
 
 .markdown-body a, body a{
     color: black; /*mediumblue;*/
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 /*details>details wrapper */

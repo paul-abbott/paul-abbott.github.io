@@ -1,4 +1,4 @@
-
+  
 <!-- date, type, project, venue/label --> [SLIP](https://paul-abbott.bandcamp.com/album/slip), 
 <!-- date, type, project, venue/label --> [OWLLL](https://www.cafeoto.co.uk/events/alan-licht-solo/),
 <!-- date, type, project, venue/label --> [X Ray Hex Tet](https://gulbenkian.pt/jazzemagosto/agenda/x-ray-hex-tet/),
@@ -17,7 +17,7 @@
 [X Ray Hex Tet](https://readinggroupcompany.bandcamp.com/album/x-ray-hex-tet),
 [BS/PA](https://www.cafeoto.co.uk/events/paul-abbott-billy-steiger-duo/),
 [lll人](https://www.cafeoto.co.uk/events/infant-tree-presents-lll/),
-[Infinite \*^Kerp](https://www.cafeoto.co.uk/events/infinite-kerp-xt/),
+[Infinite \*Kerp](https://www.cafeoto.co.uk/events/infinite-kerp-xt/),
 [Knees, Elbow Bag](https://alwayspartyperfect.bandcamp.com/album/pp-09-knees-elbow-bag),
 [KSW & XT](), [Mathair](https://lux.org.uk/work/mathair/ ),
 [YESYESPEAKERSYES](https://feedbackmoves.bandcamp.com/album/yesyespeakersyes),
@@ -44,8 +44,8 @@
 [Fugitive Equation](https://nathanielmackey.bandcamp.com/album/fugitive-equation),
 [Nsular](https://paul-abbott.bandcamp.com/album/nsular),
 [Folds](https://lux.org.uk/work/folds/),
-[“Very Good\*^](https://www.kw-berlin.de/en/f-r-david-good/https://www.kw-berlin.de/en/f-r-david-good/),
-[Very Good\*^](https://www.uhbooks.directory/2020/03/02/f-r-david-very-good/https://www.uhbooks.directory/2020/03/02/f-r-david-very-good/), [Folds/Very Good\*^](https://www.cafeoto.co.uk/events/keira-greene-rian-treanor-paul-abbott-will-holder/),
+[“Very Good\*](https://www.kw-berlin.de/en/f-r-david-good/https://www.kw-berlin.de/en/f-r-david-good/),
+[Very Good\*](https://www.uhbooks.directory/2020/03/02/f-r-david-very-good/https://www.uhbooks.directory/2020/03/02/f-r-david-very-good/), [Folds/Very Good\*](https://www.cafeoto.co.uk/events/keira-greene-rian-treanor-paul-abbott-will-holder/),
 [RT/PA](https://www.thequeenshall.net/whats-on/counterflows-beatrice-dillon),
 [Palina'tufa](https://emptyeditions.bandcamp.com/album/ee004-palinatufa),
 [NM and The Creaking Breeze Ensemble](https://www.cafeoto.co.uk/events/nathaniel-mackey-creaking-breeze-ensemble/),

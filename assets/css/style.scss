@@ -13,14 +13,15 @@
 --main-bg-color: #131313;
 --main-txt-color: lightgrey;
 --main-txt-hover: lightgrey /* mediumseagreen; */
---main-txt-a-hover-decoration: underline;
+--main-txt-a-hover-decoration: none; /* underline */
 --main-txt-a-hover-color: mediumseagreen;
 --main-txt-a-hover-decoration-style: solid; /* alt = dotted */
---main-txt-hover-decoration: underline;
+--main-txt-hover-decoration: none; /* underline */
 --main-txt-hover-decoration-style: solid;
 /* --txt-underline-up-col: grey; */
---main-txt-size: 18px;
---main-line-height: 1.5;
+--main-txt-size: 20px;
+--main-txt-weight: 400; /* tyyym = 200 */
+--main-line-height: 1.8;
 --max-width: 700px; /* 900 */
 /* --inset-width: 600px; /* 750 */
 }
@@ -63,7 +64,7 @@
 
 .markdown-body p, p, details p, details a, p strong{
     /* margin-bottom: 4px; */
-    font-weight: 200;
+    font-weight: var(--main-txt-weight) !important; /* 200 */
     color: var(--main-txt-color) !important;
 }
 

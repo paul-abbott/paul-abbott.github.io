@@ -16,7 +16,7 @@
 [X Ray Hex Tet](https://readinggroupcompany.bandcamp.com/album/x-ray-hex-tet),
 [BS/PA](https://www.cafeoto.co.uk/events/paul-abbott-billy-steiger-duo/),
 [lll人](https://www.cafeoto.co.uk/events/infant-tree-presents-lll/),
-[Infinite *Kerp](https://www.cafeoto.co.uk/events/infinite-kerp-xt/),
+[Infinite ^\*^Kerp](https://www.cafeoto.co.uk/events/infinite-kerp-xt/),
 [Knees, Elbow Bag](https://alwayspartyperfect.bandcamp.com/album/pp-09-knees-elbow-bag),
 [KSW & XT](), [Mathair](https://lux.org.uk/work/mathair/ ),
 [YESYESPEAKERSYES](https://feedbackmoves.bandcamp.com/album/yesyespeakersyes),

@@ -14,7 +14,7 @@
 --main-txt-color: lightgrey;
 --main-txt-hover: lightgrey /* mediumseagreen; */
 --main-txt-a-hover-decoration: none; /* underline */
---main-txt-a-hover-color: mediumseagreen;
+--main-txt-a-hover-color: var(--main-bg-color) ;  /* mediumseagreen;
 --main-txt-a-hover-decoration-style: solid; /* alt = dotted */
 --main-txt-hover-decoration: none; /* underline */
 --main-txt-hover-decoration-style: solid;

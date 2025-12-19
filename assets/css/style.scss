@@ -21,8 +21,10 @@
 /* --txt-underline-up-col: grey; */
 --main-txt-font-family: "Times New Roman", Times, serif; /* serif font */
 /* --main-txt-font-family: Arial, Helvetica, sans-serif;  sans-serif font */
---main-txt-size: 20px;
---main-txt-weight: 300; /* tyyym = 200 */
+--main-txt-size: 24px;
+--main-txt-weight: 250; /* tyyym = 200 */
+--main-txt-letter-spacing: 0.25pt;
+--main-txt-word-spacing: 0.25pt;
 --main-line-height: 1.8;
 --max-width: 700px; /* 900 */
 /* --inset-width: 600px; /* 750 */
@@ -46,6 +48,8 @@
 
 .markdown-body, body{
     font-size: var(--main-txt-size);
+    letter-spacing: var(--main-txt-letter-spacing) !important;
+    word-spacing: var(--main-txt-word-spacing) !important;
     line-height: var(--main-line-height);
     background: var(--main-bg-color) !important;
     color: var(--main-txt-color) !important;
@@ -103,121 +107,4 @@
     font-size: 1em;
     padding-bottom: 0.3em;
     border-bottom: none;
-}
-
-.markdown-body p, p, details p, details a{
-    /* margin-bottom: 4px; */
-    font-weight: 200; /* black theme light black */
-}
-
-/* date/indent */
-.markdown-body code, code,
-.markdown-body samp, samp,
-.markdown-body kbd, kbd
-{
-    font-size: 1em;
-    margin-right: 10px;
-    padding: .2em .4em;
-    background-color: white;
-    border-radius: 3px;
-    font-size: 85%;
-    border: none;
-    font-family: monospace, monospace;
-}
-
-/* UNUSED ----------------------------------------- */
-
-/* date block */
-.markdown-body code,
-code {
-    color: black;
-}
-/* invisible block */
-.markdown-body kbd, kbd,
-.markdown-body samp, samp,
-.markdown-body pre, pre
-{
-    color: white;
-    box-shadow: none;
-}
-
-/*  details-summary collapse style
-    removes arrow
-    underline style
-*/
-details > summary {
-    border: none;
-    text-decoration: none;
-    cursor: pointer;
-    list-style: none;
-    display: block;
-    outline:none;
-    margin-bottom: 4px;
-    font-weight: 200;
-}
-
-details > summary::-webkit-details-marker {
-    display: none;
-    outline: none;
-}
-
-/* when hovering over extra content line */
-details :hover,
-details a:hover,
-details .strong:hover {
-    color: inherit;
-}
-
-details[open] {
-    background: inherit;
-}
-
-/*details */
-sup {
-    vertical-align: super;
-    font-size: smaller;
-    font-weight: 500;
-    color: red !important;
-    position: inherit;
-    margin-left: 0.4em;
-}
-
-sup:hover{
-    color: green !important;
-}
-
-/* extra layout and features */
-
-/*details>details wrapper */
-#details-wrap, #details-wrap:hover{
-    width:inherit;
-    max-width: 600px;
-    margin-left: 1em;
-    margin-bottom: 2em;
-    margin-top: 2em;
-    /* background: #FFD1CE; */
-}
-
-/* soundcloud-bandcamp player container */
-#bs-player,
-.markdown-body #bs-player,
-#bs-player:hover,
-.markdown-body #bs-player:hover {
-    max-width: 600px;
-    margin-top: 0.5em;
-    margin-bottom: 0.5em;
-    /* background: #FFD1CE; */
-}
-
-/* image container */
-#details-wrap > img,
-.markdown-body img,
-.markdown-body img .responsive-img,
-img
-{
-    width: 100%;
-    max-width: 600px;
-    height: auto;
-    margin: 0.5em 0 0.5em 0;
-    /* background: #FFD1CE; */
 }

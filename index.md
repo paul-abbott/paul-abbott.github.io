@@ -3,7 +3,7 @@
 <!-- XTBoo OTO !-->
 <!-- XTPT OTO // 3/2/26, type, project, venue/label !--> [PT & XT](https://www.cafeoto.co.uk/events/pat-thomas-xt-paul-abbott-and-seymour-wright/), 
 <!-- 30/1/2025, release, XT & Pat, We Jazz !--> [Strata, Act \(Joy Contemporary\)\*](https://xxxxxxxxxttttttt.bandcamp.com/album/strata-act-joy-contemporary), 
-<!-- FUTURE ABOVE HERE !--> (...) 
+<!-- FUTURE ABOVE HERE !--> (...), 
 <!-- date, type, project, venue/label --> [SLIP](https://paul-abbott.bandcamp.com/album/slip), 
 <!-- date, type, project, venue/label --> [OWLLL](https://www.cafeoto.co.uk/events/alan-licht-solo/),
 <!-- date, type, project, venue/label --> [X Ray Hex Tet](https://gulbenkian.pt/jazzemagosto/agenda/x-ray-hex-tet/),

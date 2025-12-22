@@ -1,12 +1,17 @@
   
 <!-- NEW ACTIVITY >> date, type, project, venue/label • [next project title](URL) !-->
 <!-- XTBoo OTO !-->
-<!-- XTPT OTO // 3/2/26, type, project, venue/label !--> [PT & XT](https://www.cafeoto.co.uk/events/pat-thomas-xt-paul-abbott-and-seymour-wright/), 
-<!-- 30/1/2025, release, XT & Pat, We Jazz !--> [Strata, Act \(Joy Contemporary\)\*](https://xxxxxxxxxttttttt.bandcamp.com/album/strata-act-joy-contemporary), 
+<!-- XTPT OTO // 3/2/26, type, project, venue/label !-->
+[PT & XT](https://www.cafeoto.co.uk/events/pat-thomas-xt-paul-abbott-and-seymour-wright/), 
+<!-- 30/1/2025, release, XT & Pat, We Jazz !--> 
+[Strata, Act \(Joy Contemporary\)\*](https://xxxxxxxxxttttttt.bandcamp.com/album/strata-act-joy-contemporary), 
 <!-- FUTURE ABOVE HERE !--> (...), 
-<!-- date, type, project, venue/label --> [SLIP](https://paul-abbott.bandcamp.com/album/slip), 
-<!-- date, type, project, venue/label --> [OWLLL](https://www.cafeoto.co.uk/events/alan-licht-solo/),
-<!-- date, type, project, venue/label --> [X Ray Hex Tet](https://gulbenkian.pt/jazzemagosto/agenda/x-ray-hex-tet/),
+<!-- date, type, project, venue/label --> 
+[SLIP](https://paul-abbott.bandcamp.com/album/slip), 
+<!-- date, type, project, venue/label --> 
+[OWLLL](https://www.cafeoto.co.uk/events/alan-licht-solo/),
+<!-- date, type, project, venue/label --> 
+[X Ray Hex Tet](https://gulbenkian.pt/jazzemagosto/agenda/x-ray-hex-tet/),
 [UK/PA](https://www.instagram.com/avaloncafebermondsey/),
 [slip sign truck joke and twist an alter practice of ongoing undoing](https://www.gsmd.ac.uk/whats-on/researchworks-slip-sign-truck-joke-and-twist-an-alter-practice-of-ongoing-undoing),
 [Party Perfect](https://www.cafeoto.co.uk/events/party-perfect-two/),
@@ -46,6 +51,7 @@
 [Deorlaf Obrux](https://boomkat.com/products/deorlaf-obrux)<!-- otoroku!-->,
 [The Hide](https://lux.org.uk/work/the-hide/),
 [Deorlaf Z (version)](https://www.cafeoto.co.uk/shop/paul-abbott-deorlaf-z-version-for-xt-deorlaf-x-liv/),
+[Reading Room](https://www.cafeoto.co.uk/archive/2021/06/01/xt-deorlaf-x-reading-room/)
 [Deorlaf X](https://xxxxxxxxxttttttt.bandcamp.com/album/deorlaf-x),
 [Fugitive Equation](https://nathanielmackey.bandcamp.com/album/fugitive-equation),
 [Nsular](https://paul-abbott.bandcamp.com/album/nsular),

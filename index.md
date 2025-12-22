@@ -51,7 +51,8 @@
 [Deorlaf Obrux](https://boomkat.com/products/deorlaf-obrux)<!-- otoroku!-->,
 [The Hide](https://lux.org.uk/work/the-hide/),
 [Deorlaf Z (version)](https://www.cafeoto.co.uk/shop/paul-abbott-deorlaf-z-version-for-xt-deorlaf-x-liv/),
-[Reading Room](https://www.cafeoto.co.uk/archive/2021/06/01/xt-deorlaf-x-reading-room/)
+<!-- 2023, reading, XT, Cafe OTO -->
+[Reading Room](https://www.cafeoto.co.uk/archive/2021/06/01/xt-deorlaf-x-reading-room/),
 [Deorlaf X](https://xxxxxxxxxttttttt.bandcamp.com/album/deorlaf-x),
 [Fugitive Equation](https://nathanielmackey.bandcamp.com/album/fugitive-equation),
 [Nsular](https://paul-abbott.bandcamp.com/album/nsular),

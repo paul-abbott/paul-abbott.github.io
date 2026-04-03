@@ -4,9 +4,9 @@
 <!-- Strangeness Drums NYC !-->
 <!-- Pat Silvan Meakusma !-->
 [RP Boo & XT OTO](https://www.cafeoto.co.uk/events/rp-boo-residency-2026-1/), 
+<!-- FUTURE ABOVE HERE !--> (...), 
 [RP Boo & XT Vienna](https://www.tqw.at/en/events/angel-bat-dawid-rp-boo-xt), 
 [Art Of Resonance KASK](https://schoolofartsgent.be/en/agenda/paul-abbott), 
-<!-- FUTURE ABOVE HERE !--> (...), 
 [PT & XT OTO](https://www.cafeoto.co.uk/events/pat-thomas-xt-paul-abbott-and-seymour-wright/), 
 <!-- 30/1/2025, release, XT & Pat, We Jazz !--> 
 [Strata, Act \(Joy Contemporary\)\*](https://xxxxxxxxxttttttt.bandcamp.com/album/strata-act-joy-contemporary), 

@@ -95,4 +95,4 @@
 [anTrgor rEiz](https://freemusicarchive.org/music/Paul_Abbott/anTrgor_rEiz), 
 <!-- CONTACT/LINKS AFTER HERE !--> (...), 
 contact[at]paulabbott.net. 
-[BC](https://paul-abbott.bandcamp.com/)
+[Bandcamp.](https://paul-abbott.bandcamp.com/)

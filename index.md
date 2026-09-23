@@ -2,8 +2,8 @@
 <!-- NEW ACTIVITY >> date, type, project, venue/label • [next project title](URL) !-->
 <!-- ••• !-->
 <!-- Strangeness Drums NYC !-->
-[The Strangeness Of Drumming](https://empac.rpi.edu/events/2026/topos/strangeness-drumming), 
 <!-- FUTURE ABOVE HERE !--> (...), 
+[The Strangeness Of Drumming](https://empac.rpi.edu/events/2026/topos/strangeness-drumming), 
 [RP Boo & XT OTO](https://www.cafeoto.co.uk/events/rp-boo-residency-2026-1/), 
 [RP Boo & XT Vienna](https://www.tqw.at/en/events/angel-bat-dawid-rp-boo-xt), 
 [Art Of Resonance KASK](https://schoolofartsgent.be/en/agenda/paul-abbott), 

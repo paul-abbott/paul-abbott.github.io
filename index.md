@@ -11,7 +11,7 @@
 [PT & XT OTO](https://www.cafeoto.co.uk/events/pat-thomas-xt-paul-abbott-and-seymour-wright/), 
 <!-- 30/1/2025, release, XT & Pat, We Jazz !--> 
 [Strata, Act \(Joy Contemporary\)\*](https://xxxxxxxxxttttttt.bandcamp.com/album/strata-act-joy-contemporary), 
-<!-- date, type, project, venue/label --> 
+[Discipline](https://www.miumiu.com/gb/en/miumiu-club/womens-tales/womens-tales-31.html), 
 [SLIP](https://paul-abbott.bandcamp.com/album/slip), 
 <!-- date, type, project, venue/label --> 
 [OWLLL](https://www.cafeoto.co.uk/events/alan-licht-solo/),
@@ -94,6 +94,10 @@
 [Cesura//Acceso Issue 1](),
 [Gjērhan](https://llln.bandcamp.com/album/gj-rhan),
 [anTrgor rEiz](https://freemusicarchive.org/music/Paul_Abbott/anTrgor_rEiz), 
+<!-- missing stuff !-->
+<!-- Danny !-->
+<!-- ANTIKNOW -->
+
 <!-- CONTACT/LINKS AFTER HERE !--> (...), 
 contact[at]paulabbott.net. 
 [Bandcamp.](https://paul-abbott.bandcamp.com/)

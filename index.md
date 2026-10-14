@@ -1,7 +1,8 @@
   
 <!-- NEW ACTIVITY >> date, type, project, venue/label • [next project title](URL) !-->
 <!-- ••• !-->
-<!-- Strangeness Drums NYC !-->
+[Braze_____Braise (for N)](https://www.cafeoto.co.uk/events/the87press-present-mushaira-nov-26/) ,
+[Feedback Moves](https://www.cafeoto.co.uk/events/feedback-moves-xcrswx-niloofar-asghary-conal-blake/), 
 <!-- FUTURE ABOVE HERE !--> (...), 
 [The Strangeness Of Drumming](https://empac.rpi.edu/events/2026/topos/strangeness-drumming), 
 [Pier](https://keiragreene.com/film-index/pier), 

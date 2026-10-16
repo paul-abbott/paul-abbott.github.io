@@ -1,6 +1,7 @@
   
 <!-- NEW ACTIVITY >> date, type, project, venue/label • [next project title](URL) !-->
-<!-- ••• !-->
+<!-- [Pat Thomas Duo](https://www.cafeoto.co.uk/events/XXXX) ,!-->
+<!-- UNCONFIRMED ABOVE HERE -------------------------------------------------------------------------------- !-->
 [Braze_____Braise (for N)](https://www.cafeoto.co.uk/events/the87press-present-mushaira-nov-26/) ,
 [Feedback Moves](https://www.cafeoto.co.uk/events/feedback-moves-xcrswx-niloofar-asghary-conal-blake/), 
 <!-- FUTURE ABOVE HERE !--> (...), 
@@ -8,7 +9,7 @@
 [Pier](https://keiragreene.com/film-index/pier), 
 [RP Boo & XT OTO](https://www.cafeoto.co.uk/events/rp-boo-residency-2026-1/), 
 [RP Boo & XT Vienna](https://www.tqw.at/en/events/angel-bat-dawid-rp-boo-xt), 
-[Art Of Resonance KASK](https://schoolofartsgent.be/en/agenda/paul-abbott), 
+[Art Of Resonance KASK](https://soundcloud.com/schoolofartsgent/luistersessie-paul-abbott), 
 [PT & XT OTO](https://www.cafeoto.co.uk/events/pat-thomas-xt-paul-abbott-and-seymour-wright/), 
 <!-- 30/1/2025, release, XT & Pat, We Jazz !--> 
 [Strata, Act \(Joy Contemporary\)\*](https://xxxxxxxxxttttttt.bandcamp.com/album/strata-act-joy-contemporary), 

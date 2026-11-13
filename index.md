@@ -1,10 +1,12 @@
   
 <!-- NEW ACTIVITY >> date, type, project, venue/label • [next project title](URL) !-->
+<!-- [Rhodri Duo](https://www.cafeoto.co.uk/events/XXXX) ,!-->
 <!-- [Pat Thomas Duo](https://www.cafeoto.co.uk/events/XXXX) ,!-->
+<!-- [RP Boo & XT Iv & Default](#),  !-->
 <!-- UNCONFIRMED ABOVE HERE -------------------------------------------------------------------------------- !-->
 [Braze_____Braise (for N)](https://www.cafeoto.co.uk/events/the87press-present-mushaira-nov-26/) ,
-[Feedback Moves](https://www.cafeoto.co.uk/events/feedback-moves-xcrswx-niloofar-asghary-conal-blake/), 
 <!-- FUTURE ABOVE HERE !--> (...), 
+[Feedback Moves](https://www.cafeoto.co.uk/events/feedback-moves-xcrswx-niloofar-asghary-conal-blake/), 
 [The Strangeness Of Drumming](https://empac.rpi.edu/events/2026/topos/strangeness-drumming), 
 [Pier](https://keiragreene.com/film-index/pier), 
 [RP Boo & XT OTO](https://www.cafeoto.co.uk/events/rp-boo-residency-2026-1/), 

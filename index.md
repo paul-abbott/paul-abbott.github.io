@@ -1,7 +1,9 @@
   
 <!-- NEW ACTIVITY >> date, type, project, venue/label • [next project title](URL) !-->
-<!-- [Rhodri Duo](https://www.cafeoto.co.uk/events/XXXX) ,!-->
+
 <!-- [Pat Thomas Duo](https://www.cafeoto.co.uk/events/XXXX) ,!-->
+<!-- [Rhodri Duo](https://www.cafeoto.co.uk/events/XXXX) ,!-->
+<!-- [The Strangeness Of Drumming]( OXO #), --!>
 <!-- [RP Boo & XT Iv & Default](#),  !-->
 <!-- UNCONFIRMED ABOVE HERE -------------------------------------------------------------------------------- !-->
 [Braze_____Braise (for N)](https://www.cafeoto.co.uk/events/the87press-present-mushaira-nov-26/) ,
